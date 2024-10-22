@@ -5,3 +5,4 @@ Ejercicios prácticos para la asignatura [Fundamentos de Informática del Grado 
 
 ## Referencias
 - https://ansperformance.eu/csv/
+- https://ellibrodepython.com
