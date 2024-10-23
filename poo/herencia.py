@@ -47,10 +47,10 @@ perro1.descripcion()
 
 
 mi_perro = Perro('mamífero','blanco', 13)
-mi_vaca = Caballo('mamífero', 'marrón', 10)
+mi_caballo = Caballo('mamífero', 'marrón', 10)
 mi_abeja = Abeja('insecto', 'amarillo', 2)
 mi_perro.reproducirSonido()
-mi_vaca.reproducirSonido()
-mi_vaca.descripcion()
+mi_caballo.reproducirSonido()
+mi_caballo.descripcion()
 mi_abeja.descripcion()
 mi_abeja.picar()
