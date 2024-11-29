@@ -1,0 +1,1000 @@
+num_expediente;fecha;hora;localizacion;numero;cod_distrito;distrito;tipo_accidente;estado_meteorológico;tipo_vehiculo;tipo_persona;rango_edad;sexo;cod_lesividad;lesividad;coordenada_x_utm;coordenada_y_utm;positiva_alcohol;positiva_droga
+2023S040280;04/01/2024;14:09:00;AVDA. NICETO ALCALA ZAMORA / AUTOV. M-11;3;16;HORTALEZA;Colisión fronto-lateral;Lluvia débil;Motocicleta > 125cc;Conductor;De 55 a 59 años;Hombre;2;Ingreso inferior o igual a 24 horas;444913;4481427;N;NULL
+2023S040280;04/01/2024;14:09:00;AVDA. NICETO ALCALA ZAMORA / AUTOV. M-11;3;16;HORTALEZA;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 55 a 59 años;Mujer;14;Sin asistencia sanitaria;444913;4481427;N;NULL
+2023S040309;15/02/2024;14:05:00;CALL. TESORO / CALL. MINAS;18;1;CENTRO;Colisión fronto-lateral;Lluvia débil;Bicicleta;Conductor;De 25 a 29 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440123;4475170;N;NULL
+2023S040309;15/02/2024;14:05:00;CALL. TESORO / CALL. MINAS;18;1;CENTRO;Colisión fronto-lateral;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;440123;4475170;N;NULL
+2023S040310;18/02/2024;10:40:00;GTA. RUIZ JIMENEZ / CALL. SAN BERNARDO;3;7;CHAMBERÍ;Colisión lateral;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;440137;4475721;N;NULL
+2023S040310;18/02/2024;10:40:00;GTA. RUIZ JIMENEZ / CALL. SAN BERNARDO;3;7;CHAMBERÍ;Colisión lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;440137;4475721;N;NULL
+2023S040312;25/02/2024;17:20:00;CALL. PINOS ALTA, 93;93;6;TETUÁN;Colisión lateral;Despejado;Camión rígido;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;440709;4480102;N;NULL
+2023S040312;25/02/2024;17:20:00;CALL. PINOS ALTA, 93;93;6;TETUÁN;Colisión lateral;Despejado;Maquinaria de obras;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;440709;4480102;N;NULL
+2023S040316;07/03/2024;14:25:00;CTRA. BARRIO DE LA FORTUNA / CALL. PINAR DE SAN JOSE;14;10;LATINA;Alcance;Lluvia débil;Furgoneta;Conductor;De 60 a 64 años;Hombre;NULL;NULL;433983;4468473;N;NULL
+2023S040316;07/03/2024;14:25:00;CTRA. BARRIO DE LA FORTUNA / CALL. PINAR DE SAN JOSE;14;10;LATINA;Alcance;Lluvia débil;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;433983;4468473;N;NULL
+2023S040319;27/03/2024;8:10:00;CTRA. CIUDAD UNIVERSITARIA, 0;0;9;MONCLOA-ARAVACA;Choque contra obstáculo fijo;NULL;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;437064;4478229;N;NULL
+2024S000001;01/01/2024;1:20:00;AUTOV. M-30, 08NL00;08NL00;3;RETIRO;Colisión múltiple;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;443927;4473998;N;NULL
+2024S000001;01/01/2024;1:20:00;AUTOV. M-30, 08NL00;08NL00;3;RETIRO;Colisión múltiple;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;443927;4473998;N;NULL
+2024S000001;01/01/2024;1:20:00;AUTOV. M-30, 08NL00;08NL00;3;RETIRO;Colisión múltiple;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;443927;4473998;N;NULL
+2024S000001;01/01/2024;1:20:00;AUTOV. M-30, 08NL00;08NL00;3;RETIRO;Colisión múltiple;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;443927;4473998;N;NULL
+2024S000001;01/01/2024;1:20:00;AUTOV. M-30, 08NL00;08NL00;3;RETIRO;Colisión múltiple;Despejado;Turismo;Pasajero;De 18 a 20 años;Mujer;1;Atención en urgencias sin posterior ingreso;443927;4473998;N;NULL
+2024S000001;01/01/2024;1:20:00;AUTOV. M-30, 08NL00;08NL00;3;RETIRO;Colisión múltiple;Despejado;Turismo;Pasajero;De 25 a 29 años;Mujer;14;Sin asistencia sanitaria;443927;4473998;N;NULL
+2024S000001;01/01/2024;1:20:00;AUTOV. M-30, 08NL00;08NL00;3;RETIRO;Colisión múltiple;Despejado;Turismo;Pasajero;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;443927;4473998;N;NULL
+2024S000001;01/01/2024;1:20:00;AUTOV. M-30, 08NL00;08NL00;3;RETIRO;Colisión múltiple;Despejado;Turismo;Pasajero;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;443927;4473998;N;NULL
+2024S000001;01/01/2024;1:20:00;AUTOV. M-30, 08NL00;08NL00;3;RETIRO;Colisión múltiple;Despejado;Turismo;Pasajero;De 55 a 59 años;Mujer;14;Sin asistencia sanitaria;443927;4473998;N;NULL
+2024S000002;01/01/2024;2:45:00;CALL. PUERTO ALTO, 48;48;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;443249;4471571;S;NULL
+2024S000002;01/01/2024;2:45:00;CALL. PUERTO ALTO, 48;48;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;443249;4471571;N;NULL
+2024S000002;01/01/2024;2:45:00;CALL. PUERTO ALTO, 48;48;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;443249;4471571;N;NULL
+2024S000002;01/01/2024;2:45:00;CALL. PUERTO ALTO, 48;48;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;443249;4471571;N;NULL
+2024S000002;01/01/2024;2:45:00;CALL. PUERTO ALTO, 48;48;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;443249;4471571;N;NULL
+2024S000004;01/01/2024;2:00:00;AVDA. DOCTOR GARCIA TAPIA, 64;64;14;MORATALAZ;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 18 a 20 años;Mujer;NULL;NULL;444513;4473729;N;NULL
+2024S000004;01/01/2024;2:00:00;AVDA. DOCTOR GARCIA TAPIA, 64;64;14;MORATALAZ;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;NULL;NULL;444513;4473729;N;NULL
+2024S000005;01/01/2024;2:45:00;AVDA. POBLADOS, 80;80;11;CARABANCHEL;Colisión frontal;Despejado;Turismo;Conductor;De 50 a 54 años;Mujer;14;Sin asistencia sanitaria;436809;4469484;S;NULL
+2024S000005;01/01/2024;2:45:00;AVDA. POBLADOS, 80;80;11;CARABANCHEL;Colisión frontal;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;436809;4469484;N;NULL
+2024S000005;01/01/2024;2:45:00;AVDA. POBLADOS, 80;80;11;CARABANCHEL;Colisión frontal;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;436809;4469484;N;NULL
+2024S000010;01/01/2024;7:20:00;CALL. LUNA / CALL. CORREDERA BAJA DE SAN PABLO;1;1;CENTRO;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;440193;4474773;N;NULL
+2024S000010;01/01/2024;7:20:00;CALL. LUNA / CALL. CORREDERA BAJA DE SAN PABLO;1;1;CENTRO;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;440193;4474773;N;NULL
+2024S000012;01/01/2024;8:05:00;CALL. MARIA ODIAGA, 20;20;11;CARABANCHEL;Colisión lateral;NULL;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;437002;4470046;N;NULL
+2024S000012;01/01/2024;8:05:00;CALL. MARIA ODIAGA, 20;20;11;CARABANCHEL;Colisión lateral;NULL;Turismo;Conductor;De 30 a 34 años;Mujer;NULL;NULL;437002;4470046;N;NULL
+2024S000013;01/01/2024;7:35:00;CALL. CONDE DE PEÑALVER / CALL. PADILLA;64;4;SALAMANCA;Atropello a persona;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;442700;4475970;N;NULL
+2024S000013;01/01/2024;7:35:00;CALL. CONDE DE PEÑALVER / CALL. PADILLA;64;4;SALAMANCA;Atropello a persona;Despejado;Turismo;Peatón;De 18 a 20 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;442700;4475970;N;NULL
+2024S000015;01/01/2024;7:35:00;PASEO. CASTELLANA, 33;33;7;CHAMBERÍ;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;441549;4475931;N;NULL
+2024S000015;01/01/2024;7:35:00;PASEO. CASTELLANA, 33;33;7;CHAMBERÍ;Choque contra obstáculo fijo;Despejado;VMU eléctrico;Conductor;De 18 a 20 años;Hombre;14;Sin asistencia sanitaria;441549;4475931;S;NULL
+2024S000018;01/01/2024;7:40:00;CALL. SANCHEZ PRECIADO, 41;41;9;MONCLOA-ARAVACA;Colisión múltiple;Nublado;Furgoneta;Conductor;Desconocido;Desconocido;NULL;NULL;439703;4479106;N;NULL
+2024S000018;01/01/2024;7:40:00;CALL. SANCHEZ PRECIADO, 41;41;9;MONCLOA-ARAVACA;Colisión múltiple;Nublado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439703;4479106;N;NULL
+2024S000018;01/01/2024;7:40:00;CALL. SANCHEZ PRECIADO, 41;41;9;MONCLOA-ARAVACA;Colisión múltiple;Nublado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439703;4479106;N;NULL
+2024S000018;01/01/2024;7:40:00;CALL. SANCHEZ PRECIADO, 41;41;9;MONCLOA-ARAVACA;Colisión múltiple;Nublado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439703;4479106;N;NULL
+2024S000022;01/01/2024;12:25:00;CALL. SERRANO, 203;203;5;CHAMARTÍN;Choque contra obstáculo fijo;Despejado;Motocicleta > 125cc;Conductor;De 30 a 34 años;Hombre;NULL;NULL;442268;4478258;N;NULL
+2024S000022;01/01/2024;12:25:00;CALL. SERRANO, 203;203;5;CHAMARTÍN;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;442268;4478258;N;NULL
+2024S000025;01/01/2024;15:45:00;CALL. GENERAL RICARDOS / CALL. PARRA;159;11;CARABANCHEL;Alcance;Despejado;Autobús;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;437822;4471073;N;NULL
+2024S000025;01/01/2024;15:45:00;CALL. GENERAL RICARDOS / CALL. PARRA;159;11;CARABANCHEL;Alcance;Despejado;Motocicleta hasta 125cc;Conductor;De 35 a 39 años;Mujer;14;Sin asistencia sanitaria;437822;4471073;N;NULL
+2024S000027;01/01/2024;16:30:00;CALL. ALEJANDRO MORAN / CALL. GENERAL RICARDOS;2;11;CARABANCHEL;Colisión fronto-lateral;Despejado;Bicicleta EPAC (pedaleo asistido);Conductor;De 25 a 29 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;437732;4470986;N;NULL
+2024S000027;01/01/2024;16:30:00;CALL. ALEJANDRO MORAN / CALL. GENERAL RICARDOS;2;11;CARABANCHEL;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;437732;4470986;N;NULL
+2024S000028;01/01/2024;16:30:00;CALL. AURORA IGLESIAS, 11;11;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;443496;4472305;S;NULL
+2024S000029;01/01/2024;16:35:00;CMNO. VIEJO DE VICALVARO / AUTOV. M-40;7;19;VICÁLVARO;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;447084;4472972;N;NULL
+2024S000029;01/01/2024;16:35:00;CMNO. VIEJO DE VICALVARO / AUTOV. M-40;7;19;VICÁLVARO;Alcance;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;447084;4472972;N;NULL
+2024S000032;01/01/2024;18:20:00;PASEO. DELICIAS / CALL. VIZCAYA;28;2;ARGANZUELA;Colisión fronto-lateral;Se desconoce;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;441147;4472907;N;NULL
+2024S000032;01/01/2024;18:20:00;PASEO. DELICIAS / CALL. VIZCAYA;28;2;ARGANZUELA;Colisión fronto-lateral;Se desconoce;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;441147;4472907;N;NULL
+2024S000032;01/01/2024;18:20:00;PASEO. DELICIAS / CALL. VIZCAYA;28;2;ARGANZUELA;Colisión fronto-lateral;Se desconoce;Turismo;Pasajero;De 15 a 17 años;Mujer;14;Sin asistencia sanitaria;441147;4472907;N;NULL
+2024S000032;01/01/2024;18:20:00;PASEO. DELICIAS / CALL. VIZCAYA;28;2;ARGANZUELA;Colisión fronto-lateral;Se desconoce;Turismo;Pasajero;De 25 a 29 años;Mujer;14;Sin asistencia sanitaria;441147;4472907;N;NULL
+2024S000032;01/01/2024;18:20:00;PASEO. DELICIAS / CALL. VIZCAYA;28;2;ARGANZUELA;Colisión fronto-lateral;Se desconoce;Turismo;Pasajero;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;441147;4472907;N;NULL
+2024S000032;01/01/2024;18:20:00;PASEO. DELICIAS / CALL. VIZCAYA;28;2;ARGANZUELA;Colisión fronto-lateral;Se desconoce;Turismo;Pasajero;De 55 a 59 años;Mujer;14;Sin asistencia sanitaria;441147;4472907;N;NULL
+2024S000033;01/01/2024;15:15:00;CALL. ALMERIA, 8;8;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;443832;4475667;N;NULL
+2024S000033;01/01/2024;15:15:00;CALL. ALMERIA, 8;8;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;443832;4475667;N;NULL
+2024S000034;01/01/2024;19:30:00;CALL. ISAAC PERAL, 32;32;7;CHAMBERÍ;Colisión fronto-lateral;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439125;4476637;N;NULL
+2024S000034;01/01/2024;19:30:00;CALL. ISAAC PERAL, 32;32;7;CHAMBERÍ;Colisión fronto-lateral;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439125;4476637;N;NULL
+2024S000034;01/01/2024;19:30:00;CALL. ISAAC PERAL, 32;32;7;CHAMBERÍ;Colisión fronto-lateral;NULL;Turismo;Conductor;Más de 74 años;Mujer;NULL;NULL;439125;4476637;N;NULL
+2024S000035;01/01/2024;19:22:00;CALL. CONDESA VEGA DEL POZO / CALL. LAGO SANABRIA;2;19;VICÁLVARO;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;448375;4472779;S;NULL
+2024S000035;01/01/2024;19:22:00;CALL. CONDESA VEGA DEL POZO / CALL. LAGO SANABRIA;2;19;VICÁLVARO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;448375;4472779;N;NULL
+2024S000035;01/01/2024;19:22:00;CALL. CONDESA VEGA DEL POZO / CALL. LAGO SANABRIA;2;19;VICÁLVARO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;448375;4472779;N;NULL
+2024S000035;01/01/2024;19:22:00;CALL. CONDESA VEGA DEL POZO / CALL. LAGO SANABRIA;2;19;VICÁLVARO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;448375;4472779;N;NULL
+2024S000035;01/01/2024;19:22:00;CALL. CONDESA VEGA DEL POZO / CALL. LAGO SANABRIA;2;19;VICÁLVARO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;448375;4472779;N;NULL
+2024S000035;01/01/2024;19:22:00;CALL. CONDESA VEGA DEL POZO / CALL. LAGO SANABRIA;2;19;VICÁLVARO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;448375;4472779;N;NULL
+2024S000037;01/01/2024;20:00:00;CALL. LA CABRERA / CALL. CANDIDO MATEOS;2;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 65 a 69 años;Hombre;14;Sin asistencia sanitaria;439122;4480403;N;NULL
+2024S000037;01/01/2024;20:00:00;CALL. LA CABRERA / CALL. CANDIDO MATEOS;2;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 65 a 69 años;Mujer;14;Sin asistencia sanitaria;439122;4480403;N;NULL
+2024S000037;01/01/2024;20:00:00;CALL. LA CABRERA / CALL. CANDIDO MATEOS;2;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;VMU eléctrico;Conductor;De 15 a 17 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;439122;4480403;N;NULL
+2024S000038;01/01/2024;21:05:00;AVDA. PLANETARIO, 36;36;2;ARGANZUELA;Alcance;NULL;Furgoneta;Conductor;Desconocido;Desconocido;NULL;NULL;441697;4471196;N;NULL
+2024S000038;01/01/2024;21:05:00;AVDA. PLANETARIO, 36;36;2;ARGANZUELA;Alcance;NULL;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;441697;4471196;N;NULL
+2024S000039;01/01/2024;22:05:00;AVDA. MENENDEZ PELAYO, 20;20;3;RETIRO;Colisión lateral;Despejado;Furgoneta;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;442361;4473141;N;NULL
+2024S000039;01/01/2024;22:05:00;AVDA. MENENDEZ PELAYO, 20;20;3;RETIRO;Colisión lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 25 a 29 años;Hombre;2;Ingreso inferior o igual a 24 horas;442361;4473141;N;NULL
+2024S000041;01/01/2024;23:30:00;AVDA. LOS ROSALES / CALL. CORINDON;19;12;USERA;Alcance;Despejado;Motocicleta hasta 125cc;Conductor;De 40 a 44 años;Hombre;NULL;NULL;441385;4468726;N;NULL
+2024S000041;01/01/2024;23:30:00;AVDA. LOS ROSALES / CALL. CORINDON;19;12;USERA;Alcance;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;441385;4468726;N;NULL
+2024S000042;01/01/2024;22:55:00;CALL. MENDEZ ALVARO, 16;16;2;ARGANZUELA;Atropello a persona;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;441302;4473060;N;NULL
+2024S000042;01/01/2024;22:55:00;CALL. MENDEZ ALVARO, 16;16;2;ARGANZUELA;Atropello a persona;Despejado;Turismo;Peatón;De 21 a 24 años;Mujer;NULL;NULL;441302;4473060;N;NULL
+2024S000044;01/01/2024;23:35:00;CALL. JOSE ORTEGA Y GASSET, 98;98;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;NULL;Conductor;Desconocido;Desconocido;NULL;NULL;443065;4475662;N;NULL
+2024S000044;01/01/2024;23:35:00;CALL. JOSE ORTEGA Y GASSET, 98;98;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Todo terreno;Conductor;De 45 a 49 años;Mujer;NULL;NULL;443065;4475662;N;NULL
+2024S000045;02/01/2024;6:20:00;CALL. JOSE VASCONCELOS / CALL. MAURICIO LEGENDRE;2;5;CHAMARTÍN;Colisión lateral;Despejado;Camión rígido;Conductor;De 45 a 49 años;Hombre;NULL;NULL;441829;4480261;N;NULL
+2024S000045;02/01/2024;6:20:00;CALL. JOSE VASCONCELOS / CALL. MAURICIO LEGENDRE;2;5;CHAMARTÍN;Colisión lateral;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;441829;4480261;N;NULL
+2024S000053;02/01/2024;7:30:00;CALL. GONZALEZ DAVILA / CMNO. HORMIGUERAS;24;18;VILLA DE VALLECAS;Atropello a persona;Nublado;Camión rígido;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;445775;4469684;N;NULL
+2024S000053;02/01/2024;7:30:00;CALL. GONZALEZ DAVILA / CMNO. HORMIGUERAS;24;18;VILLA DE VALLECAS;Atropello a persona;Nublado;Camión rígido;Pasajero;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;445775;4469684;N;NULL
+2024S000053;02/01/2024;7:30:00;CALL. GONZALEZ DAVILA / CMNO. HORMIGUERAS;24;18;VILLA DE VALLECAS;Atropello a persona;Nublado;Camión rígido;Pasajero;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;445775;4469684;N;NULL
+2024S000053;02/01/2024;7:30:00;CALL. GONZALEZ DAVILA / CMNO. HORMIGUERAS;24;18;VILLA DE VALLECAS;Atropello a persona;Nublado;Camión rígido;Peatón;De 50 a 54 años;Mujer;3;Ingreso superior a 24 horas;445775;4469684;N;NULL
+2024S000054;01/01/2024;11:10:00;CALL. PAMPLONA, 15;15;6;TETUÁN;Colisión lateral;Despejado;Furgoneta;Conductor;Desconocido;Desconocido;NULL;NULL;440234;4478376;N;NULL
+2024S000054;01/01/2024;11:10:00;CALL. PAMPLONA, 15;15;6;TETUÁN;Colisión lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;440234;4478376;N;NULL
+2024S000055;02/01/2024;9:15:00;PASEO. IMPERIAL, 20;20;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Camión rígido;Conductor;De 65 a 69 años;Hombre;NULL;NULL;439147;4473245;N;NULL
+2024S000055;02/01/2024;9:15:00;PASEO. IMPERIAL, 20;20;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;NULL;NULL;439147;4473245;N;NULL
+2024S000056;02/01/2024;7:54:00;AEROP. TERMINAL T-4, LLEGADAS, LINEA DE TAXIS;0;21;BARAJAS;Atropello a persona;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;449849;4482596;N;NULL
+2024S000056;02/01/2024;7:54:00;AEROP. TERMINAL T-4, LLEGADAS, LINEA DE TAXIS;0;21;BARAJAS;Atropello a persona;Despejado;Turismo;Peatón;De 60 a 64 años;Hombre;1;Atención en urgencias sin posterior ingreso;449849;4482596;N;NULL
+2024S000057;02/01/2024;9:20:00;PASEO. EXTREMADURA, 302;302;10;LATINA;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 21 a 24 años;Mujer;2;Ingreso inferior o igual a 24 horas;435234;4472480;N;NULL
+2024S000057;02/01/2024;9:20:00;PASEO. EXTREMADURA, 302;302;10;LATINA;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;435234;4472480;S;NULL
+2024S000058;02/01/2024;9:45:00;GTA. LOZARES / AVDA. REAL DE PINTO;0;17;VILLAVERDE;Caída;Despejado;Bicicleta;Conductor;De 70 a 74 años;Hombre;2;Ingreso inferior o igual a 24 horas;439897;4465733;N;NULL
+2024S000061;02/01/2024;9:07:00;AVDA. CARDENAL HERRERA ORIA / AUTOV. M-607;83;8;FUENCARRAL-EL PARDO;Choque contra obstáculo fijo;NULL;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;440793;4482315;N;NULL
+2024S000062;02/01/2024;11:20:00;AVDA. SUR DEL AEROPUERTO DE BARAJAS / CALL. TRESPADERNE;4;21;BARAJAS;Alcance;Despejado;Motocicleta > 125cc;Conductor;De 21 a 24 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;450731;4478204;N;NULL
+2024S000062;02/01/2024;11:20:00;AVDA. SUR DEL AEROPUERTO DE BARAJAS / CALL. TRESPADERNE;4;21;BARAJAS;Alcance;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;450731;4478204;N;NULL
+2024S000064;02/01/2024;10:30:00;CALL. CLAUDIO COELLO, 55;55;4;SALAMANCA;Colisión fronto-lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 65 a 69 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;441788;4475430;N;NULL
+2024S000064;02/01/2024;10:30:00;CALL. CLAUDIO COELLO, 55;55;4;SALAMANCA;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 70 a 74 años;Mujer;14;Sin asistencia sanitaria;441788;4475430;N;NULL
+2024S000064;02/01/2024;10:30:00;CALL. CLAUDIO COELLO, 55;55;4;SALAMANCA;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;441788;4475430;N;NULL
+2024S000065;02/01/2024;11:50:00;PASEO. VIRGEN DEL PUERTO, 4;4;1;CENTRO;Alcance;Despejado;Furgoneta;Conductor;De 50 a 54 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;438800;4473956;N;NULL
+2024S000065;02/01/2024;11:50:00;PASEO. VIRGEN DEL PUERTO, 4;4;1;CENTRO;Alcance;Despejado;Maquinaria de obras;Conductor;De 50 a 54 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;438800;4473956;N;NULL
+2024S000065;02/01/2024;11:50:00;PASEO. VIRGEN DEL PUERTO, 4;4;1;CENTRO;Alcance;Despejado;Maquinaria de obras;Pasajero;De 45 a 49 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;438800;4473956;N;NULL
+2024S000066;02/01/2024;12:25:00;CALL. ALCALA / AVDA. CANILLEJAS A VICALVARO;567;20;SAN BLAS-CANILLEJAS;Alcance;Nublado;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Hombre;2;Ingreso inferior o igual a 24 horas;447696;4477204;N;NULL
+2024S000066;02/01/2024;12:25:00;CALL. ALCALA / AVDA. CANILLEJAS A VICALVARO;567;20;SAN BLAS-CANILLEJAS;Alcance;Nublado;Motocicleta hasta 125cc;Conductor;De 60 a 64 años;Hombre;2;Ingreso inferior o igual a 24 horas;447696;4477204;N;NULL
+2024S000066;02/01/2024;12:25:00;CALL. ALCALA / AVDA. CANILLEJAS A VICALVARO;567;20;SAN BLAS-CANILLEJAS;Alcance;Nublado;Todo terreno;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;447696;4477204;N;NULL
+2024S000068;02/01/2024;13:30:00;CALL. CERRO DE LA ALCAZABA, 11;11;13;PUENTE DE VALLECAS;Colisión lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;442997;4470675;N;NULL
+2024S000068;02/01/2024;13:30:00;CALL. CERRO DE LA ALCAZABA, 11;11;13;PUENTE DE VALLECAS;Colisión lateral;Despejado;Turismo;Conductor;Más de 74 años;Hombre;NULL;NULL;442997;4470675;N;NULL
+2024S000070;01/01/2024;22:02:00;CALL. MARSELLA / CALL. ZURICH;29;20;SAN BLAS-CANILLEJAS;Colisión fronto-lateral;Despejado;Otros vehículos sin motor;Conductor;De 21 a 24 años;Mujer;1;Atención en urgencias sin posterior ingreso;448270;4474626;N;NULL
+2024S000070;01/01/2024;22:02:00;CALL. MARSELLA / CALL. ZURICH;29;20;SAN BLAS-CANILLEJAS;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;448270;4474626;N;NULL
+2024S000071;02/01/2024;16:15:00;CALL. SAN ANTOLIN, 1;1;11;CARABANCHEL;Colisión lateral;NULL;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;436451;4470141;N;NULL
+2024S000071;02/01/2024;16:15:00;CALL. SAN ANTOLIN, 1;1;11;CARABANCHEL;Colisión lateral;NULL;Turismo;Conductor;De 70 a 74 años;Hombre;NULL;NULL;436451;4470141;N;NULL
+2024S000075;02/01/2024;17:30:00;CALL. CONCEJAL FRANCISCO JOSE JIMENEZ MARTIN / CALL. CARAMUEL;4;10;LATINA;Caída;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 40 a 44 años;Hombre;2;Ingreso inferior o igual a 24 horas;438057;4472792;N;NULL
+2024S000076;02/01/2024;17:50:00;CALL. GENERAL RICARDOS / CALL. SAN PATRICIO;107;11;CARABANCHEL;Colisión fronto-lateral;Lluvia débil;Autobús articulado;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;438402;4471552;N;NULL
+2024S000076;02/01/2024;17:50:00;CALL. GENERAL RICARDOS / CALL. SAN PATRICIO;107;11;CARABANCHEL;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;438402;4471552;N;NULL
+2024S000076;02/01/2024;17:50:00;CALL. GENERAL RICARDOS / CALL. SAN PATRICIO;107;11;CARABANCHEL;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;438402;4471552;N;NULL
+2024S000076;02/01/2024;17:50:00;CALL. GENERAL RICARDOS / CALL. SAN PATRICIO;107;11;CARABANCHEL;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;438402;4471552;N;NULL
+2024S000079;02/01/2024;19:00:00;CALL. ACONCAGUA / CALL. NEVADO DEL CUMBAL;4;16;HORTALEZA;Alcance;Despejado;Turismo;Conductor;De 45 a 49 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;446482;4479976;N;NULL
+2024S000079;02/01/2024;19:00:00;CALL. ACONCAGUA / CALL. NEVADO DEL CUMBAL;4;16;HORTALEZA;Alcance;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;446482;4479976;N;NULL
+2024S000080;02/01/2024;18:25:00;AUTOV. M-30, CALZADA INTERIOR PK 11.000;11NC00;2;ARGANZUELA;Alcance;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;442532;4471491;N;NULL
+2024S000080;02/01/2024;18:25:00;AUTOV. M-30, CALZADA INTERIOR PK 11.000;11NC00;2;ARGANZUELA;Alcance;Despejado;Turismo;Conductor;De 65 a 69 años;Mujer;NULL;NULL;442532;4471491;N;NULL
+2024S000080;02/01/2024;18:25:00;AUTOV. M-30, CALZADA INTERIOR PK 11.000;11NC00;2;ARGANZUELA;Alcance;Despejado;Turismo;Pasajero;De 65 a 69 años;Hombre;NULL;NULL;442532;4471491;N;NULL
+2024S000081;02/01/2024;19:30:00;CALL. HORTALEZA, 96;96;1;CENTRO;Atropello a persona;Nublado;Bicicleta EPAC (pedaleo asistido);Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;440785;4475122;N;NULL
+2024S000081;02/01/2024;19:30:00;CALL. HORTALEZA, 96;96;1;CENTRO;Atropello a persona;Nublado;Bicicleta EPAC (pedaleo asistido);Peatón;De 65 a 69 años;Hombre;2;Ingreso inferior o igual a 24 horas;440785;4475122;N;NULL
+2024S000082;02/01/2024;19:20:00;CALL. EMBAJADORES, 181;181;2;ARGANZUELA;Caída;Nublado;Ciclomotor;Conductor;De 25 a 29 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;441193;4471426;N;NULL
+2024S000083;02/01/2024;19:40:00;AVDA. PESETA / CTRA. BARRIO DE LA FORTUNA;6;10;LATINA;Caída;Nublado;Ciclomotor;Conductor;De 30 a 34 años;Mujer;2;Ingreso inferior o igual a 24 horas;434980;4469063;N;NULL
+2024S000084;02/01/2024;20:57:00;CALL. EMILIA / CALL. MONTOYA;40;6;TETUÁN;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;441001;4480225;N;NULL
+2024S000084;02/01/2024;20:57:00;CALL. EMILIA / CALL. MONTOYA;40;6;TETUÁN;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;441001;4480225;N;NULL
+2024S000084;02/01/2024;20:57:00;CALL. EMILIA / CALL. MONTOYA;40;6;TETUÁN;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 55 a 59 años;Mujer;NULL;NULL;441001;4480225;N;NULL
+2024S000085;02/01/2024;19:30:00;PASEO. ALBERTO PALACIOS / CALL. ARENAS;35;17;VILLAVERDE;Atropello a persona;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;439467;4466286;N;NULL
+2024S000085;02/01/2024;19:30:00;PASEO. ALBERTO PALACIOS / CALL. ARENAS;35;17;VILLAVERDE;Atropello a persona;Despejado;Turismo;Peatón;De 70 a 74 años;Hombre;5;Asistencia sanitaria ambulatoria con posterioridad;439467;4466286;N;NULL
+2024S000087;02/01/2024;21:30:00;AVDA. CARABANCHEL ALTO, 61;61;11;CARABANCHEL;Caída;Nublado;Motocicleta > 125cc;Conductor;De 21 a 24 años;Hombre;NULL;NULL;435979;4468078;N;NULL
+2024S000089;02/01/2024;20:15:00;INCORPORACIÓN DE CONDE DE CASAL A M30 CALZADA EXTERIOR;08RT05;13;PUENTE DE VALLECAS;Alcance;Lluvia débil;Turismo;Conductor;De 35 a 39 años;Mujer;14;Sin asistencia sanitaria;443665;4473041;N;NULL
+2024S000089;02/01/2024;20:15:00;INCORPORACIÓN DE CONDE DE CASAL A M30 CALZADA EXTERIOR;08RT05;13;PUENTE DE VALLECAS;Alcance;Lluvia débil;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;443665;4473041;N;NULL
+2024S000089;02/01/2024;20:15:00;INCORPORACIÓN DE CONDE DE CASAL A M30 CALZADA EXTERIOR;08RT05;13;PUENTE DE VALLECAS;Alcance;Lluvia débil;Turismo;Pasajero;De 15 a 17 años;Mujer;NULL;NULL;443665;4473041;N;NULL
+2024S000089;02/01/2024;20:15:00;INCORPORACIÓN DE CONDE DE CASAL A M30 CALZADA EXTERIOR;08RT05;13;PUENTE DE VALLECAS;Alcance;Lluvia débil;Turismo;Pasajero;De 35 a 39 años;Mujer;NULL;NULL;443665;4473041;N;NULL
+2024S000089;02/01/2024;20:15:00;INCORPORACIÓN DE CONDE DE CASAL A M30 CALZADA EXTERIOR;08RT05;13;PUENTE DE VALLECAS;Alcance;Lluvia débil;Turismo;Pasajero;Menor de 5 años;Hombre;NULL;NULL;443665;4473041;N;NULL
+2024S000090;02/01/2024;20:16:00;AUTOV. M-30, 08RT05;08RT05;13;PUENTE DE VALLECAS;Solo salida de la vía;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 25 a 29 años;Hombre;NULL;NULL;443670;4473036;N;NULL
+2024S000091;02/01/2024;21:13:00;AVDA. DAROCA / CALL. NICOLAS SALMERON;105;15;CIUDAD LINEAL;Colisión lateral;Nublado;Motocicleta hasta 125cc;Conductor;De 21 a 24 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;446279;4474546;N;NULL
+2024S000091;02/01/2024;21:13:00;AVDA. DAROCA / CALL. NICOLAS SALMERON;105;15;CIUDAD LINEAL;Colisión lateral;Nublado;Turismo;Conductor;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;446279;4474546;N;NULL
+2024S000091;02/01/2024;21:13:00;AVDA. DAROCA / CALL. NICOLAS SALMERON;105;15;CIUDAD LINEAL;Colisión lateral;Nublado;Turismo;Pasajero;De 50 a 54 años;Mujer;14;Sin asistencia sanitaria;446279;4474546;N;NULL
+2024S000092;02/01/2024;20:25:00;AVDA. ALBUFERA / METRO. AVENIDA DE LA PAZ;1;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Conductor;De 21 a 24 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;443241;4472200;N;NULL
+2024S000092;02/01/2024;20:25:00;AVDA. ALBUFERA / METRO. AVENIDA DE LA PAZ;1;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;443241;4472200;N;NULL
+2024S000092;02/01/2024;20:25:00;AVDA. ALBUFERA / METRO. AVENIDA DE LA PAZ;1;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Pasajero;De 6 a 9 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;443241;4472200;N;NULL
+2024S000093;02/01/2024;22:00:00;CALL. PRINCIPAL, 18;18;17;VILLAVERDE;Colisión múltiple;NULL;Turismo;Conductor;De 25 a 29 años;Mujer;NULL;NULL;440560;4465071;N;NULL
+2024S000093;02/01/2024;22:00:00;CALL. PRINCIPAL, 18;18;17;VILLAVERDE;Colisión múltiple;NULL;Turismo;Conductor;De 35 a 39 años;Mujer;NULL;NULL;440560;4465071;N;NULL
+2024S000093;02/01/2024;22:00:00;CALL. PRINCIPAL, 18;18;17;VILLAVERDE;Colisión múltiple;NULL;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;440560;4465071;N;NULL
+2024S000094;02/01/2024;21:30:00;AUTOVIA A-3 PK 4,500 ( SENTIDO SALIDA DE MADRID );14;13;PUENTE DE VALLECAS;Alcance;Despejado;Motocicleta > 125cc;Conductor;De 30 a 34 años;Hombre;3;Ingreso superior a 24 horas;444632;4472730;N;NULL
+2024S000094;02/01/2024;21:30:00;AUTOVIA A-3 PK 4,500 ( SENTIDO SALIDA DE MADRID );14;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;444632;4472730;N;NULL
+2024S000094;02/01/2024;21:30:00;AUTOVIA A-3 PK 4,500 ( SENTIDO SALIDA DE MADRID );14;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Pasajero;De 70 a 74 años;Hombre;14;Sin asistencia sanitaria;444632;4472730;N;NULL
+2024S000094;02/01/2024;21:30:00;AUTOVIA A-3 PK 4,500 ( SENTIDO SALIDA DE MADRID );14;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Pasajero;De 70 a 74 años;Mujer;14;Sin asistencia sanitaria;444632;4472730;N;NULL
+2024S000096;03/01/2024;0:40:00;CALL. PRINCIPE DE VERGARA, 122;122;5;CHAMARTÍN;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;442451;4476956;N;NULL
+2024S000096;03/01/2024;0:40:00;CALL. PRINCIPE DE VERGARA, 122;122;5;CHAMARTÍN;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;442451;4476956;S;NULL
+2024S000097;02/01/2024;23:38:00;CALL. VIRGEN DE ARANZAZU, 16;16;8;FUENCARRAL-EL PARDO;Caída;Lluvia débil;Ciclomotor;Conductor;De 18 a 20 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;441532;4481947;N;NULL
+2024S000098;02/01/2024;23:25:00;BULEV. JOSE PRAT, 35;35;19;VICÁLVARO;Solo salida de la vía;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;447531;4471987;N;NULL
+2024S000098;02/01/2024;23:25:00;BULEV. JOSE PRAT, 35;35;19;VICÁLVARO;Solo salida de la vía;Despejado;Turismo;Pasajero;De 18 a 20 años;Hombre;NULL;NULL;447531;4471987;N;NULL
+2024S000100;03/01/2024;3:30:00;CALL. CRISTO DE LA VICTORIA / CALL. CRISTO DE LA VEGA;86;12;USERA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;440442;4470335;S;NULL
+2024S000101;03/01/2024;6:00:00;PASEO. CASTELLANA / PLAZA. CUZCO;141;6;TETUÁN;Choque contra obstáculo fijo;Lluvia débil;Turismo;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;441502;4478998;N;NULL
+2024S000101;03/01/2024;6:00:00;PASEO. CASTELLANA / PLAZA. CUZCO;141;6;TETUÁN;Choque contra obstáculo fijo;Lluvia débil;Turismo;Conductor;Desconocido;Hombre;14;Sin asistencia sanitaria;441502;4478998;N;NULL
+2024S000101;03/01/2024;6:00:00;PASEO. CASTELLANA / PLAZA. CUZCO;141;6;TETUÁN;Choque contra obstáculo fijo;Lluvia débil;Turismo;Pasajero;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;441502;4478998;N;NULL
+2024S000102;03/01/2024;6:15:00;CALL. CONVENIO / CALL. FRANCISCO LAGUNA;15;13;PUENTE DE VALLECAS;Atropello a persona;Despejado;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Mujer;2;Ingreso inferior o igual a 24 horas;442959;4471395;N;NULL
+2024S000102;03/01/2024;6:15:00;CALL. CONVENIO / CALL. FRANCISCO LAGUNA;15;13;PUENTE DE VALLECAS;Atropello a persona;Despejado;Motocicleta hasta 125cc;Peatón;De 55 a 59 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;442959;4471395;N;NULL
+2024S000103;03/01/2024;6:55:00;AVDA. REAL DE PINTO, 108;108;17;VILLAVERDE;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 60 a 64 años;Hombre;NULL;NULL;439712;4465531;N;NULL
+2024S000103;03/01/2024;6:55:00;AVDA. REAL DE PINTO, 108;108;17;VILLAVERDE;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 60 a 64 años;Hombre;NULL;NULL;439712;4465531;N;NULL
+2024S000104;03/01/2024;7:20:00;CALL. CRISTO DE LA VICTORIA, 104;104;12;USERA;Atropello a persona;Lluvia débil;Turismo;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;440208;4470165;N;NULL
+2024S000104;03/01/2024;7:20:00;CALL. CRISTO DE LA VICTORIA, 104;104;12;USERA;Atropello a persona;Lluvia débil;Turismo;Peatón;De 55 a 59 años;Mujer;3;Ingreso superior a 24 horas;440208;4470165;N;NULL
+2024S000106;03/01/2024;8:00:00;AUTOV. A-42, KM 3;+00500E;12;USERA;Colisión lateral;Lluvia débil;Camión rígido;Conductor;De 50 a 54 años;Mujer;14;Sin asistencia sanitaria;439950;4471495;N;NULL
+2024S000106;03/01/2024;8:00:00;AUTOV. A-42, KM 3;+00500E;12;USERA;Colisión lateral;Lluvia débil;Turismo;Conductor;De 45 a 49 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;439950;4471495;N;NULL
+2024S000107;03/01/2024;7:15:00;CALL. DOCTOR ESQUERDO / AVDA. NAZARET;123;3;RETIRO;Colisión fronto-lateral;LLuvia intensa;Sin especificar;Conductor;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;443174;4473636;N;NULL
+2024S000107;03/01/2024;7:15:00;CALL. DOCTOR ESQUERDO / AVDA. NAZARET;123;3;RETIRO;Colisión fronto-lateral;LLuvia intensa;Sin especificar;Pasajero;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;443174;4473636;N;NULL
+2024S000107;03/01/2024;7:15:00;CALL. DOCTOR ESQUERDO / AVDA. NAZARET;123;3;RETIRO;Colisión fronto-lateral;LLuvia intensa;Sin especificar;Pasajero;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;443174;4473636;N;NULL
+2024S000107;03/01/2024;7:15:00;CALL. DOCTOR ESQUERDO / AVDA. NAZARET;123;3;RETIRO;Colisión fronto-lateral;LLuvia intensa;Sin especificar;Pasajero;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;443174;4473636;N;NULL
+2024S000107;03/01/2024;7:15:00;CALL. DOCTOR ESQUERDO / AVDA. NAZARET;123;3;RETIRO;Colisión fronto-lateral;LLuvia intensa;Turismo;Conductor;De 55 a 59 años;Mujer;2;Ingreso inferior o igual a 24 horas;443174;4473636;N;NULL
+2024S000108;03/01/2024;8:30:00;CALL. BRAVO MURILLO, 154;154;6;TETUÁN;Alcance;LLuvia intensa;Bicicleta EPAC (pedaleo asistido);Conductor;De 35 a 39 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440364;4478099;N;NULL
+2024S000108;03/01/2024;8:30:00;CALL. BRAVO MURILLO, 154;154;6;TETUÁN;Alcance;LLuvia intensa;Todo terreno;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;440364;4478099;N;NULL
+2024S000109;03/01/2024;7:38:00;CALL. ALCAUDON / CALL. CABO NICOLAS MUR;54;11;CARABANCHEL;Colisión fronto-lateral;LLuvia intensa;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;437710;4471888;N;NULL
+2024S000109;03/01/2024;7:38:00;CALL. ALCAUDON / CALL. CABO NICOLAS MUR;54;11;CARABANCHEL;Colisión fronto-lateral;LLuvia intensa;Turismo;Conductor;De 35 a 39 años;Mujer;NULL;NULL;437710;4471888;N;NULL
+2024S000111;03/01/2024;8:55:00;AVDA. CIUDAD DE BARCELONA / AUTOV. M-30;113;3;RETIRO;Colisión fronto-lateral;Lluvia débil;Maquinaria de obras;Conductor;De 25 a 29 años;Hombre;NULL;NULL;443183;4472201;N;NULL
+2024S000111;03/01/2024;8:55:00;AVDA. CIUDAD DE BARCELONA / AUTOV. M-30;113;3;RETIRO;Colisión fronto-lateral;Lluvia débil;Otros vehículos con motor;Conductor;De 35 a 39 años;Hombre;NULL;NULL;443183;4472201;N;NULL
+2024S000112;03/01/2024;9:35:00;CALL. EDUARDO BARREIROS, 104;104;17;VILLAVERDE;Colisión múltiple;Lluvia débil;NULL;Conductor;Desconocido;Desconocido;NULL;NULL;440579;4468277;N;NULL
+2024S000112;03/01/2024;9:35:00;CALL. EDUARDO BARREIROS, 104;104;17;VILLAVERDE;Colisión múltiple;Lluvia débil;Furgoneta;Conductor;Desconocido;Desconocido;NULL;NULL;440579;4468277;N;NULL
+2024S000112;03/01/2024;9:35:00;CALL. EDUARDO BARREIROS, 104;104;17;VILLAVERDE;Colisión múltiple;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;440579;4468277;N;NULL
+2024S000115;03/01/2024;8:00:00;AVENIDA DE ANDALUCIA CON M-30;1;12;USERA;Choque contra obstáculo fijo;Lluvia débil;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;441341;4470249;N;NULL
+2024S000117;14/05/2024;12:15:00;CALL. ALCALA, 728;728;20;SAN BLAS-CANILLEJAS;Choque contra obstáculo fijo;NULL;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;449722;4477849;S;NULL
+2024S000118;18/06/2024;11:20:00;CALL. ALCALA / IDB. PUENTE DE VENTAS;235;4;SALAMANCA;Colisión fronto-lateral;Despejado;Motocicleta > 125cc;Conductor;De 50 a 54 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;443924;4475859;N;NULL
+2024S000118;18/06/2024;11:20:00;CALL. ALCALA / IDB. PUENTE DE VENTAS;235;4;SALAMANCA;Colisión fronto-lateral;Despejado;Motocicleta > 125cc;Pasajero;De 45 a 49 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;443924;4475859;N;NULL
+2024S000118;18/06/2024;11:20:00;CALL. ALCALA / IDB. PUENTE DE VENTAS;235;4;SALAMANCA;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 50 a 54 años;Mujer;14;Sin asistencia sanitaria;443924;4475859;S;NULL
+2024S000119;20/06/2024;12:30:00;CALL. ARTEMISA / Puente M-11;0;21;BARAJAS;Solo salida de la vía;Lluvia débil;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;450086;4479974;N;NULL
+2024S000119;20/06/2024;12:30:00;CALL. ARTEMISA / Puente M-11;0;21;BARAJAS;Solo salida de la vía;Lluvia débil;Turismo;Pasajero;De 18 a 20 años;Hombre;NULL;NULL;450086;4479974;N;NULL
+2024S000120;25/06/2024;12:35:00;CALL. FERNANDEZ DE LOS RIOS / CALL. ANDRES MELLADO;82;7;CHAMBERÍ;Alcance;Despejado;Camión rígido;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;439413;4476323;N;NULL
+2024S000120;25/06/2024;12:35:00;CALL. FERNANDEZ DE LOS RIOS / CALL. ANDRES MELLADO;82;7;CHAMBERÍ;Alcance;Despejado;Camión rígido;Pasajero;De 18 a 20 años;Mujer;1;Atención en urgencias sin posterior ingreso;439413;4476323;N;NULL
+2024S000120;25/06/2024;12:35:00;CALL. FERNANDEZ DE LOS RIOS / CALL. ANDRES MELLADO;82;7;CHAMBERÍ;Alcance;Despejado;Furgoneta;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;439413;4476323;S;NULL
+2024S000121;25/06/2024;17:52:00;AVDA. BETANZOS / CALL. CHANTADA;35;8;FUENCARRAL-EL PARDO;Colisión frontal;Despejado;Motocicleta hasta 125cc;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;439669;4480526;N;NULL
+2024S000121;25/06/2024;17:52:00;AVDA. BETANZOS / CALL. CHANTADA;35;8;FUENCARRAL-EL PARDO;Colisión frontal;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;439669;4480526;S;1
+2024S000121;25/06/2024;17:52:00;AVDA. BETANZOS / CALL. CHANTADA;35;8;FUENCARRAL-EL PARDO;Colisión frontal;Despejado;Turismo;Conductor;De 35 a 39 años;Mujer;14;Sin asistencia sanitaria;439669;4480526;N;NULL
+2024S000121;25/06/2024;17:52:00;AVDA. BETANZOS / CALL. CHANTADA;35;8;FUENCARRAL-EL PARDO;Colisión frontal;Despejado;Turismo;Pasajero;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;439669;4480526;N;NULL
+2024S000122;05/07/2024;17:30:00;CALL. ALCALA, 690A;690A;20;SAN BLAS-CANILLEJAS;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;448994;4477855;S;NULL
+2024S000123;05/07/2024;17:45:00;AUTOV. M-30, 14XL24;14XL24;12;USERA;Colisión múltiple;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;440426;4471576;N;NULL
+2024S000123;05/07/2024;17:45:00;AUTOV. M-30, 14XL24;14XL24;12;USERA;Colisión múltiple;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;440426;4471576;N;NULL
+2024S000123;05/07/2024;17:45:00;AUTOV. M-30, 14XL24;14XL24;12;USERA;Colisión múltiple;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;440426;4471576;S;NULL
+2024S000123;05/07/2024;17:45:00;AUTOV. M-30, 14XL24;14XL24;12;USERA;Colisión múltiple;Despejado;Turismo;Pasajero;De 25 a 29 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440426;4471576;N;NULL
+2024S000123;05/07/2024;17:45:00;AUTOV. M-30, 14XL24;14XL24;12;USERA;Colisión múltiple;Despejado;Turismo;Pasajero;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;440426;4471576;N;NULL
+2024S000123;05/07/2024;17:45:00;AUTOV. M-30, 14XL24;14XL24;12;USERA;Colisión múltiple;Despejado;Turismo;Pasajero;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;440426;4471576;N;NULL
+2024S000123;05/07/2024;17:45:00;AUTOV. M-30, 14XL24;14XL24;12;USERA;Colisión múltiple;Despejado;Turismo;Pasajero;De 25 a 29 años;Mujer;14;Sin asistencia sanitaria;440426;4471576;N;NULL
+2024S000124;18/07/2024;3:10:00;CALL. ARTURO SORIA, 200;200;15;CIUDAD LINEAL;Caída;Despejado;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;444071;4478932;S;NULL
+2024S000125;18/07/2024;3:45:00;CALL. VIRGEN DE LAS CRUCES / CALL. SAN MAXIMO;4;12;USERA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;441206;4469997;S;NULL
+2024S000125;18/07/2024;3:45:00;CALL. VIRGEN DE LAS CRUCES / CALL. SAN MAXIMO;4;12;USERA;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 21 a 24 años;Hombre;1;Atención en urgencias sin posterior ingreso;441206;4469997;N;NULL
+2024S000125;18/07/2024;3:45:00;CALL. VIRGEN DE LAS CRUCES / CALL. SAN MAXIMO;4;12;USERA;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 21 a 24 años;Mujer;1;Atención en urgencias sin posterior ingreso;441206;4469997;N;NULL
+2024S000125;18/07/2024;3:45:00;CALL. VIRGEN DE LAS CRUCES / CALL. SAN MAXIMO;4;12;USERA;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 21 a 24 años;Mujer;1;Atención en urgencias sin posterior ingreso;441206;4469997;N;NULL
+2024S000125;18/07/2024;3:45:00;CALL. VIRGEN DE LAS CRUCES / CALL. SAN MAXIMO;4;12;USERA;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 21 a 24 años;Mujer;1;Atención en urgencias sin posterior ingreso;441206;4469997;N;NULL
+2024S000126;22/08/2024;1:13:00;CALL. SAN CLAUDIO, 148;148;13;PUENTE DE VALLECAS;Colisión lateral;NULL;Turismo;Conductor;De 60 a 64 años;Hombre;NULL;NULL;445658;4471158;S;NULL
+2024S000126;22/08/2024;1:13:00;CALL. SAN CLAUDIO, 148;148;13;PUENTE DE VALLECAS;Colisión lateral;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;445658;4471158;N;NULL
+2024S000126;22/08/2024;1:13:00;CALL. SAN CLAUDIO, 148;148;13;PUENTE DE VALLECAS;Colisión lateral;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;445658;4471158;N;NULL
+2024S000126;22/08/2024;1:13:00;CALL. SAN CLAUDIO, 148;148;13;PUENTE DE VALLECAS;Colisión lateral;NULL;Turismo;Pasajero;De 60 a 64 años;Mujer;NULL;NULL;445658;4471158;N;NULL
+2024S000127;17/10/2024;1:05:00;CALL. VILLAR DEL POZO / CALL. MUELA DE SAN JUAN;1;18;VILLA DE VALLECAS;Colisión fronto-lateral;LLuvia intensa;Motocicleta hasta 125cc;Conductor;De 45 a 49 años;Hombre;3;Ingreso superior a 24 horas;447640;4469154;N;NULL
+2024S000127;17/10/2024;1:05:00;CALL. VILLAR DEL POZO / CALL. MUELA DE SAN JUAN;1;18;VILLA DE VALLECAS;Colisión fronto-lateral;LLuvia intensa;Turismo;Conductor;De 18 a 20 años;Hombre;14;Sin asistencia sanitaria;447640;4469154;N;1
+2024S000127;17/10/2024;1:05:00;CALL. VILLAR DEL POZO / CALL. MUELA DE SAN JUAN;1;18;VILLA DE VALLECAS;Colisión fronto-lateral;LLuvia intensa;Turismo;Pasajero;De 18 a 20 años;Hombre;14;Sin asistencia sanitaria;447640;4469154;N;NULL
+2024S000127;17/10/2024;1:05:00;CALL. VILLAR DEL POZO / CALL. MUELA DE SAN JUAN;1;18;VILLA DE VALLECAS;Colisión fronto-lateral;LLuvia intensa;Turismo;Pasajero;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;447640;4469154;N;NULL
+2024S000128;17/10/2024;1:49:00;CALL. VIA CARPETANA, 67;67;11;CARABANCHEL;Colisión fronto-lateral;LLuvia intensa;Motocicleta hasta 125cc;Conductor;De 35 a 39 años;Hombre;3;Ingreso superior a 24 horas;437920;4472518;S;NULL
+2024S000128;17/10/2024;1:49:00;CALL. VIA CARPETANA, 67;67;11;CARABANCHEL;Colisión fronto-lateral;LLuvia intensa;Turismo;Conductor;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;437920;4472518;N;NULL
+2024S000128;17/10/2024;1:49:00;CALL. VIA CARPETANA, 67;67;11;CARABANCHEL;Colisión fronto-lateral;LLuvia intensa;Turismo;Pasajero;De 25 a 29 años;Mujer;14;Sin asistencia sanitaria;437920;4472518;N;NULL
+2024S000128;17/10/2024;1:49:00;CALL. VIA CARPETANA, 67;67;11;CARABANCHEL;Colisión fronto-lateral;LLuvia intensa;Turismo;Pasajero;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;437920;4472518;N;NULL
+2024S000128;17/10/2024;1:49:00;CALL. VIA CARPETANA, 67;67;11;CARABANCHEL;Colisión fronto-lateral;LLuvia intensa;Turismo;Pasajero;De 35 a 39 años;Mujer;14;Sin asistencia sanitaria;437920;4472518;N;NULL
+2024S000168;03/01/2024;11:30:00;PASEO. EXTREMADURA, 21;21;10;LATINA;Caída;Lluvia débil;Bicicleta;Conductor;De 25 a 29 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;438247;4473924;N;NULL
+2024S000171;03/01/2024;12:25:00;AUTOV. M-30, 02NC20;02NC20;5;CHAMARTÍN;Colisión lateral;NULL;Furgoneta;Conductor;De 25 a 29 años;Hombre;NULL;NULL;443371;4479655;N;NULL
+2024S000171;03/01/2024;12:25:00;AUTOV. M-30, 02NC20;02NC20;5;CHAMARTÍN;Colisión lateral;NULL;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;443371;4479655;N;NULL
+2024S000172;03/01/2024;11:30:00;CALL. SERRANO, 56;56;4;SALAMANCA;Caída;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 40 a 44 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;441709;4475584;N;NULL
+2024S000173;03/01/2024;8:35:00;CALL. BLAS CABRERA / CALL. OLIVA DE PLASENCIA;1;10;LATINA;Choque contra obstáculo fijo;Nublado;Autobús;Conductor;De 50 a 54 años;Hombre;NULL;NULL;434223;4470119;N;NULL
+2024S000174;03/01/2024;13:10:00;PLAZA. ALSACIA, 1;1;20;SAN BLAS-CANILLEJAS;Colisión fronto-lateral;NULL;Turismo;Conductor;De 30 a 34 años;Mujer;NULL;NULL;447167;4474242;N;NULL
+2024S000174;03/01/2024;13:10:00;PLAZA. ALSACIA, 1;1;20;SAN BLAS-CANILLEJAS;Colisión fronto-lateral;NULL;Turismo;Conductor;De 55 a 59 años;Mujer;NULL;NULL;447167;4474242;N;NULL
+2024S000176;03/01/2024;13:05:00;CALL. POTOSI, 9;9;5;CHAMARTÍN;Caída;Nublado;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;442511;4478722;N;NULL
+2024S000177;03/01/2024;13:20:00;CALL. ALBERTO AGUILERA / CALL. GAZTAMBIDE;74;7;CHAMBERÍ;Colisión lateral;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439280;4475807;N;NULL
+2024S000177;03/01/2024;13:20:00;CALL. ALBERTO AGUILERA / CALL. GAZTAMBIDE;74;7;CHAMBERÍ;Colisión lateral;NULL;Turismo;Conductor;Más de 74 años;Hombre;NULL;NULL;439280;4475807;N;NULL
+2024S000178;03/01/2024;13:15:00;CALL. ALCALA, 45;45;1;CENTRO;Alcance;Nublado;Furgoneta;Conductor;De 35 a 39 años;Hombre;NULL;NULL;440968;4474493;N;1
+2024S000178;03/01/2024;13:15:00;CALL. ALCALA, 45;45;1;CENTRO;Alcance;Nublado;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;440968;4474493;N;NULL
+2024S000179;03/01/2024;13:00:00;CALL. SANTA VIRGILIA / CALL. ARCOS;3A;16;HORTALEZA;Atropello a persona;Nublado;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;445322;4480896;N;NULL
+2024S000179;03/01/2024;13:00:00;CALL. SANTA VIRGILIA / CALL. ARCOS;3A;16;HORTALEZA;Atropello a persona;Nublado;Turismo;Peatón;De 35 a 39 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;445322;4480896;N;NULL
+2024S000180;03/01/2024;12:40:00;CALL. ALBERTO AGUILERA, 26;26;7;CHAMBERÍ;Alcance;Nublado;Todo terreno;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;439755;4475732;N;NULL
+2024S000180;03/01/2024;12:40:00;CALL. ALBERTO AGUILERA, 26;26;7;CHAMBERÍ;Alcance;Nublado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;439755;4475732;N;NULL
+2024S000180;03/01/2024;12:40:00;CALL. ALBERTO AGUILERA, 26;26;7;CHAMBERÍ;Alcance;Nublado;Turismo;Pasajero;De 15 a 17 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;439755;4475732;N;NULL
+2024S000180;03/01/2024;12:40:00;CALL. ALBERTO AGUILERA, 26;26;7;CHAMBERÍ;Alcance;Nublado;Turismo;Pasajero;De 15 a 17 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;439755;4475732;N;NULL
+2024S000180;03/01/2024;12:40:00;CALL. ALBERTO AGUILERA, 26;26;7;CHAMBERÍ;Alcance;Nublado;Turismo;Pasajero;De 35 a 39 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;439755;4475732;N;NULL
+2024S000180;03/01/2024;12:40:00;CALL. ALBERTO AGUILERA, 26;26;7;CHAMBERÍ;Alcance;Nublado;Turismo;Pasajero;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;439755;4475732;N;NULL
+2024S000181;03/01/2024;13:30:00;CALL. GOYA, 89;89;4;SALAMANCA;Colisión múltiple;Nublado;Autobús;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;442622;4475136;N;NULL
+2024S000181;03/01/2024;13:30:00;CALL. GOYA, 89;89;4;SALAMANCA;Colisión múltiple;Nublado;Furgoneta;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;442622;4475136;N;NULL
+2024S000181;03/01/2024;13:30:00;CALL. GOYA, 89;89;4;SALAMANCA;Colisión múltiple;Nublado;Turismo;Conductor;De 50 a 54 años;Mujer;14;Sin asistencia sanitaria;442622;4475136;N;NULL
+2024S000182;03/01/2024;12:40:00;CALL. JUAN BRAVO / CALL. CASTELLO;28;4;SALAMANCA;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;442244;4476003;N;NULL
+2024S000182;03/01/2024;12:40:00;CALL. JUAN BRAVO / CALL. CASTELLO;28;4;SALAMANCA;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 45 a 49 años;Mujer;NULL;NULL;442244;4476003;N;NULL
+2024S000182;03/01/2024;12:40:00;CALL. JUAN BRAVO / CALL. CASTELLO;28;4;SALAMANCA;Colisión fronto-lateral;Nublado;Turismo;Pasajero;De 10 a 14 años;Hombre;NULL;NULL;442244;4476003;N;NULL
+2024S000182;03/01/2024;12:40:00;CALL. JUAN BRAVO / CALL. CASTELLO;28;4;SALAMANCA;Colisión fronto-lateral;Nublado;Turismo;Pasajero;De 10 a 14 años;Mujer;NULL;NULL;442244;4476003;N;NULL
+2024S000182;03/01/2024;12:40:00;CALL. JUAN BRAVO / CALL. CASTELLO;28;4;SALAMANCA;Colisión fronto-lateral;Nublado;Turismo;Pasajero;De 10 a 14 años;Mujer;NULL;NULL;442244;4476003;N;NULL
+2024S000182;03/01/2024;12:40:00;CALL. JUAN BRAVO / CALL. CASTELLO;28;4;SALAMANCA;Colisión fronto-lateral;Nublado;Turismo;Pasajero;Más de 74 años;Mujer;NULL;NULL;442244;4476003;N;NULL
+2024S000182;03/01/2024;12:40:00;CALL. JUAN BRAVO / CALL. CASTELLO;28;4;SALAMANCA;Colisión fronto-lateral;Nublado;Turismo;Pasajero;Menor de 5 años;Mujer;NULL;NULL;442244;4476003;N;NULL
+2024S000183;03/01/2024;12:40:00;AUTOV. A-42, +00500S;+00500S;11;CARABANCHEL;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;438900;4469616;N;NULL
+2024S000184;03/01/2024;13:55:00;CALL. SERRANO / CALL. JOSE ORTEGA Y GASSET;74;4;SALAMANCA;Caída;Lluvia débil;Otros vehículos con motor;Conductor;De 25 a 29 años;Hombre;1;Atención en urgencias sin posterior ingreso;441738;4475765;N;NULL
+2024S000185;03/01/2024;15:08:00;CALL. BURJASOT / CALL. BENIFERRI;4;17;VILLAVERDE;Colisión fronto-lateral;NULL;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;441286;4466297;N;NULL
+2024S000185;03/01/2024;15:08:00;CALL. BURJASOT / CALL. BENIFERRI;4;17;VILLAVERDE;Colisión fronto-lateral;NULL;Turismo;Conductor;De 35 a 39 años;Mujer;NULL;NULL;441286;4466297;N;NULL
+2024S000186;03/01/2024;14:50:00;CALL. ARTEMISA / CALL. AERONAVE;0;21;BARAJAS;Colisión fronto-lateral;Nublado;Motocicleta hasta 125cc;Conductor;De 21 a 24 años;Hombre;1;Atención en urgencias sin posterior ingreso;450288;4479976;N;NULL
+2024S000186;03/01/2024;14:50:00;CALL. ARTEMISA / CALL. AERONAVE;0;21;BARAJAS;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 25 a 29 años;Mujer;14;Sin asistencia sanitaria;450288;4479976;N;NULL
+2024S000187;03/01/2024;15:30:00;CALL. JOAQUIN COSTA, 36;36;5;CHAMARTÍN;Colisión lateral;Se desconoce;Autobús;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;442224;4476924;N;NULL
+2024S000187;03/01/2024;15:30:00;CALL. JOAQUIN COSTA, 36;36;5;CHAMARTÍN;Colisión lateral;Se desconoce;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;442224;4476924;N;NULL
+2024S000193;03/01/2024;17:32:00;CALL. PONZANO / CALL. JOSE ABASCAL;20;7;CHAMBERÍ;Caída;Nublado;Motocicleta hasta 125cc;Conductor;De 40 a 44 años;Mujer;1;Atención en urgencias sin posterior ingreso;440689;4476667;N;NULL
+2024S000194;03/01/2024;17:10:00;CALL. JAVIER DEL QUINTO / GTA. SANDRO PERTINI;2;16;HORTALEZA;Alcance;Nublado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;445513;4480025;N;NULL
+2024S000194;03/01/2024;17:10:00;CALL. JAVIER DEL QUINTO / GTA. SANDRO PERTINI;2;16;HORTALEZA;Alcance;Nublado;Turismo;Conductor;De 50 a 54 años;Mujer;NULL;NULL;445513;4480025;N;NULL
+2024S000195;03/01/2024;16:30:00;CALL. HERMANOS GARCIA NOBLEJAS / CALL. SANTO DOMINGO SAVIO;66;15;CIUDAD LINEAL;Alcance;Lluvia débil;Furgoneta;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;446281;4475816;N;NULL
+2024S000195;03/01/2024;16:30:00;CALL. HERMANOS GARCIA NOBLEJAS / CALL. SANTO DOMINGO SAVIO;66;15;CIUDAD LINEAL;Alcance;Lluvia débil;Turismo;Conductor;De 40 a 44 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;446281;4475816;N;NULL
+2024S000195;03/01/2024;16:30:00;CALL. HERMANOS GARCIA NOBLEJAS / CALL. SANTO DOMINGO SAVIO;66;15;CIUDAD LINEAL;Alcance;Lluvia débil;Turismo;Pasajero;De 50 a 54 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;446281;4475816;N;NULL
+2024S000196;03/01/2024;15:40:00;CALL. SINESIO DELGADO / AVDA. ASTURIAS;1;6;TETUÁN;Alcance;Nublado;Turismo;Conductor;De 70 a 74 años;Hombre;14;Sin asistencia sanitaria;440438;4480516;N;NULL
+2024S000196;03/01/2024;15:40:00;CALL. SINESIO DELGADO / AVDA. ASTURIAS;1;6;TETUÁN;Alcance;Nublado;Turismo;Pasajero;De 65 a 69 años;Mujer;1;Atención en urgencias sin posterior ingreso;440438;4480516;N;NULL
+2024S000196;03/01/2024;15:40:00;CALL. SINESIO DELGADO / AVDA. ASTURIAS;1;6;TETUÁN;Alcance;Nublado;Vehículo articulado;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;440438;4480516;N;NULL
+2024S000197;03/01/2024;18:45:00;RONDA. ATOCHA, 34;34;1;CENTRO;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;NULL;NULL;440695;4473063;N;NULL
+2024S000197;03/01/2024;18:45:00;RONDA. ATOCHA, 34;34;1;CENTRO;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;440695;4473063;N;NULL
+2024S000199;03/01/2024;19:20:00;CALL. HACIENDA DE PAVONES, 256;256;14;MORATALAZ;Colisión múltiple;Despejado;Furgoneta;Conductor;De 65 a 69 años;Hombre;14;Sin asistencia sanitaria;445838;4472491;S;NULL
+2024S000199;03/01/2024;19:20:00;CALL. HACIENDA DE PAVONES, 256;256;14;MORATALAZ;Colisión múltiple;Despejado;Furgoneta;Pasajero;De 55 a 59 años;Mujer;NULL;NULL;445838;4472491;N;NULL
+2024S000199;03/01/2024;19:20:00;CALL. HACIENDA DE PAVONES, 256;256;14;MORATALAZ;Colisión múltiple;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;445838;4472491;N;NULL
+2024S000199;03/01/2024;19:20:00;CALL. HACIENDA DE PAVONES, 256;256;14;MORATALAZ;Colisión múltiple;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;445838;4472491;N;NULL
+2024S000200;03/01/2024;19:05:00;CALL. RETAMA / CALL. ACANTO;5;2;ARGANZUELA;Alcance;Nublado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;442617;4471712;N;NULL
+2024S000200;03/01/2024;19:05:00;CALL. RETAMA / CALL. ACANTO;5;2;ARGANZUELA;Alcance;Nublado;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;442617;4471712;N;NULL
+2024S000200;03/01/2024;19:05:00;CALL. RETAMA / CALL. ACANTO;5;2;ARGANZUELA;Alcance;Nublado;Turismo;Pasajero;De 40 a 44 años;Mujer;NULL;NULL;442617;4471712;N;NULL
+2024S000201;03/01/2024;20:00:00;CTRA. ESTACION DE HORTALEZA / CALL. DOÑA GUIOMAR;11;16;HORTALEZA;Colisión lateral;Despejado;Furgoneta;Conductor;De 65 a 69 años;Hombre;NULL;NULL;444551;4480917;N;NULL
+2024S000201;03/01/2024;20:00:00;CTRA. ESTACION DE HORTALEZA / CALL. DOÑA GUIOMAR;11;16;HORTALEZA;Colisión lateral;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;NULL;NULL;444551;4480917;N;NULL
+2024S000202;03/01/2024;19:20:00;AUTOV. M-30, 32XC20;32XC20;8;FUENCARRAL-EL PARDO;Alcance;NULL;Furgoneta;Conductor;De 30 a 34 años;Hombre;NULL;NULL;442991;4481715;N;NULL
+2024S000202;03/01/2024;19:20:00;AUTOV. M-30, 32XC20;32XC20;8;FUENCARRAL-EL PARDO;Alcance;NULL;Turismo;Conductor;De 65 a 69 años;Hombre;NULL;NULL;442991;4481715;N;NULL
+2024S000202;03/01/2024;19:20:00;AUTOV. M-30, 32XC20;32XC20;8;FUENCARRAL-EL PARDO;Alcance;NULL;Turismo;Pasajero;De 30 a 34 años;Hombre;NULL;NULL;442991;4481715;N;NULL
+2024S000202;03/01/2024;19:20:00;AUTOV. M-30, 32XC20;32XC20;8;FUENCARRAL-EL PARDO;Alcance;NULL;Turismo;Pasajero;De 65 a 69 años;Mujer;NULL;NULL;442991;4481715;N;NULL
+2024S000203;03/01/2024;19:45:00;CALL. DOMINGO PARRAGA, 86;86;17;VILLAVERDE;Alcance;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;438629;4465824;N;NULL
+2024S000203;03/01/2024;19:45:00;CALL. DOMINGO PARRAGA, 86;86;17;VILLAVERDE;Alcance;Despejado;Turismo;Conductor;De 65 a 69 años;Hombre;NULL;NULL;438629;4465824;N;NULL
+2024S000204;02/01/2024;21:40:00;AUTOV. M-30, 08RT07;08RT07;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;NULL;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;443684;4473027;N;NULL
+2024S000208;03/01/2024;20:50:00;CALL. APOSTOL SANTIAGO, 6;6;15;CIUDAD LINEAL;Choque contra obstáculo fijo;NULL;Camión rígido;Conductor;Desconocido;Desconocido;NULL;NULL;444528;4475119;N;NULL
+2024S000208;03/01/2024;20:50:00;CALL. APOSTOL SANTIAGO, 6;6;15;CIUDAD LINEAL;Choque contra obstáculo fijo;NULL;Furgoneta;Conductor;Desconocido;Desconocido;NULL;NULL;444528;4475119;N;NULL
+2024S000208;03/01/2024;20:50:00;CALL. APOSTOL SANTIAGO, 6;6;15;CIUDAD LINEAL;Choque contra obstáculo fijo;NULL;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;444528;4475119;N;NULL
+2024S000208;03/01/2024;20:50:00;CALL. APOSTOL SANTIAGO, 6;6;15;CIUDAD LINEAL;Choque contra obstáculo fijo;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;444528;4475119;N;NULL
+2024S000209;03/01/2024;7:00:00;CALL. SESEÑA, 15;15;10;LATINA;Otro;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;435572;4472217;N;NULL
+2024S000209;03/01/2024;7:00:00;CALL. SESEÑA, 15;15;10;LATINA;Otro;Despejado;Vehículo articulado;Conductor;De 45 a 49 años;Hombre;NULL;NULL;435572;4472217;N;NULL
+2024S000210;03/01/2024;21:25:00;CALL. CAMINO DE LOS VINATEROS / CALL. ARROYO BELINCOSO;70;14;MORATALAZ;Colisión fronto-lateral;Nublado;Furgoneta;Conductor;De 25 a 29 años;Hombre;NULL;NULL;444635;4473514;N;NULL
+2024S000210;03/01/2024;21:25:00;CALL. CAMINO DE LOS VINATEROS / CALL. ARROYO BELINCOSO;70;14;MORATALAZ;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 70 a 74 años;Hombre;NULL;NULL;444635;4473514;N;NULL
+2024S000211;03/01/2024;21:11:00;CALL. ABTAO / CALL. GRANADA;5;3;RETIRO;Caída;Lluvia débil;Motocicleta > 125cc;Conductor;De 55 a 59 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;442579;4472778;N;NULL
+2024S000211;03/01/2024;21:11:00;CALL. ABTAO / CALL. GRANADA;5;3;RETIRO;Caída;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;442579;4472778;N;NULL
+2024S000212;03/01/2024;22:20:00;AVDA. AMERICA, 32;32;4;SALAMANCA;Alcance;NULL;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;443003;4476718;N;NULL
+2024S000212;03/01/2024;22:20:00;AVDA. AMERICA, 32;32;4;SALAMANCA;Alcance;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;443003;4476718;N;NULL
+2024S000213;03/01/2024;23:55:00;CALL. VILLARDONDIEGO / CALL. VILLACARLOS;34;19;VICÁLVARO;Caída;Nublado;Ciclomotor;Conductor;De 21 a 24 años;Hombre;2;Ingreso inferior o igual a 24 horas;448385;4473009;N;NULL
+2024S000214;03/01/2024;23:25:00;CALL. AMOR HERMOSO / CALL. ANTONIO VELASCO ZAZO;100;12;USERA;Colisión lateral;Despejado;Turismo;Conductor;De 25 a 29 años;Mujer;NULL;NULL;440311;4470318;N;NULL
+2024S000214;03/01/2024;23:25:00;CALL. AMOR HERMOSO / CALL. ANTONIO VELASCO ZAZO;100;12;USERA;Colisión lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;440311;4470318;N;NULL
+2024S000215;04/01/2024;0:15:00;CALL. TOLEDO / CALL. CALATRAVA;105;1;CENTRO;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;439743;4473412;N;NULL
+2024S000215;04/01/2024;0:15:00;CALL. TOLEDO / CALL. CALATRAVA;105;1;CENTRO;Colisión fronto-lateral;Nublado;VMU eléctrico;Conductor;De 25 a 29 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;439743;4473412;N;NULL
+2024S000219;04/01/2024;3:20:00;CALL. GONZALEZ DAVILA / CTRA. VILLAVERDE A VALLECAS;1;18;VILLA DE VALLECAS;Choque contra obstáculo fijo;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;445873;4469403;N;NULL
+2024S000220;04/01/2024;6:15:00;PLAZA. LEGAZPI / CALL. MAESTRO ARBOS;2;2;ARGANZUELA;Colisión lateral;Lluvia débil;Camión rígido;Conductor;De 30 a 34 años;Hombre;NULL;NULL;441020;4471362;N;NULL
+2024S000220;04/01/2024;6:15:00;PLAZA. LEGAZPI / CALL. MAESTRO ARBOS;2;2;ARGANZUELA;Colisión lateral;Lluvia débil;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;441020;4471362;N;NULL
+2024S000223;04/01/2024;8:40:00;AVDA. ALBUFERA / CALL. PUERTO DE CANFRANC;61;13;PUENTE DE VALLECAS;Caída;Nublado;Ciclomotor;Conductor;De 35 a 39 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;443622;4471898;N;NULL
+2024S000223;04/01/2024;8:40:00;AVDA. ALBUFERA / CALL. PUERTO DE CANFRANC;61;13;PUENTE DE VALLECAS;Caída;Nublado;Turismo;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;443622;4471898;N;NULL
+2024S000223;04/01/2024;8:40:00;AVDA. ALBUFERA / CALL. PUERTO DE CANFRANC;61;13;PUENTE DE VALLECAS;Caída;Nublado;Turismo;Pasajero;De 25 a 29 años;Mujer;14;Sin asistencia sanitaria;443622;4471898;N;NULL
+2024S000224;04/01/2024;8:20:00;CALL. VIA / CALL. PORTALEGRE;1;11;CARABANCHEL;Colisión múltiple;Lluvia débil;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;438616;4470987;N;NULL
+2024S000224;04/01/2024;8:20:00;CALL. VIA / CALL. PORTALEGRE;1;11;CARABANCHEL;Colisión múltiple;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;438616;4470987;N;NULL
+2024S000224;04/01/2024;8:20:00;CALL. VIA / CALL. PORTALEGRE;1;11;CARABANCHEL;Colisión múltiple;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;438616;4470987;NULL;NULL
+2024S000226;03/01/2024;14:00:00;CALL. YECORA, 2A;2A;20;SAN BLAS-CANILLEJAS;Otro;Nublado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;451355;4477763;N;NULL
+2024S000227;04/01/2024;9:25:00;AVDA. ARCENTALES, 7;7;20;SAN BLAS-CANILLEJAS;Alcance;Despejado;Furgoneta;Conductor;De 45 a 49 años;Mujer;14;Sin asistencia sanitaria;446943;4475242;N;NULL
+2024S000227;04/01/2024;9:25:00;AVDA. ARCENTALES, 7;7;20;SAN BLAS-CANILLEJAS;Alcance;Despejado;Turismo;Conductor;De 55 a 59 años;Mujer;14;Sin asistencia sanitaria;446943;4475242;N;NULL
+2024S000229;04/01/2024;8:00:00;AUTOVIA A-6 KM 4,9;+00600E;9;MONCLOA-ARAVACA;Choque contra obstáculo fijo;Nublado;Turismo;Conductor;De 25 a 29 años;Mujer;NULL;NULL;437889;4477306;N;NULL
+2024S000230;04/01/2024;10:30:00;PLAZA. INDEPENDENCIA / CALL. ALFONSO XII;8;3;RETIRO;Colisión lateral;Nublado;Turismo;Conductor;De 35 a 39 años;Mujer;NULL;NULL;441561;4474534;N;NULL
+2024S000230;04/01/2024;10:30:00;PLAZA. INDEPENDENCIA / CALL. ALFONSO XII;8;3;RETIRO;Colisión lateral;Nublado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;441561;4474534;N;NULL
+2024S000232;04/01/2024;10:40:00;CALL. EMILIO FERRARI, 52;52;15;CIUDAD LINEAL;Alcance;Nublado;Todo terreno;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;445595;4475853;N;NULL
+2024S000232;04/01/2024;10:40:00;CALL. EMILIO FERRARI, 52;52;15;CIUDAD LINEAL;Alcance;Nublado;Turismo;Conductor;De 65 a 69 años;Hombre;14;Sin asistencia sanitaria;445595;4475853;N;NULL
+2024S000232;04/01/2024;10:40:00;CALL. EMILIO FERRARI, 52;52;15;CIUDAD LINEAL;Alcance;Nublado;Turismo;Pasajero;De 70 a 74 años;Mujer;14;Sin asistencia sanitaria;445595;4475853;N;NULL
+2024S000233;04/01/2024;12:15:00;CALLE SAN MODESTO CON PARKING HOSPITAL H. RAMON Y CAJAL;50;8;FUENCARRAL-EL PARDO;Choque contra obstáculo fijo;Nublado;Turismo;Conductor;Más de 74 años;Mujer;14;Sin asistencia sanitaria;441036;4482081;N;NULL
+2024S000234;04/01/2024;12:00:00;CALL. REAL, 2;2;11;CARABANCHEL;Colisión lateral;Nublado;Turismo;Conductor;De 18 a 20 años;Hombre;NULL;NULL;436952;4468356;N;NULL
+2024S000234;04/01/2024;12:00:00;CALL. REAL, 2;2;11;CARABANCHEL;Colisión lateral;Nublado;Turismo;Conductor;De 40 a 44 años;Mujer;NULL;NULL;436952;4468356;N;NULL
+2024S000235;04/01/2024;11:05:00;CALL. ARTURO SORIA / CALL. HERNANDEZ DE TEJADA;93;15;CIUDAD LINEAL;Caída;Nublado;Ciclomotor;Conductor;De 70 a 74 años;Hombre;1;Atención en urgencias sin posterior ingreso;444883;4477639;N;NULL
+2024S000235;04/01/2024;11:05:00;CALL. ARTURO SORIA / CALL. HERNANDEZ DE TEJADA;93;15;CIUDAD LINEAL;Caída;Nublado;Turismo;Conductor;De 65 a 69 años;Mujer;14;Sin asistencia sanitaria;444883;4477639;N;NULL
+2024S000236;04/01/2024;12:35:00;CALL. ORENSE, 4;4;6;TETUÁN;Colisión lateral;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;441028;4477667;N;NULL
+2024S000236;04/01/2024;12:35:00;CALL. ORENSE, 4;4;6;TETUÁN;Colisión lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;NULL;NULL;441028;4477667;N;NULL
+2024S000237;04/01/2024;11:30:00;CALL. TOLEDO, 111;111;1;CENTRO;Caída;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Hombre;5;Asistencia sanitaria ambulatoria con posterioridad;439672;4473286;N;NULL
+2024S000237;04/01/2024;11:30:00;CALL. TOLEDO, 111;111;1;CENTRO;Caída;Lluvia débil;Sin especificar;Conductor;Desconocido;Desconocido;NULL;NULL;439672;4473286;N;NULL
+2024S000238;04/01/2024;13:28:00;CALL. MISTERIOS, 6;6;15;CIUDAD LINEAL;Choque contra obstáculo fijo;Lluvia débil;Camión rígido;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;445778;4476639;N;NULL
+2024S000238;04/01/2024;13:28:00;CALL. MISTERIOS, 6;6;15;CIUDAD LINEAL;Choque contra obstáculo fijo;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;445778;4476639;N;NULL
+2024S000238;04/01/2024;13:28:00;CALL. MISTERIOS, 6;6;15;CIUDAD LINEAL;Choque contra obstáculo fijo;Lluvia débil;Turismo;Pasajero;De 35 a 39 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;445778;4476639;N;NULL
+2024S000239;03/01/2024;21:40:00;CMNO. GANAPANES / CALL. LA BAÑEZA;35;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Lluvia débil;Ciclomotor;Conductor;De 25 a 29 años;Mujer;14;Sin asistencia sanitaria;439330;4480779;N;NULL
+2024S000239;03/01/2024;21:40:00;CMNO. GANAPANES / CALL. LA BAÑEZA;35;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Lluvia débil;Todo terreno;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;439330;4480779;N;NULL
+2024S000240;04/01/2024;14:49:00;AVDA. REAL DE PINTO, 142;142;17;VILLAVERDE;Colisión fronto-lateral;NULL;Furgoneta;Conductor;De 40 a 44 años;Hombre;NULL;NULL;439495;4465170;N;NULL
+2024S000240;04/01/2024;14:49:00;AVDA. REAL DE PINTO, 142;142;17;VILLAVERDE;Colisión fronto-lateral;NULL;Turismo;Conductor;De 50 a 54 años;Mujer;NULL;NULL;439495;4465170;N;NULL
+2024S000241;04/01/2024;13:50:00;AUTOV. A-42, +00600S;+00600S;11;CARABANCHEL;Caída;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 40 a 44 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;438969;4470251;N;NULL
+2024S000241;04/01/2024;13:50:00;AUTOV. A-42, +00600S;+00600S;11;CARABANCHEL;Caída;Lluvia débil;Motocicleta hasta 125cc;Pasajero;De 45 a 49 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;438969;4470251;N;NULL
+2024S000241;04/01/2024;13:50:00;AUTOV. A-42, +00600S;+00600S;11;CARABANCHEL;Caída;Lluvia débil;Turismo;Conductor;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;438969;4470251;N;NULL
+2024S000242;04/01/2024;14:30:00;CALL. MENDEZ ALVARO / CALL. RETAMA;83;2;ARGANZUELA;Alcance;LLuvia intensa;Turismo;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;442552;4471643;N;NULL
+2024S000242;04/01/2024;14:30:00;CALL. MENDEZ ALVARO / CALL. RETAMA;83;2;ARGANZUELA;Alcance;LLuvia intensa;Turismo;Conductor;De 30 a 34 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;442552;4471643;N;NULL
+2024S000242;04/01/2024;14:30:00;CALL. MENDEZ ALVARO / CALL. RETAMA;83;2;ARGANZUELA;Alcance;LLuvia intensa;Turismo;Pasajero;De 50 a 54 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;442552;4471643;N;NULL
+2024S000243;03/01/2024;21:25:00;CALL. MAQUEDA / CALL. QUERO;117;10;LATINA;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 18 a 20 años;Mujer;NULL;NULL;435331;4471167;N;NULL
+2024S000243;03/01/2024;21:25:00;CALL. MAQUEDA / CALL. QUERO;117;10;LATINA;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;435331;4471167;N;NULL
+2024S000243;03/01/2024;21:25:00;CALL. MAQUEDA / CALL. QUERO;117;10;LATINA;Colisión fronto-lateral;Nublado;Turismo;Pasajero;De 18 a 20 años;Mujer;NULL;NULL;435331;4471167;N;NULL
+2024S000244;04/01/2024;16:10:00;CALL. MAYOR, 25;25;1;CENTRO;Atropello a persona;Lluvia débil;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;440035;4474201;N;NULL
+2024S000244;04/01/2024;16:10:00;CALL. MAYOR, 25;25;1;CENTRO;Atropello a persona;Lluvia débil;Turismo;Peatón;De 55 a 59 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440035;4474201;N;NULL
+2024S000245;04/01/2024;16:10:00;CALL. SAMANIEGO, 3;3;20;SAN BLAS-CANILLEJAS;Colisión fronto-lateral;Lluvia débil;Ciclomotor;Conductor;De 35 a 39 años;Mujer;5;Asistencia sanitaria ambulatoria con posterioridad;450368;4477461;N;NULL
+2024S000245;04/01/2024;16:10:00;CALL. SAMANIEGO, 3;3;20;SAN BLAS-CANILLEJAS;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;450368;4477461;N;NULL
+2024S000246;04/01/2024;15:45:00;AUTOV. M-30, INTERIOR PK 1.500;01NC50;5;CHAMARTÍN;Alcance;NULL;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;443060;4480214;N;NULL
+2024S000246;04/01/2024;15:45:00;AUTOV. M-30, INTERIOR PK 1.500;01NC50;5;CHAMARTÍN;Alcance;NULL;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;443060;4480214;N;NULL
+2024S000246;04/01/2024;15:45:00;AUTOV. M-30, INTERIOR PK 1.500;01NC50;5;CHAMARTÍN;Alcance;NULL;Turismo;Pasajero;De 10 a 14 años;Mujer;NULL;NULL;443060;4480214;N;NULL
+2024S000246;04/01/2024;15:45:00;AUTOV. M-30, INTERIOR PK 1.500;01NC50;5;CHAMARTÍN;Alcance;NULL;Turismo;Pasajero;De 15 a 17 años;Mujer;NULL;NULL;443060;4480214;N;NULL
+2024S000246;04/01/2024;15:45:00;AUTOV. M-30, INTERIOR PK 1.500;01NC50;5;CHAMARTÍN;Alcance;NULL;Turismo;Pasajero;De 45 a 49 años;Mujer;NULL;NULL;443060;4480214;N;NULL
+2024S000248;04/01/2024;14:10:00;AUTOV. M-30, 06NC09;06NC09;4;SALAMANCA;Otro;LLuvia intensa;Turismo;Conductor;De 50 a 54 años;Mujer;NULL;NULL;443976;4475480;N;NULL
+2024S000250;04/01/2024;14:33:00;CALL. BARQUILLO, 6;6;1;CENTRO;Atropello a persona;Lluvia débil;Turismo;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;440985;4474604;N;NULL
+2024S000250;04/01/2024;14:33:00;CALL. BARQUILLO, 6;6;1;CENTRO;Atropello a persona;Lluvia débil;Turismo;Pasajero;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;440985;4474604;N;NULL
+2024S000250;04/01/2024;14:33:00;CALL. BARQUILLO, 6;6;1;CENTRO;Atropello a persona;Lluvia débil;Turismo;Peatón;De 55 a 59 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440985;4474604;N;NULL
+2024S000251;04/01/2024;17:10:00;CALL. EUGENIO D'ORS, 2;2;14;MORATALAZ;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;444309;4473662;N;NULL
+2024S000251;04/01/2024;17:10:00;CALL. EUGENIO D'ORS, 2;2;14;MORATALAZ;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;444309;4473662;N;NULL
+2024S000252;03/01/2024;16:08:00;CALL. SAN BERNARDO, 10;10;1;CENTRO;Alcance;Nublado;Autobús;Conductor;Desconocido;Desconocido;NULL;NULL;439957;4474829;NULL;NULL
+2024S000252;03/01/2024;16:08:00;CALL. SAN BERNARDO, 10;10;1;CENTRO;Alcance;Nublado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;439957;4474829;N;NULL
+2024S000253;04/01/2024;17:36:00;AVDA. DAROCA / CALL. CASALARREINA;303;19;VICÁLVARO;Colisión fronto-lateral;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;447791;4473208;N;NULL
+2024S000253;04/01/2024;17:36:00;AVDA. DAROCA / CALL. CASALARREINA;303;19;VICÁLVARO;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 65 a 69 años;Hombre;14;Sin asistencia sanitaria;447791;4473208;N;NULL
+2024S000253;04/01/2024;17:36:00;AVDA. DAROCA / CALL. CASALARREINA;303;19;VICÁLVARO;Colisión fronto-lateral;Lluvia débil;Turismo;Pasajero;De 65 a 69 años;Mujer;14;Sin asistencia sanitaria;447791;4473208;N;NULL
+2024S000254;04/01/2024;18:00:00;CALL. SERRANO, 29;29;4;SALAMANCA;Caída;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 25 a 29 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;441676;4475416;N;NULL
+2024S000256;04/01/2024;14:20:00;AVDA. MEDITERRANEO, 4;4;3;RETIRO;Alcance;Lluvia débil;Motocicleta > 125cc;Conductor;De 55 a 59 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;442499;4473192;N;NULL
+2024S000256;04/01/2024;14:20:00;AVDA. MEDITERRANEO, 4;4;3;RETIRO;Alcance;Lluvia débil;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;442499;4473192;N;NULL
+2024S000257;04/01/2024;15:35:00;CALL. GRAN VIA / CALL. TUDESCOS;46;1;CENTRO;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;440079;4474680;N;NULL
+2024S000257;04/01/2024;15:35:00;CALL. GRAN VIA / CALL. TUDESCOS;46;1;CENTRO;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 60 a 64 años;Hombre;NULL;NULL;440079;4474680;N;NULL
+2024S000258;04/01/2024;17:40:00;CALL. SIMCA / CALL. TALBOT;4;12;USERA;Colisión lateral;Lluvia débil;Turismo;Conductor;De 35 a 39 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;439647;4468673;N;NULL
+2024S000258;04/01/2024;17:40:00;CALL. SIMCA / CALL. TALBOT;4;12;USERA;Colisión lateral;Lluvia débil;Turismo;Conductor;De 50 a 54 años;Hombre;2;Ingreso inferior o igual a 24 horas;439647;4468673;N;NULL
+2024S000258;04/01/2024;17:40:00;CALL. SIMCA / CALL. TALBOT;4;12;USERA;Colisión lateral;Lluvia débil;Turismo;Pasajero;De 10 a 14 años;Hombre;14;Sin asistencia sanitaria;439647;4468673;N;NULL
+2024S000258;04/01/2024;17:40:00;CALL. SIMCA / CALL. TALBOT;4;12;USERA;Colisión lateral;Lluvia débil;Turismo;Pasajero;De 10 a 14 años;Mujer;14;Sin asistencia sanitaria;439647;4468673;N;NULL
+2024S000258;04/01/2024;17:40:00;CALL. SIMCA / CALL. TALBOT;4;12;USERA;Colisión lateral;Lluvia débil;Turismo;Pasajero;De 10 a 14 años;Mujer;14;Sin asistencia sanitaria;439647;4468673;N;NULL
+2024S000258;04/01/2024;17:40:00;CALL. SIMCA / CALL. TALBOT;4;12;USERA;Colisión lateral;Lluvia débil;Turismo;Pasajero;De 15 a 17 años;Mujer;14;Sin asistencia sanitaria;439647;4468673;N;NULL
+2024S000258;04/01/2024;17:40:00;CALL. SIMCA / CALL. TALBOT;4;12;USERA;Colisión lateral;Lluvia débil;Turismo;Pasajero;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;439647;4468673;N;NULL
+2024S000260;04/01/2024;18:35:00;AUTOV. M-23, 0;0;14;MORATALAZ;Colisión múltiple;Lluvia débil;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;444304;4474429;N;NULL
+2024S000260;04/01/2024;18:35:00;AUTOV. M-23, 0;0;14;MORATALAZ;Colisión múltiple;Lluvia débil;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;444304;4474429;N;NULL
+2024S000260;04/01/2024;18:35:00;AUTOV. M-23, 0;0;14;MORATALAZ;Colisión múltiple;Lluvia débil;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;444304;4474429;N;NULL
+2024S000260;04/01/2024;18:35:00;AUTOV. M-23, 0;0;14;MORATALAZ;Colisión múltiple;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;444304;4474429;N;NULL
+2024S000261;02/01/2024;17:30:00;CALL. ABADA, 7;7;1;CENTRO;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 50 a 54 años;Mujer;NULL;NULL;440206;4474584;N;NULL
+2024S000262;04/01/2024;18:30:00;AUTOV. A-42, +00600E;+00600E;12;USERA;Alcance;NULL;Turismo;Conductor;De 18 a 20 años;Hombre;NULL;NULL;438822;4468521;N;NULL
+2024S000262;04/01/2024;18:30:00;AUTOV. A-42, +00600E;+00600E;12;USERA;Alcance;NULL;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;438822;4468521;N;NULL
+2024S000264;04/01/2024;19:45:00;CALL. ROCAFORT, 145;145;17;VILLAVERDE;Choque contra obstáculo fijo;Lluvia débil;Furgoneta;Conductor;Desconocido;Desconocido;NULL;NULL;441744;4466092;N;NULL
+2024S000264;04/01/2024;19:45:00;CALL. ROCAFORT, 145;145;17;VILLAVERDE;Choque contra obstáculo fijo;Lluvia débil;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;441744;4466092;N;NULL
+2024S000265;04/01/2024;18:55:00;CALL. LUIS RUIZ / CALL. FRANCISCO RIOJA;24;15;CIUDAD LINEAL;Caída;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 55 a 59 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;445865;4475747;N;NULL
+2024S000266;04/01/2024;19:45:00;CALL. COSTA RICA, 24;24;5;CHAMARTÍN;Alcance;NULL;Furgoneta;Conductor;De 18 a 20 años;Hombre;NULL;NULL;442890;4478861;N;NULL
+2024S000266;04/01/2024;19:45:00;CALL. COSTA RICA, 24;24;5;CHAMARTÍN;Alcance;NULL;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;442890;4478861;N;NULL
+2024S000266;04/01/2024;19:45:00;CALL. COSTA RICA, 24;24;5;CHAMARTÍN;Alcance;NULL;Turismo;Pasajero;De 45 a 49 años;Mujer;NULL;NULL;442890;4478861;N;NULL
+2024S000267;04/01/2024;19:50:00;PASEO. DELICIAS / CALL. ANCORA;40;2;ARGANZUELA;Colisión lateral;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;441144;4472723;N;NULL
+2024S000267;04/01/2024;19:50:00;PASEO. DELICIAS / CALL. ANCORA;40;2;ARGANZUELA;Colisión lateral;Lluvia débil;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;441144;4472723;N;NULL
+2024S000268;04/01/2024;19:55:00;CALL. LUIS DE HOYOS SAINZ, 106;106;14;MORATALAZ;Caída;Lluvia débil;Motocicleta > 125cc;Conductor;De 25 a 29 años;Hombre;NULL;NULL;446088;4472767;N;NULL
+2024S000268;04/01/2024;19:55:00;CALL. LUIS DE HOYOS SAINZ, 106;106;14;MORATALAZ;Caída;Lluvia débil;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;446088;4472767;N;NULL
+2024S000269;04/01/2024;18:20:00;CALL. CONVENIO / AVDA. SAN DIEGO;53;13;PUENTE DE VALLECAS;Colisión fronto-lateral;Lluvia débil;Motocicleta hasta 125cc;Conductor;De 35 a 39 años;Hombre;1;Atención en urgencias sin posterior ingreso;442991;4471236;N;NULL
+2024S000269;04/01/2024;18:20:00;CALL. CONVENIO / AVDA. SAN DIEGO;53;13;PUENTE DE VALLECAS;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;442991;4471236;N;NULL
+2024S000270;04/01/2024;19:00:00;GTA. PATINES, 0;0;9;MONCLOA-ARAVACA;Colisión fronto-lateral;Lluvia débil;Todo terreno;Conductor;De 35 a 39 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;437593;4474367;N;NULL
+2024S000270;04/01/2024;19:00:00;GTA. PATINES, 0;0;9;MONCLOA-ARAVACA;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;437593;4474367;N;NULL
+2024S000270;04/01/2024;19:00:00;GTA. PATINES, 0;0;9;MONCLOA-ARAVACA;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;437593;4474367;N;NULL
+2024S000271;04/01/2024;19:25:00;AUTOV. M-23 / AUTOV. M-23;0;14;MORATALAZ;Alcance;Despejado;Turismo;Conductor;De 18 a 20 años;Hombre;1;Atención en urgencias sin posterior ingreso;444795;4474187;N;NULL
+2024S000271;04/01/2024;19:25:00;AUTOV. M-23 / AUTOV. M-23;0;14;MORATALAZ;Alcance;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;444795;4474187;N;NULL
+2024S000271;04/01/2024;19:25:00;AUTOV. M-23 / AUTOV. M-23;0;14;MORATALAZ;Alcance;Despejado;Turismo;Conductor;De 70 a 74 años;Hombre;14;Sin asistencia sanitaria;444795;4474187;N;NULL
+2024S000271;04/01/2024;19:25:00;AUTOV. M-23 / AUTOV. M-23;0;14;MORATALAZ;Alcance;Despejado;Turismo;Pasajero;De 18 a 20 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;444795;4474187;N;NULL
+2024S000271;04/01/2024;19:25:00;AUTOV. M-23 / AUTOV. M-23;0;14;MORATALAZ;Alcance;Despejado;Turismo;Pasajero;De 30 a 34 años;Mujer;5;Asistencia sanitaria ambulatoria con posterioridad;444795;4474187;N;NULL
+2024S000271;04/01/2024;19:25:00;AUTOV. M-23 / AUTOV. M-23;0;14;MORATALAZ;Alcance;Despejado;Turismo;Pasajero;De 6 a 9 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;444795;4474187;N;NULL
+2024S000271;04/01/2024;19:25:00;AUTOV. M-23 / AUTOV. M-23;0;14;MORATALAZ;Alcance;Despejado;Turismo;Pasajero;De 6 a 9 años;Mujer;14;Sin asistencia sanitaria;444795;4474187;N;NULL
+2024S000271;04/01/2024;19:25:00;AUTOV. M-23 / AUTOV. M-23;0;14;MORATALAZ;Alcance;Despejado;Turismo;Pasajero;De 65 a 69 años;Mujer;5;Asistencia sanitaria ambulatoria con posterioridad;444795;4474187;N;NULL
+2024S000272;04/01/2024;20:15:00;AVDA. JUAN DE HERRERA / PLAZA. CARDENAL CISNEROS;2;9;MONCLOA-ARAVACA;Colisión múltiple;LLuvia intensa;Furgoneta;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;438319;4476814;N;NULL
+2024S000272;04/01/2024;20:15:00;AVDA. JUAN DE HERRERA / PLAZA. CARDENAL CISNEROS;2;9;MONCLOA-ARAVACA;Colisión múltiple;LLuvia intensa;Turismo;Conductor;De 25 a 29 años;Hombre;2;Ingreso inferior o igual a 24 horas;438319;4476814;N;NULL
+2024S000272;04/01/2024;20:15:00;AVDA. JUAN DE HERRERA / PLAZA. CARDENAL CISNEROS;2;9;MONCLOA-ARAVACA;Colisión múltiple;LLuvia intensa;Turismo;Conductor;De 65 a 69 años;Hombre;14;Sin asistencia sanitaria;438319;4476814;N;NULL
+2024S000273;04/01/2024;20:10:00;CALL. NEBULOSAS, 2A;2A;2;ARGANZUELA;Colisión lateral;Lluvia débil;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;441928;4471733;N;NULL
+2024S000273;04/01/2024;20:10:00;CALL. NEBULOSAS, 2A;2A;2;ARGANZUELA;Colisión lateral;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;441928;4471733;N;NULL
+2024S000273;04/01/2024;20:10:00;CALL. NEBULOSAS, 2A;2A;2;ARGANZUELA;Colisión lateral;Lluvia débil;Turismo;Peatón;De 35 a 39 años;Mujer;2;Ingreso inferior o igual a 24 horas;441928;4471733;N;NULL
+2024S000274;04/01/2024;20:30:00;CALL. NUESTRA SEÑORA DE VALVERDE / CALL. ISLA PARAGUA;37;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;LLuvia intensa;Bicicleta;Conductor;De 30 a 34 años;Hombre;2;Ingreso inferior o igual a 24 horas;441783;4482707;N;NULL
+2024S000274;04/01/2024;20:30:00;CALL. NUESTRA SEÑORA DE VALVERDE / CALL. ISLA PARAGUA;37;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;LLuvia intensa;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;441783;4482707;N;NULL
+2024S000275;04/01/2024;20:05:00;CALL. SERRANO / CALL. CONDE DE ARANDA;10;4;SALAMANCA;Caída;Lluvia débil;Bicicleta EPAC (pedaleo asistido);Conductor;De 55 a 59 años;Hombre;3;Ingreso superior a 24 horas;441603;4474805;N;NULL
+2024S000276;04/01/2024;20:20:00;GTA. ROCIO DURCAL, 0;0;6;TETUÁN;Atropello a persona;Lluvia débil;Turismo;Conductor;De 50 a 54 años;Mujer;14;Sin asistencia sanitaria;439654;4478759;N;NULL
+2024S000276;04/01/2024;20:20:00;GTA. ROCIO DURCAL, 0;0;6;TETUÁN;Atropello a persona;Lluvia débil;Turismo;Peatón;De 40 a 44 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;439654;4478759;N;NULL
+2024S000277;04/01/2024;19:00:00;AVDA. NUESTRA SEÑORA DE VALVANERA / CALL. ALGODRE;102;11;CARABANCHEL;Choque contra obstáculo fijo;Lluvia débil;Camión rígido;Conductor;De 50 a 54 años;Hombre;NULL;NULL;437320;4471487;N;NULL
+2024S000278;04/01/2024;21:15:00;CALL. ALBERTO AGUILERA, 64;64;7;CHAMBERÍ;Choque contra obstáculo fijo;LLuvia intensa;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;439371;4475795;N;NULL
+2024S000279;04/01/2024;21:36:00;CALL. MAR ADRIATICO / CALL. AYACUCHO;1;16;HORTALEZA;Caída;Nublado;Motocicleta hasta 125cc;Conductor;De 18 a 20 años;Hombre;2;Ingreso inferior o igual a 24 horas;445855;4480119;N;NULL
+2024S000280;04/01/2024;21:05:00;CALL. TOMAS REDONDO, 10;10;16;HORTALEZA;Atropello a persona;Lluvia débil;Todo terreno;Conductor;De 65 a 69 años;Hombre;14;Sin asistencia sanitaria;446776;4479994;N;NULL
+2024S000280;04/01/2024;21:05:00;CALL. TOMAS REDONDO, 10;10;16;HORTALEZA;Atropello a persona;Lluvia débil;Todo terreno;Peatón;De 21 a 24 años;Mujer;2;Ingreso inferior o igual a 24 horas;446776;4479994;N;NULL
+2024S000281;04/01/2024;22:00:00;AVDA. BUENOS AIRES / AVDA. ALBUFERA;1;13;PUENTE DE VALLECAS;Caída;Se desconoce;Ciclomotor;Conductor;De 25 a 29 años;Hombre;3;Ingreso superior a 24 horas;444558;4471395;N;NULL
+2024S000282;04/01/2024;21:25:00;CALL. PELOPONESO, 9;9;15;CIUDAD LINEAL;Atropello a persona;LLuvia intensa;Turismo;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;447068;4474042;N;NULL
+2024S000282;04/01/2024;21:25:00;CALL. PELOPONESO, 9;9;15;CIUDAD LINEAL;Atropello a persona;LLuvia intensa;Turismo;Peatón;De 40 a 44 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;447068;4474042;N;NULL
+2024S000283;04/01/2024;22:10:00;CALL. MARQUES DE VIANA / CALL. GENCIANA;81;6;TETUÁN;Colisión lateral;Lluvia débil;Turismo;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;440326;4479444;N;NULL
+2024S000283;04/01/2024;22:10:00;CALL. MARQUES DE VIANA / CALL. GENCIANA;81;6;TETUÁN;Colisión lateral;Lluvia débil;Turismo;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;440326;4479444;N;NULL
+2024S000283;04/01/2024;22:10:00;CALL. MARQUES DE VIANA / CALL. GENCIANA;81;6;TETUÁN;Colisión lateral;Lluvia débil;Turismo;Pasajero;De 18 a 20 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;440326;4479444;N;NULL
+2024S000283;04/01/2024;22:10:00;CALL. MARQUES DE VIANA / CALL. GENCIANA;81;6;TETUÁN;Colisión lateral;Lluvia débil;Turismo;Pasajero;De 18 a 20 años;Mujer;14;Sin asistencia sanitaria;440326;4479444;N;NULL
+2024S000283;04/01/2024;22:10:00;CALL. MARQUES DE VIANA / CALL. GENCIANA;81;6;TETUÁN;Colisión lateral;Lluvia débil;Turismo;Pasajero;De 40 a 44 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;440326;4479444;N;NULL
+2024S000283;04/01/2024;22:10:00;CALL. MARQUES DE VIANA / CALL. GENCIANA;81;6;TETUÁN;Colisión lateral;Lluvia débil;Turismo;Pasajero;De 45 a 49 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440326;4479444;N;NULL
+2024S000283;04/01/2024;22:10:00;CALL. MARQUES DE VIANA / CALL. GENCIANA;81;6;TETUÁN;Colisión lateral;Lluvia débil;Turismo;Pasajero;De 6 a 9 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;440326;4479444;N;NULL
+2024S000283;04/01/2024;22:10:00;CALL. MARQUES DE VIANA / CALL. GENCIANA;81;6;TETUÁN;Colisión lateral;Lluvia débil;Turismo;Pasajero;De 6 a 9 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;440326;4479444;N;NULL
+2024S000284;04/01/2024;22:40:00;CALL. RISCOS DE POLANCO / CALL. VALLE DE PINARES LLANOS;2;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 18 a 20 años;Hombre;14;Sin asistencia sanitaria;438746;4481890;N;NULL
+2024S000284;04/01/2024;22:40:00;CALL. RISCOS DE POLANCO / CALL. VALLE DE PINARES LLANOS;2;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 25 a 29 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;438746;4481890;N;NULL
+2024S000284;04/01/2024;22:40:00;CALL. RISCOS DE POLANCO / CALL. VALLE DE PINARES LLANOS;2;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Lluvia débil;Turismo;Pasajero;De 21 a 24 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;438746;4481890;N;NULL
+2024S000285;05/01/2024;1:10:00;CALL. GRAN VIA, 28;28;1;CENTRO;Alcance;Lluvia débil;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;440372;4474626;N;NULL
+2024S000285;05/01/2024;1:10:00;CALL. GRAN VIA, 28;28;1;CENTRO;Alcance;Lluvia débil;VMU eléctrico;Conductor;De 30 a 34 años;Hombre;NULL;NULL;440372;4474626;N;NULL
+2024S000287;05/01/2024;1:40:00;CALL. VELAZQUEZ / CALL. JOAQUIN COSTA;147;5;CHAMARTÍN;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;442106;4477080;N;NULL
+2024S000287;05/01/2024;1:40:00;CALL. VELAZQUEZ / CALL. JOAQUIN COSTA;147;5;CHAMARTÍN;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 30 a 34 años;Mujer;NULL;NULL;442106;4477080;N;NULL
+2024S000291;04/01/2024;22:30:00;CALL. GRAN VIA, 32;32;1;CENTRO;Alcance;Se desconoce;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Mujer;NULL;NULL;440321;4474633;N;NULL
+2024S000291;04/01/2024;22:30:00;CALL. GRAN VIA, 32;32;1;CENTRO;Alcance;Se desconoce;Turismo;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;440321;4474633;N;NULL
+2024S000293;05/01/2024;1:45:00;CALL. SIGÜENZA, 2;2;9;MONCLOA-ARAVACA;Solo salida de la vía;NULL;Turismo;Conductor;De 18 a 20 años;Hombre;NULL;NULL;435476;4478883;N;NULL
+2024S000293;05/01/2024;1:45:00;CALL. SIGÜENZA, 2;2;9;MONCLOA-ARAVACA;Solo salida de la vía;NULL;Turismo;Pasajero;De 18 a 20 años;Mujer;NULL;NULL;435476;4478883;N;NULL
+2024S000294;04/01/2024;22:00:00;CALL. GRAN VIA / CALL. ALCALA;2;1;CENTRO;Alcance;Nublado;Ciclomotor;Conductor;De 21 a 24 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;440875;4474491;N;NULL
+2024S000294;04/01/2024;22:00:00;CALL. GRAN VIA / CALL. ALCALA;2;1;CENTRO;Alcance;Nublado;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;440875;4474491;N;NULL
+2024S000296;05/01/2024;3:40:00;CALL. SERRANO, 139;139;5;CHAMARTÍN;Colisión lateral;Lluvia débil;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;441839;4477278;N;NULL
+2024S000296;05/01/2024;3:40:00;CALL. SERRANO, 139;139;5;CHAMARTÍN;Colisión lateral;Lluvia débil;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;441839;4477278;N;NULL
+2024S000297;05/01/2024;2:00:00;AVENIDA DEL DOCTOR FEDERICO RUBIO Y GALI 112;112;9;MONCLOA-ARAVACA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 18 a 20 años;Hombre;NULL;NULL;439525;4478786;N;NULL
+2024S000297;05/01/2024;2:00:00;AVENIDA DEL DOCTOR FEDERICO RUBIO Y GALI 112;112;9;MONCLOA-ARAVACA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439525;4478786;N;NULL
+2024S000298;05/01/2024;5:00:00;AUTOV. M-30, 29NC90;29NC90;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;440196;4481471;N;NULL
+2024S000298;05/01/2024;5:00:00;AUTOV. M-30, 29NC90;29NC90;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Lluvia débil;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;440196;4481471;N;NULL
+2024S000298;05/01/2024;5:00:00;AUTOV. M-30, 29NC90;29NC90;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Lluvia débil;Turismo;Pasajero;De 30 a 34 años;Mujer;NULL;NULL;440196;4481471;N;NULL
+2024S000298;05/01/2024;5:00:00;AUTOV. M-30, 29NC90;29NC90;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Lluvia débil;Turismo;Pasajero;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;440196;4481471;N;NULL
+2024S000299;05/01/2024;7:25:00;CALL. PRADO / CALL. ECHEGARAY;3;1;CENTRO;Choque contra obstáculo fijo;Despejado;Camión rígido;Conductor;De 25 a 29 años;Hombre;NULL;NULL;440645;4474018;N;NULL
+2024S000300;05/01/2024;9:30:00;CALL. ARCILLA, 7;7;17;VILLAVERDE;Choque contra obstáculo fijo;Despejado;Maquinaria de obras;Conductor;De 45 a 49 años;Hombre;NULL;NULL;439847;4466350;N;NULL
+2024S000300;05/01/2024;9:30:00;CALL. ARCILLA, 7;7;17;VILLAVERDE;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439847;4466350;N;NULL
+2024S000301;05/01/2024;10:20:00;AVDA. AMERICA, 2;2;4;SALAMANCA;Alcance;Despejado;Furgoneta;Conductor;Desconocido;Hombre;NULL;NULL;442586;4476547;N;NULL
+2024S000301;05/01/2024;10:20:00;AVDA. AMERICA, 2;2;4;SALAMANCA;Alcance;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;442586;4476547;N;NULL
+2024S000302;05/01/2024;10:50:00;CALL. SANTO TOME, 4;4;1;CENTRO;Alcance;NULL;Motocicleta hasta 125cc;Conductor;De 55 a 59 años;Hombre;NULL;NULL;441032;4474986;N;NULL
+2024S000302;05/01/2024;10:50:00;CALL. SANTO TOME, 4;4;1;CENTRO;Alcance;NULL;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;441032;4474986;N;NULL
+2024S000303;05/01/2024;10:20:00;CALLE ROBERTO DOMINGO;1A;4;SALAMANCA;Alcance;Despejado;Motocicleta hasta 125cc;Conductor;De 55 a 59 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;443879;4475896;N;NULL
+2024S000303;05/01/2024;10:20:00;CALLE ROBERTO DOMINGO;1A;4;SALAMANCA;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;443879;4475896;N;NULL
+2024S000304;05/01/2024;7:40:00;PLAZA. SANTA ANA, 6;6;1;CENTRO;Colisión múltiple;Despejado;Camión rígido;Conductor;De 25 a 29 años;Hombre;NULL;NULL;440551;4474001;N;NULL
+2024S000304;05/01/2024;7:40:00;PLAZA. SANTA ANA, 6;6;1;CENTRO;Colisión múltiple;Despejado;Furgoneta;Conductor;De 50 a 54 años;Hombre;NULL;NULL;440551;4474001;N;NULL
+2024S000304;05/01/2024;7:40:00;PLAZA. SANTA ANA, 6;6;1;CENTRO;Colisión múltiple;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;NULL;NULL;440551;4474001;N;NULL
+2024S000304;05/01/2024;7:40:00;PLAZA. SANTA ANA, 6;6;1;CENTRO;Colisión múltiple;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;440551;4474001;N;NULL
+2024S000305;05/01/2024;10:28:00;CALL. PRINCIPE DE VERGARA / PLAZA. REPUBLICA DOMINICANA;268;5;CHAMARTÍN;Atropello a persona;Despejado;Turismo;Conductor;De 45 a 49 años;Mujer;14;Sin asistencia sanitaria;442611;4478833;N;NULL
+2024S000305;05/01/2024;10:28:00;CALL. PRINCIPE DE VERGARA / PLAZA. REPUBLICA DOMINICANA;268;5;CHAMARTÍN;Atropello a persona;Despejado;Turismo;Peatón;De 45 a 49 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;442611;4478833;N;NULL
+2024S000306;05/01/2024;9:15:00;CALL. JOSE ANTONIO FERNANDEZ ORDOÑEZ / CALL. GUSTAVO PEREZ PUIG;7;16;HORTALEZA;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 21 a 24 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;448591;4482446;N;NULL
+2024S000306;05/01/2024;9:15:00;CALL. JOSE ANTONIO FERNANDEZ ORDOÑEZ / CALL. GUSTAVO PEREZ PUIG;7;16;HORTALEZA;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 50 a 54 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;448591;4482446;N;NULL
+2024S000306;05/01/2024;9:15:00;CALL. JOSE ANTONIO FERNANDEZ ORDOÑEZ / CALL. GUSTAVO PEREZ PUIG;7;16;HORTALEZA;Colisión fronto-lateral;Nublado;Turismo;Pasajero;De 10 a 14 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;448591;4482446;N;NULL
+2024S000306;05/01/2024;9:15:00;CALL. JOSE ANTONIO FERNANDEZ ORDOÑEZ / CALL. GUSTAVO PEREZ PUIG;7;16;HORTALEZA;Colisión fronto-lateral;Nublado;Turismo;Pasajero;De 10 a 14 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;448591;4482446;N;NULL
+2024S000307;04/01/2024;13:30:00;AUTOV. M-30, 07NL20;07NL20;4;SALAMANCA;Alcance;LLuvia intensa;Motocicleta hasta 125cc;Conductor;De 21 a 24 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;444081;4475050;N;NULL
+2024S000307;04/01/2024;13:30:00;AUTOV. M-30, 07NL20;07NL20;4;SALAMANCA;Alcance;LLuvia intensa;Motocicleta hasta 125cc;Pasajero;De 21 a 24 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;444081;4475050;N;NULL
+2024S000307;04/01/2024;13:30:00;AUTOV. M-30, 07NL20;07NL20;4;SALAMANCA;Alcance;LLuvia intensa;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;444081;4475050;N;NULL
+2024S000312;05/01/2024;11:45:00;CALL. RAIMUNDO FERNANDEZ VILLAVERDE / CALL. EDGAR NEVILLE;47;6;TETUÁN;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 35 a 39 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;440886;4477563;N;NULL
+2024S000312;05/01/2024;11:45:00;CALL. RAIMUNDO FERNANDEZ VILLAVERDE / CALL. EDGAR NEVILLE;47;6;TETUÁN;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;440886;4477563;N;NULL
+2024S000313;05/01/2024;12:20:00;AVDA. SAN DIEGO / CALL. PUERTO DE LA BONAIGUA;122;13;PUENTE DE VALLECAS;Atropello a persona;Despejado;Furgoneta;Conductor;De 21 a 24 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;443449;4470733;N;NULL
+2024S000313;05/01/2024;12:20:00;AVDA. SAN DIEGO / CALL. PUERTO DE LA BONAIGUA;122;13;PUENTE DE VALLECAS;Atropello a persona;Despejado;Furgoneta;Peatón;Más de 74 años;Hombre;4;Fallecido 24 horas;443449;4470733;N;NULL
+2024S000314;05/01/2024;12:00:00;AVDA. CANILLEJAS A VICALVARO / AUTOV. M-40;167;20;SAN BLAS-CANILLEJAS;Choque contra obstáculo fijo;Nublado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;448212;4474335;N;NULL
+2024S000315;05/01/2024;12:30:00;CALL. SILVA / CALL. SAN BERNARDO;1;1;CENTRO;Colisión fronto-lateral;Despejado;Furgoneta;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;439908;4474675;N;1
+2024S000315;05/01/2024;12:30:00;CALL. SILVA / CALL. SAN BERNARDO;1;1;CENTRO;Colisión fronto-lateral;Despejado;Motocicleta > 125cc;Conductor;De 40 a 44 años;Mujer;2;Ingreso inferior o igual a 24 horas;439908;4474675;N;NULL
+2024S000316;05/01/2024;12:18:00;AVDA. LOS ROSALES / CALL. MATACHEL;90;17;VILLAVERDE;Colisión fronto-lateral;Despejado;Camión rígido;Conductor;Desconocido;Desconocido;NULL;NULL;442257;4467246;N;NULL
+2024S000316;05/01/2024;12:18:00;AVDA. LOS ROSALES / CALL. MATACHEL;90;17;VILLAVERDE;Colisión fronto-lateral;Despejado;Furgoneta;Conductor;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;442257;4467246;N;NULL
+2024S000316;05/01/2024;12:18:00;AVDA. LOS ROSALES / CALL. MATACHEL;90;17;VILLAVERDE;Colisión fronto-lateral;Despejado;Motocicleta > 125cc;Conductor;De 40 a 44 años;Hombre;1;Atención en urgencias sin posterior ingreso;442257;4467246;N;NULL
+2024S000317;05/01/2024;13:00:00;AVDA. MADRID MERCAMADRID / AVDA. LEGAZPI MERCAMADRID;1;18;VILLA DE VALLECAS;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;443762;4467923;N;NULL
+2024S000317;05/01/2024;13:00:00;AVDA. MADRID MERCAMADRID / AVDA. LEGAZPI MERCAMADRID;1;18;VILLA DE VALLECAS;Colisión fronto-lateral;Despejado;VMU eléctrico;Conductor;De 40 a 44 años;Hombre;1;Atención en urgencias sin posterior ingreso;443762;4467923;N;NULL
+2024S000318;05/01/2024;14:15:00;CALL. VELAZQUEZ, 85;85;4;SALAMANCA;Colisión lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;442026;4476086;N;NULL
+2024S000318;05/01/2024;14:15:00;CALL. VELAZQUEZ, 85;85;4;SALAMANCA;Colisión lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;442026;4476086;N;NULL
+2024S000318;05/01/2024;14:15:00;CALL. VELAZQUEZ, 85;85;4;SALAMANCA;Colisión lateral;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;442026;4476086;N;NULL
+2024S000318;05/01/2024;14:15:00;CALL. VELAZQUEZ, 85;85;4;SALAMANCA;Colisión lateral;Despejado;Turismo;Pasajero;De 25 a 29 años;Mujer;14;Sin asistencia sanitaria;442026;4476086;N;NULL
+2024S000319;04/01/2024;19:50:00;CALL. GENERAL RICARDOS, 49;49;11;CARABANCHEL;Atropello a persona;Lluvia débil;NULL;Conductor;Desconocido;Desconocido;NULL;NULL;438826;4471847;N;NULL
+2024S000319;04/01/2024;19:50:00;CALL. GENERAL RICARDOS, 49;49;11;CARABANCHEL;Atropello a persona;Lluvia débil;NULL;Peatón;De 35 a 39 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;438826;4471847;N;NULL
+2024S000320;05/01/2024;14:20:00;AVDA. BUENOS AIRES / CALL. PEDRO LABORDE;67;13;PUENTE DE VALLECAS;Colisión fronto-lateral;NULL;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;444573;4470585;N;NULL
+2024S000320;05/01/2024;14:20:00;AVDA. BUENOS AIRES / CALL. PEDRO LABORDE;67;13;PUENTE DE VALLECAS;Colisión fronto-lateral;NULL;Turismo;Conductor;De 30 a 34 años;Mujer;NULL;NULL;444573;4470585;N;NULL
+2024S000320;05/01/2024;14:20:00;AVDA. BUENOS AIRES / CALL. PEDRO LABORDE;67;13;PUENTE DE VALLECAS;Colisión fronto-lateral;NULL;Turismo;Pasajero;De 25 a 29 años;Hombre;NULL;NULL;444573;4470585;N;NULL
+2024S000321;05/01/2024;14:15:00;CALL. JOAQUIN COSTA, 14 TÚNEL;14;5;CHAMARTÍN;Colisión múltiple;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;441857;4477402;N;NULL
+2024S000321;05/01/2024;14:15:00;CALL. JOAQUIN COSTA, 14 TÚNEL;14;5;CHAMARTÍN;Colisión múltiple;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;441857;4477402;N;NULL
+2024S000321;05/01/2024;14:15:00;CALL. JOAQUIN COSTA, 14 TÚNEL;14;5;CHAMARTÍN;Colisión múltiple;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;441857;4477402;N;NULL
+2024S000321;05/01/2024;14:15:00;CALL. JOAQUIN COSTA, 14 TÚNEL;14;5;CHAMARTÍN;Colisión múltiple;Despejado;Turismo;Pasajero;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;441857;4477402;N;NULL
+2024S000322;05/01/2024;13:55:00;AVDA. POBLADOS, 151;151;11;CARABANCHEL;Colisión múltiple;Despejado;Turismo;Conductor;De 50 a 54 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;438802;4469491;N;NULL
+2024S000322;05/01/2024;13:55:00;AVDA. POBLADOS, 151;151;11;CARABANCHEL;Colisión múltiple;Despejado;Turismo;Conductor;De 50 a 54 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;438802;4469491;N;NULL
+2024S000322;05/01/2024;13:55:00;AVDA. POBLADOS, 151;151;11;CARABANCHEL;Colisión múltiple;Despejado;Turismo;Conductor;De 55 a 59 años;Mujer;14;Sin asistencia sanitaria;438802;4469491;N;NULL
+2024S000323;05/01/2024;14:35:00;CALL. RESINA / CALL. SAN DALMACIO;1;17;VILLAVERDE;Colisión lateral;NULL;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;440927;4465298;N;NULL
+2024S000323;05/01/2024;14:35:00;CALL. RESINA / CALL. SAN DALMACIO;1;17;VILLAVERDE;Colisión lateral;NULL;Vehículo articulado;Conductor;Desconocido;Desconocido;NULL;NULL;440927;4465298;N;NULL
+2024S000324;05/01/2024;14:55:00;CALL. DOCTOR ESQUERDO / CALL. GOYA;14;4;SALAMANCA;Colisión lateral;Despejado;Furgoneta;Conductor;De 70 a 74 años;Mujer;14;Sin asistencia sanitaria;443261;4475093;N;NULL
+2024S000324;05/01/2024;14:55:00;CALL. DOCTOR ESQUERDO / CALL. GOYA;14;4;SALAMANCA;Colisión lateral;Despejado;Motocicleta > 125cc;Conductor;De 40 a 44 años;Hombre;3;Ingreso superior a 24 horas;443261;4475093;N;NULL
+2024S000324;05/01/2024;14:55:00;CALL. DOCTOR ESQUERDO / CALL. GOYA;14;4;SALAMANCA;Colisión lateral;Despejado;Motocicleta > 125cc;Pasajero;De 50 a 54 años;Mujer;3;Ingreso superior a 24 horas;443261;4475093;N;NULL
+2024S000325;05/01/2024;15:05:00;CALL. JOVELLANOS / CALL. LOS MADRAZO;1;1;CENTRO;Colisión fronto-lateral;NULL;Turismo;Conductor;De 35 a 39 años;Mujer;NULL;NULL;440893;4474343;N;NULL
+2024S000325;05/01/2024;15:05:00;CALL. JOVELLANOS / CALL. LOS MADRAZO;1;1;CENTRO;Colisión fronto-lateral;NULL;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;440893;4474343;N;NULL
+2024S000326;05/01/2024;16:15:00;AVDA. JUAN ANTONIO SAMARANCH, 64;64;16;HORTALEZA;Colisión fronto-lateral;Despejado;NULL;Conductor;Desconocido;Desconocido;NULL;NULL;448276;4482495;N;NULL
+2024S000326;05/01/2024;16:15:00;AVDA. JUAN ANTONIO SAMARANCH, 64;64;16;HORTALEZA;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 25 a 29 años;Mujer;NULL;NULL;448276;4482495;N;NULL
+2024S000326;05/01/2024;16:15:00;AVDA. JUAN ANTONIO SAMARANCH, 64;64;16;HORTALEZA;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 21 a 24 años;Hombre;NULL;NULL;448276;4482495;N;NULL
+2024S000330;05/01/2024;16:25:00;CALL. VALLEHERMOSO, 20;20;7;CHAMBERÍ;Colisión lateral;Despejado;Furgoneta;Conductor;De 45 a 49 años;Hombre;NULL;NULL;439873;4475929;N;NULL
+2024S000330;05/01/2024;16:25:00;CALL. VALLEHERMOSO, 20;20;7;CHAMBERÍ;Colisión lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 55 a 59 años;Hombre;NULL;NULL;439873;4475929;N;NULL
+2024S000331;05/01/2024;16:45:00;AVDA. MAYORAZGO / AUTOV. M-45;131;18;VILLA DE VALLECAS;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 21 a 24 años;Mujer;14;Sin asistencia sanitaria;447918;4467921;N;NULL
+2024S000331;05/01/2024;16:45:00;AVDA. MAYORAZGO / AUTOV. M-45;131;18;VILLA DE VALLECAS;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 45 a 49 años;Mujer;14;Sin asistencia sanitaria;447918;4467921;N;NULL
+2024S000331;05/01/2024;16:45:00;AVDA. MAYORAZGO / AUTOV. M-45;131;18;VILLA DE VALLECAS;Colisión fronto-lateral;Despejado;Turismo;Pasajero;Menor de 5 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;447918;4467921;N;NULL
+2024S000332;05/01/2024;14:40:00;CALL. ALTO DEL RETIRO, 10;10;18;VILLA DE VALLECAS;Atropello a persona;Despejado;Turismo;Conductor;De 35 a 39 años;Mujer;14;Sin asistencia sanitaria;449042;4468912;N;NULL
+2024S000332;05/01/2024;14:40:00;CALL. ALTO DEL RETIRO, 10;10;18;VILLA DE VALLECAS;Atropello a persona;Despejado;Turismo;Peatón;De 25 a 29 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;449042;4468912;N;NULL
+2024S000333;05/01/2024;17:05:00;AUTOV. M-30, 29NC91;29NC91;8;FUENCARRAL-EL PARDO;Alcance;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;NULL;NULL;440650;4481669;N;NULL
+2024S000333;05/01/2024;17:05:00;AUTOV. M-30, 29NC91;29NC91;8;FUENCARRAL-EL PARDO;Alcance;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;440650;4481669;N;NULL
+2024S000333;05/01/2024;17:05:00;AUTOV. M-30, 29NC91;29NC91;8;FUENCARRAL-EL PARDO;Alcance;Despejado;Turismo;Pasajero;De 10 a 14 años;Mujer;NULL;NULL;440650;4481669;N;NULL
+2024S000333;05/01/2024;17:05:00;AUTOV. M-30, 29NC91;29NC91;8;FUENCARRAL-EL PARDO;Alcance;Despejado;Turismo;Pasajero;De 10 a 14 años;Mujer;NULL;NULL;440650;4481669;N;NULL
+2024S000333;05/01/2024;17:05:00;AUTOV. M-30, 29NC91;29NC91;8;FUENCARRAL-EL PARDO;Alcance;Despejado;Turismo;Pasajero;De 45 a 49 años;Hombre;NULL;NULL;440650;4481669;N;NULL
+2024S000333;05/01/2024;17:05:00;AUTOV. M-30, 29NC91;29NC91;8;FUENCARRAL-EL PARDO;Alcance;Despejado;Turismo;Pasajero;De 45 a 49 años;Mujer;NULL;NULL;440650;4481669;N;NULL
+2024S000334;05/01/2024;17:30:00;CALL. GRAN VIA, 31;31;1;CENTRO;Caída;NULL;Motocicleta > 125cc;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;440262;4474630;N;NULL
+2024S000334;05/01/2024;17:30:00;CALL. GRAN VIA, 31;31;1;CENTRO;Caída;NULL;Turismo;Conductor;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;440262;4474630;N;NULL
+2024S000336;05/01/2024;15:44:00;AUTOV. M-30, 10NL20;10NL20;3;RETIRO;Alcance;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;442727;4471682;N;NULL
+2024S000336;05/01/2024;15:44:00;AUTOV. M-30, 10NL20;10NL20;3;RETIRO;Alcance;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;442727;4471682;N;NULL
+2024S000336;05/01/2024;15:44:00;AUTOV. M-30, 10NL20;10NL20;3;RETIRO;Alcance;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;442727;4471682;N;NULL
+2024S000338;05/01/2024;18:08:00;AVDA. PIO XII / CALL. JEREZ;6;5;CHAMARTÍN;Colisión fronto-lateral;Despejado;Todo terreno;Conductor;Más de 74 años;Hombre;NULL;NULL;442696;4479475;N;NULL
+2024S000338;05/01/2024;18:08:00;AVDA. PIO XII / CALL. JEREZ;6;5;CHAMARTÍN;Colisión fronto-lateral;Despejado;Todo terreno;Pasajero;Más de 74 años;Mujer;NULL;NULL;442696;4479475;N;NULL
+2024S000338;05/01/2024;18:08:00;AVDA. PIO XII / CALL. JEREZ;6;5;CHAMARTÍN;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;442696;4479475;N;NULL
+2024S000339;05/01/2024;18:32:00;CALL. O'DONNELL, 77;77;4;SALAMANCA;Choque contra obstáculo fijo;Nublado;Furgoneta;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;443608;4474617;N;NULL
+2024S000340;05/01/2024;18:29:00;CALL. PIRRA / CALL. ARACNE;14;20;SAN BLAS-CANILLEJAS;Alcance;NULL;Turismo;Conductor;De 40 a 44 años;Mujer;NULL;NULL;449981;4477375;N;NULL
+2024S000340;05/01/2024;18:29:00;CALL. PIRRA / CALL. ARACNE;14;20;SAN BLAS-CANILLEJAS;Alcance;NULL;Turismo;Conductor;De 55 a 59 años;Mujer;NULL;NULL;449981;4477375;N;NULL
+2024S000340;05/01/2024;18:29:00;CALL. PIRRA / CALL. ARACNE;14;20;SAN BLAS-CANILLEJAS;Alcance;NULL;Turismo;Pasajero;De 15 a 17 años;Mujer;14;Sin asistencia sanitaria;449981;4477375;N;NULL
+2024S000341;05/01/2024;20:35:00;GTA. LOPEZ DE HOYOS / CALL. EDISON;3;5;CHAMARTÍN;Colisión lateral;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;442278;4476835;N;NULL
+2024S000341;05/01/2024;20:35:00;GTA. LOPEZ DE HOYOS / CALL. EDISON;3;5;CHAMARTÍN;Colisión lateral;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;442278;4476835;N;NULL
+2024S000341;05/01/2024;20:35:00;GTA. LOPEZ DE HOYOS / CALL. EDISON;3;5;CHAMARTÍN;Colisión lateral;Despejado;Turismo;Pasajero;De 55 a 59 años;Mujer;NULL;NULL;442278;4476835;N;NULL
+2024S000342;05/01/2024;21:00:00;CALL. JACOMETREZO, 1;1;1;CENTRO;Choque contra obstáculo fijo;Despejado;Autobús;Conductor;De 55 a 59 años;Hombre;NULL;NULL;440070;4474640;N;NULL
+2024S000342;05/01/2024;21:00:00;CALL. JACOMETREZO, 1;1;1;CENTRO;Choque contra obstáculo fijo;Despejado;Motocicleta hasta 125cc;Conductor;Desconocido;Desconocido;NULL;NULL;440070;4474640;N;NULL
+2024S000342;05/01/2024;21:00:00;CALL. JACOMETREZO, 1;1;1;CENTRO;Choque contra obstáculo fijo;Despejado;Motocicleta hasta 125cc;Conductor;Desconocido;Desconocido;NULL;NULL;440070;4474640;N;NULL
+2024S000343;05/01/2024;20:44:00;CALL. ORENSE, 15;15;6;TETUÁN;Colisión lateral;Nublado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;441036;4477828;N;NULL
+2024S000343;05/01/2024;20:44:00;CALL. ORENSE, 15;15;6;TETUÁN;Colisión lateral;Nublado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;441036;4477828;N;NULL
+2024S000343;05/01/2024;20:44:00;CALL. ORENSE, 15;15;6;TETUÁN;Colisión lateral;Nublado;Turismo;Pasajero;De 25 a 29 años;Hombre;NULL;NULL;441036;4477828;N;NULL
+2024S000343;05/01/2024;20:44:00;CALL. ORENSE, 15;15;6;TETUÁN;Colisión lateral;Nublado;Turismo;Pasajero;De 25 a 29 años;Mujer;NULL;NULL;441036;4477828;N;NULL
+2024S000343;05/01/2024;20:44:00;CALL. ORENSE, 15;15;6;TETUÁN;Colisión lateral;Nublado;Turismo;Pasajero;De 25 a 29 años;Mujer;NULL;NULL;441036;4477828;N;NULL
+2024S000343;05/01/2024;20:44:00;CALL. ORENSE, 15;15;6;TETUÁN;Colisión lateral;Nublado;Turismo;Pasajero;De 50 a 54 años;Mujer;NULL;NULL;441036;4477828;N;NULL
+2024S000344;05/01/2024;20:36:00;CALL. GOLONDRINA / CALL. ROSAS DE ARAVACA;104;9;MONCLOA-ARAVACA;Atropello a persona;Despejado;Turismo;Conductor;De 65 a 69 años;Mujer;14;Sin asistencia sanitaria;433428;4477863;N;NULL
+2024S000344;05/01/2024;20:36:00;CALL. GOLONDRINA / CALL. ROSAS DE ARAVACA;104;9;MONCLOA-ARAVACA;Atropello a persona;Despejado;Turismo;Peatón;De 50 a 54 años;Mujer;1;Atención en urgencias sin posterior ingreso;433428;4477863;N;NULL
+2024S000345;05/01/2024;20:54:00;CALL. HELSINKI, 29;29;20;SAN BLAS-CANILLEJAS;Caída;Despejado;Ciclomotor;Conductor;De 25 a 29 años;Hombre;5;Asistencia sanitaria ambulatoria con posterioridad;448799;4475453;N;NULL
+2024S000346;04/01/2024;18:30:00;CALL. JOSE ANTONIO FERNANDEZ ORDOÑEZ / CALL. GUSTAVO PEREZ PUIG;46;16;HORTALEZA;Colisión lateral;Despejado;Turismo;Conductor;De 18 a 20 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;448590;4482446;N;NULL
+2024S000346;04/01/2024;18:30:00;CALL. JOSE ANTONIO FERNANDEZ ORDOÑEZ / CALL. GUSTAVO PEREZ PUIG;46;16;HORTALEZA;Colisión lateral;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;448590;4482446;N;NULL
+2024S000346;04/01/2024;18:30:00;CALL. JOSE ANTONIO FERNANDEZ ORDOÑEZ / CALL. GUSTAVO PEREZ PUIG;46;16;HORTALEZA;Colisión lateral;Despejado;Turismo;Pasajero;De 18 a 20 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;448590;4482446;N;NULL
+2024S000346;04/01/2024;18:30:00;CALL. JOSE ANTONIO FERNANDEZ ORDOÑEZ / CALL. GUSTAVO PEREZ PUIG;46;16;HORTALEZA;Colisión lateral;Despejado;Turismo;Pasajero;De 18 a 20 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;448590;4482446;N;NULL
+2024S000347;05/01/2024;21:50:00;CALL. ANTONIO LOPEZ / CALL. BALEARES;24;11;CARABANCHEL;Colisión lateral;Nublado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439438;4472028;N;NULL
+2024S000347;05/01/2024;21:50:00;CALL. ANTONIO LOPEZ / CALL. BALEARES;24;11;CARABANCHEL;Colisión lateral;Nublado;VMU eléctrico;Conductor;De 15 a 17 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;439438;4472028;N;NULL
+2024S000348;05/01/2024;21:24:00;CALL. LA CENICIENTA / CALL. MOGAMBO;3;13;PUENTE DE VALLECAS;Colisión frontal;Despejado;Todo terreno;Conductor;De 50 a 54 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;444202;4470107;S;NULL
+2024S000348;05/01/2024;21:24:00;CALL. LA CENICIENTA / CALL. MOGAMBO;3;13;PUENTE DE VALLECAS;Colisión frontal;Despejado;Turismo;Conductor;De 21 a 24 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;444202;4470107;N;NULL
+2024S000348;05/01/2024;21:24:00;CALL. LA CENICIENTA / CALL. MOGAMBO;3;13;PUENTE DE VALLECAS;Colisión frontal;Despejado;Turismo;Pasajero;De 21 a 24 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;444202;4470107;N;NULL
+2024S000349;05/01/2024;18:35:00;CALL. VILLABLANCA / CALL. MINERVA;1;19;VICÁLVARO;Alcance;Nublado;Motocicleta hasta 125cc;Conductor;De 25 a 29 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;449277;4472861;N;NULL
+2024S000349;05/01/2024;18:35:00;CALL. VILLABLANCA / CALL. MINERVA;1;19;VICÁLVARO;Alcance;Nublado;Todo terreno;Conductor;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;449277;4472861;N;NULL
+2024S000350;05/01/2024;20:10:00;AVDA. MIGUEL DELIBES / CALL. LA RODA;1;19;VICÁLVARO;Atropello a persona;Despejado;Turismo;Conductor;De 55 a 59 años;Mujer;14;Sin asistencia sanitaria;451839;4473322;N;NULL
+2024S000350;05/01/2024;20:10:00;AVDA. MIGUEL DELIBES / CALL. LA RODA;1;19;VICÁLVARO;Atropello a persona;Despejado;Turismo;Peatón;De 50 a 54 años;Hombre;3;Ingreso superior a 24 horas;451839;4473322;N;NULL
+2024S000351;05/01/2024;20:40:00;CALL. CAMPOS IBAÑEZ, 22;22;17;VILLAVERDE;Colisión lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 50 a 54 años;Hombre;1;Atención en urgencias sin posterior ingreso;441801;4467248;S;NULL
+2024S000351;05/01/2024;20:40:00;CALL. CAMPOS IBAÑEZ, 22;22;17;VILLAVERDE;Colisión lateral;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;441801;4467248;N;NULL
+2024S000352;05/01/2024;22:35:00;AVDA. PLANETARIO, 20;20;2;ARGANZUELA;Caída;Despejado;VMU eléctrico;Conductor;De 25 a 29 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;441720;4471220;N;NULL
+2024S000353;05/01/2024;22:30:00;CALL. ANTONIO LOPEZ, 254A;254A;12;USERA;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;440965;4470156;N;NULL
+2024S000353;05/01/2024;22:30:00;CALL. ANTONIO LOPEZ, 254A;254A;12;USERA;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;440965;4470156;N;NULL
+2024S000361;06/01/2024;0:45:00;CALL. ALCALA / CALL. JULIO CAMBA;200A;4;SALAMANCA;Alcance;Despejado;Bicicleta EPAC (pedaleo asistido);Conductor;De 21 a 24 años;Hombre;3;Ingreso superior a 24 horas;443677;4475741;N;NULL
+2024S000361;06/01/2024;0:45:00;CALL. ALCALA / CALL. JULIO CAMBA;200A;4;SALAMANCA;Alcance;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;443677;4475741;N;NULL
+2024S000368;06/01/2024;2:10:00;AUTOV. A-3, P.K 4,400;+00400S;13;PUENTE DE VALLECAS;Colisión lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;444570;4472806;S;NULL
+2024S000368;06/01/2024;2:10:00;AUTOV. A-3, P.K 4,400;+00400S;13;PUENTE DE VALLECAS;Colisión lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;NULL;NULL;444570;4472806;N;NULL
+2024S000368;06/01/2024;2:10:00;AUTOV. A-3, P.K 4,400;+00400S;13;PUENTE DE VALLECAS;Colisión lateral;Despejado;Turismo;Pasajero;De 45 a 49 años;Mujer;NULL;NULL;444570;4472806;N;NULL
+2024S000371;06/01/2024;0:40:00;AVDA. CARABANCHEL ALTO, 96;96;11;CARABANCHEL;Alcance;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;436035;4468808;N;NULL
+2024S000371;06/01/2024;0:40:00;AVDA. CARABANCHEL ALTO, 96;96;11;CARABANCHEL;Alcance;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;436035;4468808;N;NULL
+2024S000372;06/01/2024;3:45:00;GTA. SAN VICENTE, 1;1;9;MONCLOA-ARAVACA;Choque contra obstáculo fijo;NULL;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;438880;4474621;N;NULL
+2024S000375;06/01/2024;5:30:00;RONDA. ATOCHA / PLAZA. EMPERADOR CARLOS V;2;1;CENTRO;Choque contra obstáculo fijo;Despejado;Camión rígido;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;441114;4473199;N;NULL
+2024S000377;06/01/2024;5:30:00;AVDA. RAFAELA YBARRA, 133;133;17;VILLAVERDE;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;2;Ingreso inferior o igual a 24 horas;439276;4467938;S;1
+2024S000377;06/01/2024;5:30:00;AVDA. RAFAELA YBARRA, 133;133;17;VILLAVERDE;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 18 a 20 años;Hombre;2;Ingreso inferior o igual a 24 horas;439276;4467938;N;NULL
+2024S000377;06/01/2024;5:30:00;AVDA. RAFAELA YBARRA, 133;133;17;VILLAVERDE;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 18 a 20 años;Hombre;2;Ingreso inferior o igual a 24 horas;439276;4467938;N;NULL
+2024S000377;06/01/2024;5:30:00;AVDA. RAFAELA YBARRA, 133;133;17;VILLAVERDE;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 21 a 24 años;Hombre;3;Ingreso superior a 24 horas;439276;4467938;N;NULL
+2024S000379;06/01/2024;6:30:00;CALL. SERRANO, 81;81;4;SALAMANCA;Colisión lateral;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;441781;4476415;N;NULL
+2024S000379;06/01/2024;6:30:00;CALL. SERRANO, 81;81;4;SALAMANCA;Colisión lateral;Despejado;Turismo;Conductor;De 45 a 49 años;Mujer;NULL;NULL;441781;4476415;S;NULL
+2024S000380;06/01/2024;6:30:00;PLAZA. CORREGIDOR LICENCIADO ANTONIO DE MENA / AVDA. DOCTOR GARCIA TAPIA;0;14;MORATALAZ;Solo salida de la vía;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;445592;4473455;S;NULL
+2024S000381;06/01/2024;6:50:00;AVDA. ENTREVIAS / CALL. CARDEÑOSA;40;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;NULL;Furgoneta;Conductor;Desconocido;Desconocido;NULL;NULL;443079;4470684;N;NULL
+2024S000381;06/01/2024;6:50:00;AVDA. ENTREVIAS / CALL. CARDEÑOSA;40;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;NULL;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;443079;4470684;S;NULL
+2024S000381;06/01/2024;6:50:00;AVDA. ENTREVIAS / CALL. CARDEÑOSA;40;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;443079;4470684;N;NULL
+2024S000381;06/01/2024;6:50:00;AVDA. ENTREVIAS / CALL. CARDEÑOSA;40;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;NULL;Turismo;Pasajero;De 25 a 29 años;Hombre;NULL;NULL;443079;4470684;N;NULL
+2024S000383;06/01/2024;9:10:00;CTRA. VILLAVERDE A VALLECAS, 260;260;18;VILLA DE VALLECAS;Choque contra obstáculo fijo;Despejado;Todo terreno;Conductor;De 45 a 49 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;445402;4469106;N;NULL
+2024S000384;06/01/2024;12:10:00;RONDA. SEGOVIA, 4;4;2;ARGANZUELA;Colisión lateral;Despejado;Maquinaria de obras;Conductor;De 45 a 49 años;Hombre;NULL;NULL;439132;4473466;N;NULL
+2024S000384;06/01/2024;12:10:00;RONDA. SEGOVIA, 4;4;2;ARGANZUELA;Colisión lateral;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;NULL;NULL;439132;4473466;N;NULL
+2024S000384;06/01/2024;12:10:00;RONDA. SEGOVIA, 4;4;2;ARGANZUELA;Colisión lateral;Despejado;Turismo;Conductor;De 45 a 49 años;Mujer;NULL;NULL;439132;4473466;N;NULL
+2024S000384;06/01/2024;12:10:00;RONDA. SEGOVIA, 4;4;2;ARGANZUELA;Colisión lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439132;4473466;N;NULL
+2024S000384;06/01/2024;12:10:00;RONDA. SEGOVIA, 4;4;2;ARGANZUELA;Colisión lateral;Despejado;Turismo;Conductor;Más de 74 años;Hombre;NULL;NULL;439132;4473466;N;NULL
+2024S000385;06/01/2024;11:40:00;CALL. CALAHORRA, 10;10;19;VICÁLVARO;Colisión lateral;Se desconoce;NULL;Conductor;Desconocido;Desconocido;NULL;NULL;448171;4473197;N;NULL
+2024S000385;06/01/2024;11:40:00;CALL. CALAHORRA, 10;10;19;VICÁLVARO;Colisión lateral;Se desconoce;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;448171;4473197;N;NULL
+2024S000385;06/01/2024;11:40:00;CALL. CALAHORRA, 10;10;19;VICÁLVARO;Colisión lateral;Se desconoce;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;448171;4473197;N;NULL
+2024S000386;06/01/2024;12:35:00;CALL. MELILLA, 7;7;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;439746;4472561;N;NULL
+2024S000386;06/01/2024;12:35:00;CALL. MELILLA, 7;7;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;439746;4472561;N;NULL
+2024S000386;06/01/2024;12:35:00;CALL. MELILLA, 7;7;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 45 a 49 años;Mujer;NULL;NULL;439746;4472561;N;NULL
+2024S000387;06/01/2024;12:30:00;AUTOV. M-30, 03XC79 TRANSFER DE CENTRAL A LATERAL;03XC79;15;CIUDAD LINEAL;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;2;Ingreso inferior o igual a 24 horas;443801;4478160;N;NULL
+2024S000388;06/01/2024;12:30:00;CALL. VALENCIA DE DON JUAN, 16;16;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;440286;4481899;N;1
+2024S000388;06/01/2024;12:30:00;CALL. VALENCIA DE DON JUAN, 16;16;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;440286;4481899;N;NULL
+2024S000388;06/01/2024;12:30:00;CALL. VALENCIA DE DON JUAN, 16;16;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;440286;4481899;N;NULL
+2024S000388;06/01/2024;12:30:00;CALL. VALENCIA DE DON JUAN, 16;16;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;440286;4481899;N;NULL
+2024S000388;06/01/2024;12:30:00;CALL. VALENCIA DE DON JUAN, 16;16;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;440286;4481899;N;NULL
+2024S000388;06/01/2024;12:30:00;CALL. VALENCIA DE DON JUAN, 16;16;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;440286;4481899;N;NULL
+2024S000388;06/01/2024;12:30:00;CALL. VALENCIA DE DON JUAN, 16;16;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;440286;4481899;N;NULL
+2024S000389;06/01/2024;13:08:00;CALL. ALEJANDRO MORAN / CALL. JUAN FRANCISCO;11;11;CARABANCHEL;Colisión fronto-lateral;Despejado;Bicicleta;Conductor;De 21 a 24 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;437784;4470932;N;NULL
+2024S000389;06/01/2024;13:08:00;CALL. ALEJANDRO MORAN / CALL. JUAN FRANCISCO;11;11;CARABANCHEL;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;437784;4470932;N;NULL
+2024S000390;06/01/2024;14:35:00;AVDA. LAS AGUILAS / AVDA. POBLADOS;2A;10;LATINA;Colisión lateral;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;435341;4470854;N;NULL
+2024S000390;06/01/2024;14:35:00;AVDA. LAS AGUILAS / AVDA. POBLADOS;2A;10;LATINA;Colisión lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;435341;4470854;S;NULL
+2024S000390;06/01/2024;14:35:00;AVDA. LAS AGUILAS / AVDA. POBLADOS;2A;10;LATINA;Colisión lateral;Despejado;Turismo;Pasajero;De 15 a 17 años;Mujer;NULL;NULL;435341;4470854;N;NULL
+2024S000390;06/01/2024;14:35:00;AVDA. LAS AGUILAS / AVDA. POBLADOS;2A;10;LATINA;Colisión lateral;Despejado;Turismo;Pasajero;De 50 a 54 años;Mujer;NULL;NULL;435341;4470854;N;NULL
+2024S000391;05/01/2024;21:55:00;CALL. FERNANDEZ DE LA HOZ / CALL. BRETON DE LOS HERREROS;74;7;CHAMBERÍ;Colisión lateral;Despejado;Ciclomotor;Conductor;De 35 a 39 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;441105;4476769;N;NULL
+2024S000391;05/01/2024;21:55:00;CALL. FERNANDEZ DE LA HOZ / CALL. BRETON DE LOS HERREROS;74;7;CHAMBERÍ;Colisión lateral;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;441105;4476769;N;NULL
+2024S000391;05/01/2024;21:55:00;CALL. FERNANDEZ DE LA HOZ / CALL. BRETON DE LOS HERREROS;74;7;CHAMBERÍ;Colisión lateral;Despejado;Turismo;Pasajero;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;441105;4476769;N;NULL
+2024S000392;05/01/2024;14:05:00;CALL. ARCOS DE JALON, 12;12;20;SAN BLAS-CANILLEJAS;Colisión lateral;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;447073;4474591;N;NULL
+2024S000392;05/01/2024;14:05:00;CALL. ARCOS DE JALON, 12;12;20;SAN BLAS-CANILLEJAS;Colisión lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;447073;4474591;N;NULL
+2024S000393;06/01/2024;15:45:00;CALL. CAVA DE SAN MIGUEL, 17;17;1;CENTRO;Alcance;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;439907;4474057;N;NULL
+2024S000393;06/01/2024;15:45:00;CALL. CAVA DE SAN MIGUEL, 17;17;1;CENTRO;Alcance;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;439907;4474057;N;NULL
+2024S000394;06/01/2024;14:40:00;CALL. PRINCIPE DE VERGARA / CALL. SERRANO;227;5;CHAMARTÍN;Caída;Despejado;Motocicleta > 125cc;Conductor;De 18 a 20 años;Hombre;NULL;NULL;442564;4478482;N;NULL
+2024S000394;06/01/2024;14:40:00;CALL. PRINCIPE DE VERGARA / CALL. SERRANO;227;5;CHAMARTÍN;Caída;Despejado;Turismo;Conductor;De 45 a 49 años;Mujer;NULL;NULL;442564;4478482;N;NULL
+2024S000395;06/01/2024;14:35:00;PASEO. JESUITAS / CALL. NAVAS DEL REY;55;10;LATINA;Colisión frontal;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;437650;4473344;N;NULL
+2024S000395;06/01/2024;14:35:00;PASEO. JESUITAS / CALL. NAVAS DEL REY;55;10;LATINA;Colisión frontal;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;437650;4473344;N;NULL
+2024S000395;06/01/2024;14:35:00;PASEO. JESUITAS / CALL. NAVAS DEL REY;55;10;LATINA;Colisión frontal;Despejado;Turismo;Pasajero;De 10 a 14 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;437650;4473344;N;NULL
+2024S000395;06/01/2024;14:35:00;PASEO. JESUITAS / CALL. NAVAS DEL REY;55;10;LATINA;Colisión frontal;Despejado;Turismo;Pasajero;De 15 a 17 años;Mujer;14;Sin asistencia sanitaria;437650;4473344;N;NULL
+2024S000395;06/01/2024;14:35:00;PASEO. JESUITAS / CALL. NAVAS DEL REY;55;10;LATINA;Colisión frontal;Despejado;Turismo;Pasajero;De 21 a 24 años;Mujer;14;Sin asistencia sanitaria;437650;4473344;N;NULL
+2024S000396;06/01/2024;15:20:00;CALL. AMADEO GOMEZ / CALL. JOAQUIN LORENZO;2;8;FUENCARRAL-EL PARDO;Alcance;Despejado;Motocicleta hasta 125cc;Conductor;De 35 a 39 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;438561;4480657;N;NULL
+2024S000396;06/01/2024;15:20:00;CALL. AMADEO GOMEZ / CALL. JOAQUIN LORENZO;2;8;FUENCARRAL-EL PARDO;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;438561;4480657;N;NULL
+2024S000396;06/01/2024;15:20:00;CALL. AMADEO GOMEZ / CALL. JOAQUIN LORENZO;2;8;FUENCARRAL-EL PARDO;Alcance;Despejado;Turismo;Pasajero;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;438561;4480657;N;NULL
+2024S000397;06/01/2024;16:40:00;AVDA. MEDITERRANEO, 15;15;3;RETIRO;Colisión lateral;NULL;Furgoneta;Conductor;De 40 a 44 años;Mujer;NULL;NULL;442660;4473181;N;NULL
+2024S000397;06/01/2024;16:40:00;AVDA. MEDITERRANEO, 15;15;3;RETIRO;Colisión lateral;NULL;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;442660;4473181;N;NULL
+2024S000398;06/01/2024;15:03:00;AVDA. LOGROÑO, 128;128;21;BARAJAS;Colisión lateral;Despejado;Autobús;Conductor;De 45 a 49 años;Hombre;NULL;NULL;450691;4480334;N;NULL
+2024S000398;06/01/2024;15:03:00;AVDA. LOGROÑO, 128;128;21;BARAJAS;Colisión lateral;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;450691;4480334;N;NULL
+2024S000399;06/01/2024;16:55:00;CALL. FERNANDO GABRIEL / CALL. ARRIAGA;1;15;CIUDAD LINEAL;Colisión lateral;NULL;Autobús;Conductor;De 45 a 49 años;Mujer;NULL;NULL;445721;4475047;N;NULL
+2024S000399;06/01/2024;16:55:00;CALL. FERNANDO GABRIEL / CALL. ARRIAGA;1;15;CIUDAD LINEAL;Colisión lateral;NULL;Autobús;Pasajero;De 30 a 34 años;Mujer;NULL;NULL;445721;4475047;N;NULL
+2024S000399;06/01/2024;16:55:00;CALL. FERNANDO GABRIEL / CALL. ARRIAGA;1;15;CIUDAD LINEAL;Colisión lateral;NULL;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;445721;4475047;N;NULL
+2024S000400;06/01/2024;14:15:00;M30 KM14NL 56;0;2;ARGANZUELA;Vuelco;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440158;4471918;N;NULL
+2024S000400;06/01/2024;14:15:00;M30 KM14NL 56;0;2;ARGANZUELA;Vuelco;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;440158;4471918;N;NULL
+2024S000400;06/01/2024;14:15:00;M30 KM14NL 56;0;2;ARGANZUELA;Vuelco;Despejado;Turismo;Pasajero;De 10 a 14 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;440158;4471918;N;NULL
+2024S000400;06/01/2024;14:15:00;M30 KM14NL 56;0;2;ARGANZUELA;Vuelco;Despejado;Turismo;Pasajero;De 6 a 9 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;440158;4471918;N;NULL
+2024S000401;06/01/2024;16:12:00;CALL. ARROYO DE LA MEDIA LEGUA, 5;5;14;MORATALAZ;Colisión fronto-lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 50 a 54 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;444199;4473262;N;NULL
+2024S000401;06/01/2024;16:12:00;CALL. ARROYO DE LA MEDIA LEGUA, 5;5;14;MORATALAZ;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;444199;4473262;N;NULL
+2024S000403;06/01/2024;16:00:00;CALL. CAPITAN BLANCO ARGIBAY / CALL. SINESIO DELGADO;210;6;TETUÁN;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 70 a 74 años;Hombre;NULL;NULL;439746;4480126;N;NULL
+2024S000403;06/01/2024;16:00:00;CALL. CAPITAN BLANCO ARGIBAY / CALL. SINESIO DELGADO;210;6;TETUÁN;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439746;4480126;N;NULL
+2024S000403;06/01/2024;16:00:00;CALL. CAPITAN BLANCO ARGIBAY / CALL. SINESIO DELGADO;210;6;TETUÁN;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 50 a 54 años;Mujer;NULL;NULL;439746;4480126;N;NULL
+2024S000405;06/01/2024;17:30:00;CALL. DOCTOR TOLOSA LATOUR / CALLE CRISTO DE LA VEGA;1;12;USERA;Solo salida de la vía;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;NULL;NULL;440581;4470011;N;NULL
+2024S000406;07/01/2024;20:45:00;AVDA. TOREROS, 26;26;4;SALAMANCA;Choque contra obstáculo fijo;NULL;Autobús;Conductor;De 60 a 64 años;Hombre;NULL;NULL;443423;4475948;S;NULL
+2024S000406;07/01/2024;20:45:00;AVDA. TOREROS, 26;26;4;SALAMANCA;Choque contra obstáculo fijo;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;443423;4475948;N;NULL
+2024S000406;07/01/2024;20:45:00;AVDA. TOREROS, 26;26;4;SALAMANCA;Choque contra obstáculo fijo;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;443423;4475948;N;NULL
+2024S000406;07/01/2024;20:45:00;AVDA. TOREROS, 26;26;4;SALAMANCA;Choque contra obstáculo fijo;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;443423;4475948;N;NULL
+2024S000407;06/01/2024;16:50:00;CALL. JUAN DE OLIAS, 39;39;6;TETUÁN;Atropello a persona;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;440647;4478301;N;NULL
+2024S000407;06/01/2024;16:50:00;CALL. JUAN DE OLIAS, 39;39;6;TETUÁN;Atropello a persona;Despejado;Turismo;Peatón;De 6 a 9 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440647;4478301;N;NULL
+2024S000408;06/01/2024;18:26:00;CALL. ARQUITECTO LOPEZ OTERO, 15;15;9;MONCLOA-ARAVACA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Más de 74 años;Hombre;2;Ingreso inferior o igual a 24 horas;438055;4477216;N;NULL
+2024S000408;06/01/2024;18:26:00;CALL. ARQUITECTO LOPEZ OTERO, 15;15;9;MONCLOA-ARAVACA;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;Más de 74 años;Hombre;2;Ingreso inferior o igual a 24 horas;438055;4477216;N;NULL
+2024S000408;06/01/2024;18:26:00;CALL. ARQUITECTO LOPEZ OTERO, 15;15;9;MONCLOA-ARAVACA;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;Más de 74 años;Mujer;2;Ingreso inferior o igual a 24 horas;438055;4477216;N;NULL
+2024S000409;06/01/2024;19:25:00;AUTOV. M-30, C2 PK 11.300;11XL30;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Conductor;De 18 a 20 años;Hombre;14;Sin asistencia sanitaria;442352;4471240;N;NULL
+2024S000409;06/01/2024;19:25:00;AUTOV. M-30, C2 PK 11.300;11XL30;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;442352;4471240;N;NULL
+2024S000409;06/01/2024;19:25:00;AUTOV. M-30, C2 PK 11.300;11XL30;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;442352;4471240;N;NULL
+2024S000409;06/01/2024;19:25:00;AUTOV. M-30, C2 PK 11.300;11XL30;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;442352;4471240;N;NULL
+2024S000409;06/01/2024;19:25:00;AUTOV. M-30, C2 PK 11.300;11XL30;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Pasajero;De 15 a 17 años;Mujer;NULL;NULL;442352;4471240;N;NULL
+2024S000409;06/01/2024;19:25:00;AUTOV. M-30, C2 PK 11.300;11XL30;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Pasajero;De 18 a 20 años;Mujer;NULL;NULL;442352;4471240;N;NULL
+2024S000409;06/01/2024;19:25:00;AUTOV. M-30, C2 PK 11.300;11XL30;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Pasajero;De 25 a 29 años;Hombre;NULL;NULL;442352;4471240;N;NULL
+2024S000409;06/01/2024;19:25:00;AUTOV. M-30, C2 PK 11.300;11XL30;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Pasajero;De 30 a 34 años;Mujer;NULL;NULL;442352;4471240;N;NULL
+2024S000409;06/01/2024;19:25:00;AUTOV. M-30, C2 PK 11.300;11XL30;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Pasajero;De 50 a 54 años;Mujer;14;Sin asistencia sanitaria;442352;4471240;N;NULL
+2024S000410;06/01/2024;19:30:00;PLAZA. CORREGIDOR SANCHO DE CORDOBA / CALL. ARROYO DE LAS PILILLAS;5;14;MORATALAZ;Colisión lateral;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;444657;4473231;N;NULL
+2024S000410;06/01/2024;19:30:00;PLAZA. CORREGIDOR SANCHO DE CORDOBA / CALL. ARROYO DE LAS PILILLAS;5;14;MORATALAZ;Colisión lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;444657;4473231;N;NULL
+2024S000411;06/01/2024;19:10:00;CALL. ARTURO SORIA, 99;99;15;CIUDAD LINEAL;Colisión múltiple;NULL;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;444336;4477482;N;NULL
+2024S000411;06/01/2024;19:10:00;CALL. ARTURO SORIA, 99;99;15;CIUDAD LINEAL;Colisión múltiple;NULL;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;444336;4477482;N;NULL
+2024S000411;06/01/2024;19:10:00;CALL. ARTURO SORIA, 99;99;15;CIUDAD LINEAL;Colisión múltiple;NULL;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;444336;4477482;N;NULL
+2024S000411;06/01/2024;19:10:00;CALL. ARTURO SORIA, 99;99;15;CIUDAD LINEAL;Colisión múltiple;NULL;Turismo;Conductor;De 60 a 64 años;Hombre;NULL;NULL;444336;4477482;N;NULL
+2024S000412;06/01/2024;19:45:00;CALL. GRAN VIA, 49;49;1;CENTRO;Colisión fronto-lateral;Despejado;Furgoneta;Conductor;De 65 a 69 años;Hombre;NULL;NULL;439990;4474750;N;NULL
+2024S000412;06/01/2024;19:45:00;CALL. GRAN VIA, 49;49;1;CENTRO;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;439990;4474750;N;NULL
+2024S000413;06/01/2024;18:40:00;CALL. VIÑA VIRGEN, 8;8;6;TETUÁN;Choque contra obstáculo fijo;NULL;Furgoneta;Conductor;De 35 a 39 años;Hombre;NULL;NULL;441115;4479716;N;NULL
+2024S000413;06/01/2024;18:40:00;CALL. VIÑA VIRGEN, 8;8;6;TETUÁN;Choque contra obstáculo fijo;NULL;Motocicleta hasta 125cc;Conductor;Desconocido;Desconocido;NULL;NULL;441115;4479716;N;NULL
+2024S000414;06/01/2024;19:55:00;CALL. MARICARA / CALL. LOS LLANOS;2;17;VILLAVERDE;Atropello a persona;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;442309;4465647;S;NULL
+2024S000414;06/01/2024;19:55:00;CALL. MARICARA / CALL. LOS LLANOS;2;17;VILLAVERDE;Atropello a persona;Despejado;Turismo;Peatón;De 15 a 17 años;Hombre;NULL;NULL;442309;4465647;N;NULL
+2024S000416;06/01/2024;20:55:00;CALL. NARVAEZ / AVDA. FELIPE II;4;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;442666;4474992;N;NULL
+2024S000416;06/01/2024;20:55:00;CALL. NARVAEZ / AVDA. FELIPE II;4;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 70 a 74 años;Hombre;NULL;NULL;442666;4474992;N;NULL
+2024S000417;06/01/2024;21:15:00;AVDA. ENTREVIAS, 2;2;13;PUENTE DE VALLECAS;Colisión lateral;NULL;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;442739;4471421;N;NULL
+2024S000417;06/01/2024;21:15:00;AVDA. ENTREVIAS, 2;2;13;PUENTE DE VALLECAS;Colisión lateral;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;442739;4471421;N;NULL
+2024S000417;06/01/2024;21:15:00;AVDA. ENTREVIAS, 2;2;13;PUENTE DE VALLECAS;Colisión lateral;NULL;Turismo;Pasajero;De 21 a 24 años;Mujer;NULL;NULL;442739;4471421;N;NULL
+2024S000419;06/01/2024;6:55:00;CALL. SAN MODESTO, 50;50;8;FUENCARRAL-EL PARDO;Alcance;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;441101;4481983;N;NULL
+2024S000419;06/01/2024;6:55:00;CALL. SAN MODESTO, 50;50;8;FUENCARRAL-EL PARDO;Alcance;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;441101;4481983;N;NULL
+2024S000420;06/01/2024;6:50:00;CALL. OLIVO / CALL. FLORENCIO RODRIGUEZ;24;9;MONCLOA-ARAVACA;Colisión lateral;Despejado;Furgoneta;Conductor;Desconocido;Desconocido;NULL;NULL;433732;4478962;N;NULL
+2024S000420;06/01/2024;6:50:00;CALL. OLIVO / CALL. FLORENCIO RODRIGUEZ;24;9;MONCLOA-ARAVACA;Colisión lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;433732;4478962;N;NULL
+2024S000427;07/01/2024;0:09:00;CALL. JOSE ORTEGA Y GASSET, 68;68;4;SALAMANCA;Caída;Despejado;Motocicleta > 125cc;Conductor;De 25 a 29 años;Hombre;1;Atención en urgencias sin posterior ingreso;442754;4475693;N;NULL
+2024S000457;07/01/2024;7:24:00;CTRA. VILLAVERDE A VALLECAS, PK 3.5;297;18;VILLA DE VALLECAS;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;444058;4468715;N;1
+2024S000458;06/01/2024;13:24:00;CALL. DOLORES ARMENGOT / CALL. BATALLA DE TORRIJOS;1;11;CARABANCHEL;Atropello a persona;Despejado;Turismo;Conductor;De 65 a 69 años;Mujer;14;Sin asistencia sanitaria;437100;4470768;N;NULL
+2024S000458;06/01/2024;13:24:00;CALL. DOLORES ARMENGOT / CALL. BATALLA DE TORRIJOS;1;11;CARABANCHEL;Atropello a persona;Despejado;Turismo;Peatón;De 21 a 24 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;437100;4470768;N;NULL
+2024S000459;05/01/2024;13:56:00;CALL. GOLF / AVDA. CENTRAL;13;21;BARAJAS;Colisión fronto-lateral;Despejado;Camión rígido;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;451191;4478055;N;NULL
+2024S000459;05/01/2024;13:56:00;CALL. GOLF / AVDA. CENTRAL;13;21;BARAJAS;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;451191;4478055;N;NULL
+2024S000462;07/01/2024;10:50:00;CALL. CANDIDO MATEOS / CALL. CHANTADA;19;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Todo terreno;Conductor;De 35 a 39 años;Mujer;NULL;NULL;439157;4480524;N;NULL
+2024S000462;07/01/2024;10:50:00;CALL. CANDIDO MATEOS / CALL. CHANTADA;19;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 65 a 69 años;Hombre;NULL;NULL;439157;4480524;N;NULL
+2024S000463;07/01/2024;12:27:00;CALL. MORATINES, 10;10;2;ARGANZUELA;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440383;4472807;N;NULL
+2024S000463;07/01/2024;12:27:00;CALL. MORATINES, 10;10;2;ARGANZUELA;Alcance;Despejado;Turismo;Conductor;Más de 74 años;Hombre;14;Sin asistencia sanitaria;440383;4472807;N;NULL
+2024S000464;07/01/2024;11:55:00;CALL. MAURICIO LEGENDRE / CALL. MANUEL CALDEIRO;45;5;CHAMARTÍN;Atropello a animal;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;441997;4480861;N;NULL
+2024S000465;07/01/2024;12:10:00;CALL. FRANCISCO SILVELA / CALL. PRINCIPE DE VERGARA;99;5;CHAMARTÍN;Alcance;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;442365;4476748;S;NULL
+2024S000465;07/01/2024;12:10:00;CALL. FRANCISCO SILVELA / CALL. PRINCIPE DE VERGARA;99;5;CHAMARTÍN;Alcance;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;442365;4476748;N;NULL
+2024S000465;07/01/2024;12:10:00;CALL. FRANCISCO SILVELA / CALL. PRINCIPE DE VERGARA;99;5;CHAMARTÍN;Alcance;Despejado;Turismo;Pasajero;De 30 a 34 años;Hombre;NULL;NULL;442365;4476748;N;NULL
+2024S000465;07/01/2024;12:10:00;CALL. FRANCISCO SILVELA / CALL. PRINCIPE DE VERGARA;99;5;CHAMARTÍN;Alcance;Despejado;Turismo;Pasajero;De 30 a 34 años;Mujer;NULL;NULL;442365;4476748;N;NULL
+2024S000466;07/01/2024;11:00:00;AUTOV. M-30, 31NC80;31NC80;5;CHAMARTÍN;Alcance;Despejado;Motocicleta > 125cc;Conductor;De 60 a 64 años;Hombre;NULL;NULL;442641;4481683;N;NULL
+2024S000466;07/01/2024;11:00:00;AUTOV. M-30, 31NC80;31NC80;5;CHAMARTÍN;Alcance;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;442641;4481683;N;NULL
+2024S000466;07/01/2024;11:00:00;AUTOV. M-30, 31NC80;31NC80;5;CHAMARTÍN;Alcance;Despejado;Turismo;Pasajero;De 40 a 44 años;Mujer;NULL;NULL;442641;4481683;N;NULL
+2024S000466;07/01/2024;11:00:00;AUTOV. M-30, 31NC80;31NC80;5;CHAMARTÍN;Alcance;Despejado;Turismo;Pasajero;Menor de 5 años;Mujer;NULL;NULL;442641;4481683;N;NULL
+2024S000468;07/01/2024;12:55:00;ALBERTO AGUILERA;60;7;CHAMBERÍ;Caída;Despejado;Motocicleta > 125cc;Conductor;De 55 a 59 años;Hombre;2;Ingreso inferior o igual a 24 horas;439425;4475783;N;NULL
+2024S000468;07/01/2024;12:55:00;ALBERTO AGUILERA;60;7;CHAMBERÍ;Caída;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;439425;4475783;N;NULL
+2024S000469;07/01/2024;13:15:00;CTRA. TELEFERICO, 1;1;9;MONCLOA-ARAVACA;Caída;Despejado;Bicicleta;Conductor;De 10 a 14 años;Hombre;5;Asistencia sanitaria ambulatoria con posterioridad;435993;4474892;N;NULL
+2024S000469;07/01/2024;13:15:00;CTRA. TELEFERICO, 1;1;9;MONCLOA-ARAVACA;Caída;Despejado;Bicicleta;Conductor;De 18 a 20 años;Hombre;14;Sin asistencia sanitaria;435993;4474892;N;NULL
+2024S000470;07/01/2024;12:40:00;CALL. SAMANIEGO, 3;3;20;SAN BLAS-CANILLEJAS;Alcance;Despejado;Turismo;Conductor;De 18 a 20 años;Hombre;14;Sin asistencia sanitaria;450366;4477460;N;NULL
+2024S000470;07/01/2024;12:40:00;CALL. SAMANIEGO, 3;3;20;SAN BLAS-CANILLEJAS;Alcance;Despejado;Turismo;Conductor;De 45 a 49 años;Mujer;14;Sin asistencia sanitaria;450366;4477460;N;NULL
+2024S000470;07/01/2024;12:40:00;CALL. SAMANIEGO, 3;3;20;SAN BLAS-CANILLEJAS;Alcance;Despejado;Turismo;Pasajero;De 18 a 20 años;Mujer;14;Sin asistencia sanitaria;450366;4477460;N;NULL
+2024S000471;07/01/2024;11:55:00;CALL. GENERAL LACY, 10;10;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;441398;4472865;N;NULL
+2024S000471;07/01/2024;11:55:00;CALL. GENERAL LACY, 10;10;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 70 a 74 años;Hombre;14;Sin asistencia sanitaria;441398;4472865;N;NULL
+2024S000471;07/01/2024;11:55:00;CALL. GENERAL LACY, 10;10;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;441398;4472865;N;NULL
+2024S000471;07/01/2024;11:55:00;CALL. GENERAL LACY, 10;10;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 60 a 64 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;441398;4472865;N;NULL
+2024S000472;07/01/2024;14:38:00;CALL. VALMOJADO / CALL. OCAÑA;291;10;LATINA;Colisión fronto-lateral;Despejado;Autobús;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;435473;4470909;N;NULL
+2024S000472;07/01/2024;14:38:00;CALL. VALMOJADO / CALL. OCAÑA;291;10;LATINA;Colisión fronto-lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 55 a 59 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;435473;4470909;N;NULL
+2024S000473;07/01/2024;15:15:00;CALL. AQUITANIA / CALL. CAPRI;8;20;SAN BLAS-CANILLEJAS;Colisión fronto-lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 18 a 20 años;Hombre;14;Sin asistencia sanitaria;447411;4474344;N;NULL
+2024S000473;07/01/2024;15:15:00;CALL. AQUITANIA / CALL. CAPRI;8;20;SAN BLAS-CANILLEJAS;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;447411;4474344;N;NULL
+2024S000474;07/01/2024;14:46:00;CALL. PUERTO DE BALBARAN / AVDA. BUENOS AIRES;1;13;PUENTE DE VALLECAS;Atropello a persona;Despejado;NULL;Conductor;Desconocido;Desconocido;NULL;NULL;444327;4469747;N;NULL
+2024S000474;07/01/2024;14:46:00;CALL. PUERTO DE BALBARAN / AVDA. BUENOS AIRES;1;13;PUENTE DE VALLECAS;Atropello a persona;Despejado;NULL;Peatón;De 15 a 17 años;Hombre;2;Ingreso inferior o igual a 24 horas;444327;4469747;N;NULL
+2024S000475;07/01/2024;15:58:00;CALL. AGASTIA, 11A;11A;15;CIUDAD LINEAL;Solo salida de la vía;Despejado;Todo terreno;Conductor;De 60 a 64 años;Mujer;NULL;NULL;445006;4477197;N;NULL
+2024S000477;07/01/2024;18:00:00;CALL. HACIENDA DE PAVONES, 300;300;14;MORATALAZ;Choque contra obstáculo fijo;NULL;Todo terreno;Conductor;Desconocido;Desconocido;NULL;NULL;445916;4472511;N;NULL
+2024S000477;07/01/2024;18:00:00;CALL. HACIENDA DE PAVONES, 300;300;14;MORATALAZ;Choque contra obstáculo fijo;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;445916;4472511;N;NULL
+2024S000478;06/01/2024;21:30:00;AVDA. HISPANIDAD, 42;42;21;BARAJAS;Atropello a persona;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;451420;4479677;N;NULL
+2024S000478;06/01/2024;21:30:00;AVDA. HISPANIDAD, 42;42;21;BARAJAS;Atropello a persona;Despejado;Turismo;Peatón;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;451420;4479677;N;NULL
+2024S000480;07/01/2024;18:00:00;PASEO. EXTREMADURA / CALL. LOS YEBENES;279;10;LATINA;Colisión lateral;NULL;Todo terreno;Conductor;De 50 a 54 años;Hombre;NULL;NULL;435364;4472576;N;NULL
+2024S000480;07/01/2024;18:00:00;PASEO. EXTREMADURA / CALL. LOS YEBENES;279;10;LATINA;Colisión lateral;NULL;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;435364;4472576;N;NULL
+2024S000480;07/01/2024;18:00:00;PASEO. EXTREMADURA / CALL. LOS YEBENES;279;10;LATINA;Colisión lateral;NULL;Turismo;Pasajero;De 50 a 54 años;Mujer;NULL;NULL;435364;4472576;N;NULL
+2024S000482;07/01/2024;16:07:00;CALL. SIERPE / CALL. TOLEDO;1;1;CENTRO;Colisión fronto-lateral;Despejado;Ciclomotor;Conductor;De 30 a 34 años;Mujer;1;Atención en urgencias sin posterior ingreso;439801;4473501;N;NULL
+2024S000482;07/01/2024;16:07:00;CALL. SIERPE / CALL. TOLEDO;1;1;CENTRO;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;439801;4473501;N;NULL
+2024S000484;06/01/2024;21:00:00;AVDA. CIUDAD DE BARCELONA, 2;2;3;RETIRO;Caída;Despejado;VMU eléctrico;Conductor;De 25 a 29 años;Mujer;NULL;NULL;441526;4473128;N;NULL
+2024S000485;07/01/2024;21:00:00;AVDA. ASTURIAS / CALL. VIA LIMITE;68;6;TETUÁN;Colisión frontal;Despejado;Ciclomotor;Conductor;De 25 a 29 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440679;4480443;N;NULL
+2024S000485;07/01/2024;21:00:00;AVDA. ASTURIAS / CALL. VIA LIMITE;68;6;TETUÁN;Colisión frontal;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;440679;4480443;N;NULL
+2024S000486;07/01/2024;21:15:00;CALL. PRINCESA, 83;83;9;MONCLOA-ARAVACA;Alcance;Despejado;Motocicleta hasta 125cc;Conductor;De 21 a 24 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;439104;4476051;N;NULL
+2024S000486;07/01/2024;21:15:00;CALL. PRINCESA, 83;83;9;MONCLOA-ARAVACA;Alcance;Despejado;Turismo;Conductor;De 35 a 39 años;Mujer;14;Sin asistencia sanitaria;439104;4476051;N;NULL
+2024S000486;07/01/2024;21:15:00;CALL. PRINCESA, 83;83;9;MONCLOA-ARAVACA;Alcance;Despejado;Turismo;Pasajero;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;439104;4476051;N;NULL
+2024S000487;07/01/2024;5:50:00;CALLE LIEBRE;32;16;HORTALEZA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;NULL;NULL;445087;4478806;N;NULL
+2024S000488;07/01/2024;20:00:00;CALL. JUAN BRAVO / CALL. PRINCIPE DE VERGARA;31;4;SALAMANCA;Alcance;Despejado;Ciclomotor;Conductor;De 55 a 59 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;442395;4476006;N;NULL
+2024S000488;07/01/2024;20:00:00;CALL. JUAN BRAVO / CALL. PRINCIPE DE VERGARA;31;4;SALAMANCA;Alcance;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;442395;4476006;N;NULL
+2024S000489;07/01/2024;23:23:00;CALL. JOSE MARIA LOZANO SAINZ, 11;11;17;VILLAVERDE;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;441059;4466475;N;NULL
+2024S000489;07/01/2024;23:23:00;CALL. JOSE MARIA LOZANO SAINZ, 11;11;17;VILLAVERDE;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;441059;4466475;N;NULL
+2024S000491;07/01/2024;22:40:00;CALL. CASTRO DE ORO, 13;13;11;CARABANCHEL;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;438112;4471178;N;NULL
+2024S000491;07/01/2024;22:40:00;CALL. CASTRO DE ORO, 13;13;11;CARABANCHEL;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;438112;4471178;N;NULL
+2024S000494;08/01/2024;3:10:00;PLAZA. JACINTO BENAVENTE,INTERIOR PARKING;1;1;CENTRO;Choque contra obstáculo fijo;Se desconoce;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;440295;4474002;S;NULL
+2024S000495;08/01/2024;1:45:00;AVDA. ALBUFERA / AUTOV. M-40;295;13;PUENTE DE VALLECAS;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;446053;4470727;N;NULL
+2024S000496;08/01/2024;4:20:00;AUTOV. M-30,CALZADA INTERIOR P.K. 7,000 (BIFURCACIÓN);07CL07;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 21 a 24 años;Mujer;NULL;NULL;444034;4475023;N;NULL
+2024S000496;08/01/2024;4:20:00;AUTOV. M-30,CALZADA INTERIOR P.K. 7,000 (BIFURCACIÓN);07CL07;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;444034;4475023;N;NULL
+2024S000496;08/01/2024;4:20:00;AUTOV. M-30,CALZADA INTERIOR P.K. 7,000 (BIFURCACIÓN);07CL07;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 30 a 34 años;Hombre;NULL;NULL;444034;4475023;N;NULL
+2024S000496;08/01/2024;4:20:00;AUTOV. M-30,CALZADA INTERIOR P.K. 7,000 (BIFURCACIÓN);07CL07;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 30 a 34 años;Mujer;NULL;NULL;444034;4475023;N;NULL
+2024S000496;08/01/2024;4:20:00;AUTOV. M-30,CALZADA INTERIOR P.K. 7,000 (BIFURCACIÓN);07CL07;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 35 a 39 años;Mujer;NULL;NULL;444034;4475023;N;NULL
+2024S000497;07/01/2024;14:30:00;CALL. CASTILLA, 24;24;6;TETUÁN;Alcance;NULL;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;440244;4478275;N;NULL
+2024S000497;07/01/2024;14:30:00;CALL. CASTILLA, 24;24;6;TETUÁN;Alcance;NULL;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;440244;4478275;N;NULL
+2024S000498;07/01/2024;13:20:00;CALL. LOPEZ DE HOYOS / CALL. ARTURO SORIA;356;15;CIUDAD LINEAL;Colisión fronto-lateral;Se desconoce;Motocicleta hasta 125cc;Conductor;De 45 a 49 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;444022;4478847;N;NULL
+2024S000498;07/01/2024;13:20:00;CALL. LOPEZ DE HOYOS / CALL. ARTURO SORIA;356;15;CIUDAD LINEAL;Colisión fronto-lateral;Se desconoce;Turismo;Conductor;De 25 a 29 años;Mujer;14;Sin asistencia sanitaria;444022;4478847;N;NULL
+2024S000499;07/01/2024;13:30:00;CALL. BEATRIZ DE BOBADILLA, 9;9;9;MONCLOA-ARAVACA;Colisión lateral;Despejado;Motocicleta > 125cc;Conductor;De 55 a 59 años;Hombre;2;Ingreso inferior o igual a 24 horas;439340;4477757;N;NULL
+2024S000499;07/01/2024;13:30:00;CALL. BEATRIZ DE BOBADILLA, 9;9;9;MONCLOA-ARAVACA;Colisión lateral;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;14;Sin asistencia sanitaria;439340;4477757;N;NULL
+2024S000499;07/01/2024;13:30:00;CALL. BEATRIZ DE BOBADILLA, 9;9;9;MONCLOA-ARAVACA;Colisión lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439340;4477757;N;NULL
+2024S000500;06/01/2024;12:30:00;CALL. PRINCIPE DE VERGARA, 53;53;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;NULL;NULL;442351;4475945;N;NULL
+2024S000502;08/01/2024;7:45:00;CALL. SEGURA, 2;2;12;USERA;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 65 a 69 años;Hombre;NULL;NULL;439218;4468833;N;NULL
+2024S000502;08/01/2024;7:45:00;CALL. SEGURA, 2;2;12;USERA;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439218;4468833;N;NULL
+2024S000503;08/01/2024;8:15:00;GTA. RUIZ JIMENEZ / CALL. SAN BERNARDO;3;7;CHAMBERÍ;Colisión frontal;Despejado;Autobús;Conductor;De 45 a 49 años;Hombre;NULL;NULL;440120;4475710;N;NULL
+2024S000503;08/01/2024;8:15:00;GTA. RUIZ JIMENEZ / CALL. SAN BERNARDO;3;7;CHAMBERÍ;Colisión frontal;Despejado;Motocicleta > 125cc;Conductor;De 55 a 59 años;Hombre;NULL;NULL;440120;4475710;N;NULL
+2024S000504;08/01/2024;7:20:00;CALL. ALCALA / CALL. RUFINO GONZALEZ;502;20;SAN BLAS-CANILLEJAS;Alcance;Despejado;NULL;Conductor;Desconocido;Desconocido;NULL;NULL;446720;4476837;N;NULL
+2024S000504;08/01/2024;7:20:00;CALL. ALCALA / CALL. RUFINO GONZALEZ;502;20;SAN BLAS-CANILLEJAS;Alcance;Despejado;NULL;Conductor;Desconocido;Desconocido;NULL;NULL;446720;4476837;N;NULL
+2024S000504;08/01/2024;7:20:00;CALL. ALCALA / CALL. RUFINO GONZALEZ;502;20;SAN BLAS-CANILLEJAS;Alcance;Despejado;Turismo;Conductor;De 60 a 64 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;446720;4476837;N;NULL
+2024S000505;08/01/2024;8:40:00;CARRETERA M-23  (FAROLA 19, SENTIDO ENTRADA A MADRID);77;4;SALAMANCA;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;2;Ingreso inferior o igual a 24 horas;443534;4474640;N;NULL
+2024S000505;08/01/2024;8:40:00;CARRETERA M-23  (FAROLA 19, SENTIDO ENTRADA A MADRID);77;4;SALAMANCA;Alcance;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;443534;4474640;N;NULL
+2024S000506;08/01/2024;9:10:00;CALL. REAL DE ARGANDA / CALL. PEÑARANDA DE BRACAMONTE;74;18;VILLA DE VALLECAS;Colisión fronto-lateral;Despejado;Furgoneta;Conductor;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;448804;4469662;N;NULL
+2024S000506;08/01/2024;9:10:00;CALL. REAL DE ARGANDA / CALL. PEÑARANDA DE BRACAMONTE;74;18;VILLA DE VALLECAS;Colisión fronto-lateral;Despejado;Motocicleta > 125cc;Conductor;De 30 a 34 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;448804;4469662;N;NULL
+2024S000507;08/01/2024;9:50:00;AVDA. CANILLEJAS A VICALVARO / AVDA. GUADALAJARA;84;20;SAN BLAS-CANILLEJAS;Colisión lateral;Despejado;Autobús;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;448128;4474866;N;NULL
+2024S000507;08/01/2024;9:50:00;AVDA. CANILLEJAS A VICALVARO / AVDA. GUADALAJARA;84;20;SAN BLAS-CANILLEJAS;Colisión lateral;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;14;Sin asistencia sanitaria;448128;4474866;N;NULL
+2024S000510;08/01/2024;7:25:00;AUTOV. M-30, 08XC20;08XC20;14;MORATALAZ;Colisión lateral;Despejado;Camión rígido;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;443909;4473825;N;NULL
+2024S000510;08/01/2024;7:25:00;AUTOV. M-30, 08XC20;08XC20;14;MORATALAZ;Colisión lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Mujer;14;Sin asistencia sanitaria;443909;4473825;N;NULL
+2024S000511;08/01/2024;11:00:00;CALL. ALCALA, 265;265;15;CIUDAD LINEAL;Colisión lateral;Despejado;Bicicleta;Conductor;De 15 a 17 años;Hombre;14;Sin asistencia sanitaria;444242;4475898;N;NULL
+2024S000511;08/01/2024;11:00:00;CALL. ALCALA, 265;265;15;CIUDAD LINEAL;Colisión lateral;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;444242;4475898;N;NULL
+2024S000512;08/01/2024;8:50:00;CALL. ARMENTEROS, 14;14;9;MONCLOA-ARAVACA;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 45 a 49 años;Mujer;NULL;NULL;439620;4479497;N;NULL
+2024S000513;08/01/2024;9:05:00;PLAZA. CIBELES / PASEO. PRADO;4;4;SALAMANCA;Caída;Despejado;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;441163;4474513;N;NULL
+2024S000513;08/01/2024;9:05:00;PLAZA. CIBELES / PASEO. PRADO;4;4;SALAMANCA;Caída;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;441163;4474513;N;NULL
+2024S000514;08/01/2024;11:40:00;CALL. VELAZQUEZ, 150;150;5;CHAMARTÍN;Alcance;Despejado;Turismo;Conductor;De 45 a 49 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;442108;4477122;N;NULL
+2024S000514;08/01/2024;11:40:00;CALL. VELAZQUEZ, 150;150;5;CHAMARTÍN;Alcance;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;442108;4477122;N;NULL
+2024S000514;08/01/2024;11:40:00;CALL. VELAZQUEZ, 150;150;5;CHAMARTÍN;Alcance;Despejado;Turismo;Pasajero;De 65 a 69 años;Mujer;14;Sin asistencia sanitaria;442108;4477122;N;NULL
+2024S000514;08/01/2024;11:40:00;CALL. VELAZQUEZ, 150;150;5;CHAMARTÍN;Alcance;Despejado;Turismo;Pasajero;Más de 74 años;Mujer;14;Sin asistencia sanitaria;442108;4477122;N;NULL
+2024S000515;08/01/2024;10:05:00;CALL. FRANCISCO SUAREZ / CALL. MENENDEZ PIDAL;24;5;CHAMARTÍN;Caída;Despejado;Motocicleta hasta 125cc;Conductor;De 40 a 44 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;442288;4479539;N;NULL
+2024S000515;08/01/2024;10:05:00;CALL. FRANCISCO SUAREZ / CALL. MENENDEZ PIDAL;24;5;CHAMARTÍN;Caída;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;442288;4479539;N;NULL
+2024S000515;08/01/2024;10:05:00;CALL. FRANCISCO SUAREZ / CALL. MENENDEZ PIDAL;24;5;CHAMARTÍN;Caída;Despejado;Turismo;Conductor;De 50 a 54 años;Mujer;14;Sin asistencia sanitaria;442288;4479539;N;NULL
+2024S000515;08/01/2024;10:05:00;CALL. FRANCISCO SUAREZ / CALL. MENENDEZ PIDAL;24;5;CHAMARTÍN;Caída;Despejado;Turismo;Pasajero;De 50 a 54 años;Mujer;14;Sin asistencia sanitaria;442288;4479539;N;NULL
+2024S000516;08/01/2024;8:50:00;CALL. ARTURO SORIA / CALL. JOSE MARIA CAVERO;108;15;CIUDAD LINEAL;Colisión lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 40 a 44 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;444992;4477542;N;NULL
+2024S000516;08/01/2024;8:50:00;CALL. ARTURO SORIA / CALL. JOSE MARIA CAVERO;108;15;CIUDAD LINEAL;Colisión lateral;Despejado;Turismo;Conductor;De 50 a 54 años;Mujer;14;Sin asistencia sanitaria;444992;4477542;N;NULL
+2024S000517;08/01/2024;10:00:00;CALL. ADRADA DE HAZA, 16;16;13;PUENTE DE VALLECAS;Atropello a animal;Despejado;Furgoneta;Conductor;De 45 a 49 años;Hombre;NULL;NULL;444939;4471313;N;NULL
+2024S000518;08/01/2024;9:27:00;CALL. RAIMUNDO FERNANDEZ VILLAVERDE, 51;51;6;TETUÁN;Otro;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;NULL;NULL;440969;4477557;N;NULL
+2024S000519;08/01/2024;9:00:00;S/N  FAROLA 47;26;19;VICÁLVARO;Choque contra obstáculo fijo;Despejado;Furgoneta;Conductor;Desconocido;Desconocido;7;Asistencia sanitaria sólo en el lugar del accidente;448697;4472242;N;NULL
+2024S000519;08/01/2024;9:00:00;S/N  FAROLA 47;26;19;VICÁLVARO;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;De 65 a 69 años;Hombre;14;Sin asistencia sanitaria;448697;4472242;N;NULL
+2024S000519;08/01/2024;9:00:00;S/N  FAROLA 47;26;19;VICÁLVARO;Choque contra obstáculo fijo;Despejado;Turismo;Pasajero;De 6 a 9 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;448697;4472242;N;NULL
+2024S000521;08/01/2024;13:20:00;GTA. MARQUES DE VADILLO / CALL. GENERAL RICARDOS;5;11;CARABANCHEL;Colisión lateral;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;439217;4472120;N;NULL
+2024S000521;08/01/2024;13:20:00;GTA. MARQUES DE VADILLO / CALL. GENERAL RICARDOS;5;11;CARABANCHEL;Colisión lateral;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;439217;4472120;N;NULL
+2024S000522;08/01/2024;12:45:00;CALL. VELAZQUEZ / CALL. JOAQUIN COSTA;143;5;CHAMARTÍN;Colisión lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 60 a 64 años;Hombre;2;Ingreso inferior o igual a 24 horas;442101;4477078;N;NULL
+2024S000522;08/01/2024;12:45:00;CALL. VELAZQUEZ / CALL. JOAQUIN COSTA;143;5;CHAMARTÍN;Colisión lateral;Despejado;Turismo;Conductor;De 70 a 74 años;Hombre;14;Sin asistencia sanitaria;442101;4477078;N;NULL
+2024S000523;08/01/2024;13:30:00;CALL. BUSTILLO DEL ORO, 18B;18B;6;TETUÁN;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;440039;4479174;N;NULL
+2024S000523;08/01/2024;13:30:00;CALL. BUSTILLO DEL ORO, 18B;18B;6;TETUÁN;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;440039;4479174;N;NULL
+2024S000524;08/01/2024;13:15:00;CALL. ISIDRA JIMENEZ / CALL. MIRAMADRID;45;12;USERA;Colisión fronto-lateral;NULL;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;440061;4470333;N;NULL
+2024S000524;08/01/2024;13:15:00;CALL. ISIDRA JIMENEZ / CALL. MIRAMADRID;45;12;USERA;Colisión fronto-lateral;NULL;Turismo;Conductor;De 55 a 59 años;Mujer;NULL;NULL;440061;4470333;N;NULL
+2024S000524;08/01/2024;13:15:00;CALL. ISIDRA JIMENEZ / CALL. MIRAMADRID;45;12;USERA;Colisión fronto-lateral;NULL;Turismo;Pasajero;De 55 a 59 años;Hombre;NULL;NULL;440061;4470333;N;NULL
+2024S000525;08/01/2024;13:30:00;AVDA. SANTUARIO DE VALVERDE / calle monasterio de oseira;74A;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Más de 74 años;Hombre;NULL;NULL;440979;4484374;N;NULL
+2024S000525;08/01/2024;13:30:00;AVDA. SANTUARIO DE VALVERDE / calle monasterio de oseira;74A;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Conductor;Más de 74 años;Hombre;NULL;NULL;440979;4484374;N;NULL
+2024S000525;08/01/2024;13:30:00;AVDA. SANTUARIO DE VALVERDE / calle monasterio de oseira;74A;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 70 a 74 años;Mujer;NULL;NULL;440979;4484374;N;NULL
+2024S000526;07/01/2024;21:00:00;RONDA. SEGOVIA / CALL. SEGOVIA;2B;2;ARGANZUELA;Alcance;Despejado;Turismo;Conductor;De 35 a 39 años;Mujer;NULL;NULL;439156;4473925;N;NULL
+2024S000526;07/01/2024;21:00:00;RONDA. SEGOVIA / CALL. SEGOVIA;2B;2;ARGANZUELA;Alcance;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;439156;4473925;N;NULL
+2024S000528;08/01/2024;14:34:00;CALL. QUINTANADUEÑAS, 2A;2A;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;443003;4483092;N;NULL
+2024S000528;08/01/2024;14:34:00;CALL. QUINTANADUEÑAS, 2A;2A;8;FUENCARRAL-EL PARDO;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 50 a 54 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;443003;4483092;N;NULL
+2024S000529;08/01/2024;14:50:00;CALL. CASTELLFLORITE / CALL. VIA CARPETANA;1;11;CARABANCHEL;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;437236;4471749;N;NULL
+2024S000529;08/01/2024;14:50:00;CALL. CASTELLFLORITE / CALL. VIA CARPETANA;1;11;CARABANCHEL;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 70 a 74 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;437236;4471749;N;NULL
+2024S000530;08/01/2024;15:00:00;AVDA. GRAN VIA DE VILLAVERDE / AVDA. GRAN VIA DE VILLAVERDE;20;17;VILLAVERDE;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;440122;4465852;N;NULL
+2024S000530;08/01/2024;15:00:00;AVDA. GRAN VIA DE VILLAVERDE / AVDA. GRAN VIA DE VILLAVERDE;20;17;VILLAVERDE;Colisión fronto-lateral;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;440122;4465852;N;NULL
+2024S000532;08/01/2024;17:30:00;AVDA. EURO / AVDA. CARABANCHEL ALTO;70;11;CARABANCHEL;Alcance;NULL;Camión rígido;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;436021;4468420;N;NULL
+2024S000532;08/01/2024;17:30:00;AVDA. EURO / AVDA. CARABANCHEL ALTO;70;11;CARABANCHEL;Alcance;NULL;Turismo;Conductor;De 45 a 49 años;Mujer;14;Sin asistencia sanitaria;436021;4468420;N;NULL
+2024S000532;08/01/2024;17:30:00;AVDA. EURO / AVDA. CARABANCHEL ALTO;70;11;CARABANCHEL;Alcance;NULL;Turismo;Pasajero;De 10 a 14 años;Hombre;NULL;NULL;436021;4468420;N;NULL
+2024S000532;08/01/2024;17:30:00;AVDA. EURO / AVDA. CARABANCHEL ALTO;70;11;CARABANCHEL;Alcance;NULL;Turismo;Pasajero;De 15 a 17 años;Hombre;NULL;NULL;436021;4468420;N;NULL
+2024S000533;08/01/2024;14:45:00;CALL. ARTURO SORIA, 191;191;15;CIUDAD LINEAL;Colisión fronto-lateral;Despejado;Furgoneta;Conductor;De 35 a 39 años;Mujer;NULL;NULL;444049;4478910;N;NULL
+2024S000533;08/01/2024;14:45:00;CALL. ARTURO SORIA, 191;191;15;CIUDAD LINEAL;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;444049;4478910;N;NULL
+2024S000536;08/01/2024;14:50:00;PASEO. CASTELLANA, 280;280;5;CHAMARTÍN;Colisión lateral;Despejado;Autobús;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;441829;4480849;N;NULL
+2024S000536;08/01/2024;14:50:00;PASEO. CASTELLANA, 280;280;5;CHAMARTÍN;Colisión lateral;Despejado;Furgoneta;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;441829;4480849;N;NULL
+2024S000537;08/01/2024;17:50:00;CALL. ARTURO SORIA / CALL. CARLOTA O'NEILL;5;15;CIUDAD LINEAL;Colisión lateral;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;NULL;NULL;445105;4477412;N;NULL
+2024S000537;08/01/2024;17:50:00;CALL. ARTURO SORIA / CALL. CARLOTA O'NEILL;5;15;CIUDAD LINEAL;Colisión lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Mujer;NULL;NULL;445105;4477412;N;NULL
+2024S000539;08/01/2024;17:30:00;CALL. SAN BERNARDO, 50;50;1;CENTRO;Alcance;NULL;Turismo;Conductor;De 55 a 59 años;Mujer;NULL;NULL;439999;4475151;N;NULL
+2024S000539;08/01/2024;17:30:00;CALL. SAN BERNARDO, 50;50;1;CENTRO;Alcance;NULL;Turismo;Conductor;De 60 a 64 años;Mujer;NULL;NULL;439999;4475151;N;NULL
+2024S000540;08/01/2024;18:45:00;GTA. PIRAMIDES, 2;2;2;ARGANZUELA;Alcance;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;439424;4472457;N;NULL
+2024S000540;08/01/2024;18:45:00;GTA. PIRAMIDES, 2;2;2;ARGANZUELA;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;NULL;NULL;439424;4472457;N;NULL
+2024S000541;08/01/2024;17:30:00;PASEO. PRADO, 18;18;1;CENTRO;Colisión lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;441157;4473839;N;NULL
+2024S000541;08/01/2024;17:30:00;PASEO. PRADO, 18;18;1;CENTRO;Colisión lateral;Despejado;Turismo;Conductor;De 65 a 69 años;Hombre;NULL;NULL;441157;4473839;N;NULL
+2024S000541;08/01/2024;17:30:00;PASEO. PRADO, 18;18;1;CENTRO;Colisión lateral;Despejado;Turismo;Pasajero;De 21 a 24 años;Hombre;NULL;NULL;441157;4473839;N;NULL
+2024S000541;08/01/2024;17:30:00;PASEO. PRADO, 18;18;1;CENTRO;Colisión lateral;Despejado;Turismo;Pasajero;De 35 a 39 años;Hombre;NULL;NULL;441157;4473839;N;NULL
+2024S000542;08/01/2024;18:50:00;GTA. VALLE DE ORO, 4;4;11;CARABANCHEL;Colisión lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;437994;4471107;N;NULL
+2024S000542;08/01/2024;18:50:00;GTA. VALLE DE ORO, 4;4;11;CARABANCHEL;Colisión lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;437994;4471107;N;NULL
+2024S000543;08/01/2024;17:30:00;AVDA. MARQUES DE CORBERA, 1;1;15;CIUDAD LINEAL;Colisión lateral;NULL;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;444307;4474871;N;NULL
+2024S000543;08/01/2024;17:30:00;AVDA. MARQUES DE CORBERA, 1;1;15;CIUDAD LINEAL;Colisión lateral;NULL;Turismo;Conductor;Más de 74 años;Hombre;NULL;NULL;444307;4474871;N;NULL
+2024S000544;08/01/2024;16:10:00;AUTOV. A-2, +00500E;+00500E;15;CIUDAD LINEAL;Colisión múltiple;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;444517;4477572;N;NULL
+2024S000544;08/01/2024;16:10:00;AUTOV. A-2, +00500E;+00500E;15;CIUDAD LINEAL;Colisión múltiple;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;444517;4477572;N;NULL
+2024S000544;08/01/2024;16:10:00;AUTOV. A-2, +00500E;+00500E;15;CIUDAD LINEAL;Colisión múltiple;Despejado;Turismo;Conductor;De 45 a 49 años;Mujer;14;Sin asistencia sanitaria;444517;4477572;N;NULL
+2024S000545;08/01/2024;18:45:00;AVDA. MANZANARES, 210;210;12;USERA;Atropello a persona;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;440533;4471392;N;NULL
+2024S000545;08/01/2024;18:45:00;AVDA. MANZANARES, 210;210;12;USERA;Atropello a persona;Despejado;Turismo;Peatón;De 35 a 39 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440533;4471392;N;NULL
+2024S000549;08/01/2024;19:55:00;CALL. SOCUELLAMOS, 7;7;12;USERA;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440888;4470255;N;NULL
+2024S000549;08/01/2024;19:55:00;CALL. SOCUELLAMOS, 7;7;12;USERA;Alcance;Despejado;Turismo;Conductor;De 65 a 69 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;440888;4470255;N;NULL
+2024S000550;08/01/2024;19:00:00;AVDA. POBLADOS, 155;155;11;CARABANCHEL;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;438829;4469489;N;NULL
+2024S000550;08/01/2024;19:00:00;AVDA. POBLADOS, 155;155;11;CARABANCHEL;Alcance;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;438829;4469489;N;NULL
+2024S000550;08/01/2024;19:00:00;AVDA. POBLADOS, 155;155;11;CARABANCHEL;Alcance;Despejado;Turismo;Pasajero;De 18 a 20 años;Hombre;14;Sin asistencia sanitaria;438829;4469489;N;NULL
+2024S000550;08/01/2024;19:00:00;AVDA. POBLADOS, 155;155;11;CARABANCHEL;Alcance;Despejado;Turismo;Pasajero;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;438829;4469489;N;NULL
+2024S000550;08/01/2024;19:00:00;AVDA. POBLADOS, 155;155;11;CARABANCHEL;Alcance;Despejado;Turismo;Pasajero;De 50 a 54 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;438829;4469489;N;NULL
+2024S000551;07/01/2024;19:05:00;CALL. PEÑA UBIÑA / CALL. MONTE PERDIDO;7;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;NULL;NULL;443000;4471763;N;NULL
+2024S000551;07/01/2024;19:05:00;CALL. PEÑA UBIÑA / CALL. MONTE PERDIDO;7;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;443000;4471763;N;NULL
+2024S000552;08/01/2024;20:20:00;M-30 CALZADA 2 P.K. 12.000;13XL00;12;USERA;Colisión lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;441211;4470603;N;NULL
+2024S000552;08/01/2024;20:20:00;M-30 CALZADA 2 P.K. 12.000;13XL00;12;USERA;Colisión lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;441211;4470603;N;NULL
+2024S000552;08/01/2024;20:20:00;M-30 CALZADA 2 P.K. 12.000;13XL00;12;USERA;Colisión lateral;Despejado;Turismo;Pasajero;De 15 a 17 años;Mujer;NULL;NULL;441211;4470603;N;NULL
+2024S000552;08/01/2024;20:20:00;M-30 CALZADA 2 P.K. 12.000;13XL00;12;USERA;Colisión lateral;Despejado;Turismo;Pasajero;De 40 a 44 años;Mujer;NULL;NULL;441211;4470603;N;NULL
+2024S000553;08/01/2024;21:15:00;CALL. SAN MAXIMILIANO, 33;33;15;CIUDAD LINEAL;Alcance;Despejado;Motocicleta > 125cc;Conductor;De 50 a 54 años;Hombre;1;Atención en urgencias sin posterior ingreso;444561;4475132;N;NULL
+2024S000553;08/01/2024;21:15:00;CALL. SAN MAXIMILIANO, 33;33;15;CIUDAD LINEAL;Alcance;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;444561;4475132;N;NULL
+2024S000553;08/01/2024;21:15:00;CALL. SAN MAXIMILIANO, 33;33;15;CIUDAD LINEAL;Alcance;Despejado;Turismo;Pasajero;De 21 a 24 años;Mujer;14;Sin asistencia sanitaria;444561;4475132;N;NULL
+2024S000554;08/01/2024;21:25:00;AUTOV. M-23 / 0,600;0;14;MORATALAZ;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;444760;4474179;N;NULL
+2024S000554;08/01/2024;21:25:00;AUTOV. M-23 / 0,600;0;14;MORATALAZ;Alcance;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;444760;4474179;N;NULL
+2024S000556;08/01/2024;23:05:00;CALL. SERRANO / CALL. JUAN BRAVO;69;4;SALAMANCA;Colisión fronto-lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 35 a 39 años;Hombre;3;Ingreso superior a 24 horas;441757;4476043;N;NULL
+2024S000556;08/01/2024;23:05:00;CALL. SERRANO / CALL. JUAN BRAVO;69;4;SALAMANCA;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 35 a 39 años;Mujer;14;Sin asistencia sanitaria;441757;4476043;N;NULL
+2024S000556;08/01/2024;23:05:00;CALL. SERRANO / CALL. JUAN BRAVO;69;4;SALAMANCA;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 10 a 14 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;441757;4476043;N;NULL
+2024S000556;08/01/2024;23:05:00;CALL. SERRANO / CALL. JUAN BRAVO;69;4;SALAMANCA;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 6 a 9 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;441757;4476043;N;NULL
+2024S000556;08/01/2024;23:05:00;CALL. SERRANO / CALL. JUAN BRAVO;69;4;SALAMANCA;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 6 a 9 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;441757;4476043;N;NULL
+2024S000557;08/01/2024;22:20:00;AVDA. BUENOS AIRES / AVDA. ALBUFERA;2;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;444542;4471369;N;NULL
+2024S000557;08/01/2024;22:20:00;AVDA. BUENOS AIRES / AVDA. ALBUFERA;2;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Conductor;De 65 a 69 años;Hombre;NULL;NULL;444542;4471369;N;NULL
+2024S000557;08/01/2024;22:20:00;AVDA. BUENOS AIRES / AVDA. ALBUFERA;2;13;PUENTE DE VALLECAS;Alcance;Despejado;Turismo;Pasajero;De 21 a 24 años;Hombre;NULL;NULL;444542;4471369;N;NULL
+2024S000558;08/01/2024;22:20:00;CALL. TUDESCOS / CALL. MIGUEL MOYA;4;1;CENTRO;Atropello a persona;Despejado;Ciclomotor;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;440138;4474729;N;NULL
+2024S000558;08/01/2024;22:20:00;CALL. TUDESCOS / CALL. MIGUEL MOYA;4;1;CENTRO;Atropello a persona;Despejado;Ciclomotor;Peatón;De 18 a 20 años;Mujer;1;Atención en urgencias sin posterior ingreso;440138;4474729;N;NULL
+2024S000559;09/01/2024;1:40:00;CALL. FRAGATA / CALL. MATILDE HERNANDEZ;1;11;CARABANCHEL;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;437788;4471700;N;NULL
+2024S000559;09/01/2024;1:40:00;CALL. FRAGATA / CALL. MATILDE HERNANDEZ;1;11;CARABANCHEL;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;437788;4471700;N;NULL
+2024S000559;09/01/2024;1:40:00;CALL. FRAGATA / CALL. MATILDE HERNANDEZ;1;11;CARABANCHEL;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;437788;4471700;N;NULL
+2024S000559;09/01/2024;1:40:00;CALL. FRAGATA / CALL. MATILDE HERNANDEZ;1;11;CARABANCHEL;Choque contra obstáculo fijo;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;437788;4471700;N;NULL
+2024S000560;09/01/2024;6:10:00;AUTOV. M-30, 05XC50;05XC50;15;CIUDAD LINEAL;Colisión lateral;Despejado;Camión rígido;Conductor;De 40 a 44 años;Hombre;14;Sin asistencia sanitaria;444049;4476369;N;NULL
+2024S000560;09/01/2024;6:10:00;AUTOV. M-30, 05XC50;05XC50;15;CIUDAD LINEAL;Colisión lateral;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;444049;4476369;N;NULL
+2024S000562;09/01/2024;7:30:00;CALL. VILLALONSO / AVDA. REAL DE PINTO;3;17;VILLAVERDE;Colisión lateral;Despejado;Turismo;Conductor;De 30 a 34 años;Mujer;NULL;NULL;440010;4466796;N;NULL
+2024S000562;09/01/2024;7:30:00;CALL. VILLALONSO / AVDA. REAL DE PINTO;3;17;VILLAVERDE;Colisión lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Mujer;NULL;NULL;440010;4466796;N;NULL
+2024S000563;09/01/2024;7:15:00;CALL. LA ADRADA / CALL. CORRAL DE ALMAGUER;1;18;VILLA DE VALLECAS;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 25 a 29 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;448227;4469014;N;NULL
+2024S000563;09/01/2024;7:15:00;CALL. LA ADRADA / CALL. CORRAL DE ALMAGUER;1;18;VILLA DE VALLECAS;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;448227;4469014;N;NULL
+2024S000563;09/01/2024;7:15:00;CALL. LA ADRADA / CALL. CORRAL DE ALMAGUER;1;18;VILLA DE VALLECAS;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 30 a 34 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;448227;4469014;N;NULL
+2024S000564;09/01/2024;8:55:00;AVDA. PABLO NERUDA / CALL. MALGRAT DE MAR;5;13;PUENTE DE VALLECAS;Atropello a persona;Nublado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;445569;4471531;N;NULL
+2024S000564;09/01/2024;8:55:00;AVDA. PABLO NERUDA / CALL. MALGRAT DE MAR;5;13;PUENTE DE VALLECAS;Atropello a persona;Nublado;Turismo;Peatón;De 55 a 59 años;Mujer;2;Ingreso inferior o igual a 24 horas;445569;4471531;N;NULL
+2024S000565;09/01/2024;7:59:00;CALL. CONDE DUQUE, 15;15;1;CENTRO;Atropello a persona;Despejado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;439819;4475626;N;NULL
+2024S000565;09/01/2024;7:59:00;CALL. CONDE DUQUE, 15;15;1;CENTRO;Atropello a persona;Despejado;Turismo;Peatón;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;439819;4475626;N;NULL
+2024S000566;09/01/2024;9:10:00;CALL. SILVANO, 99;99;16;HORTALEZA;Vuelco;Nublado;Turismo;Conductor;De 40 a 44 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;446271;4479310;N;NULL
+2024S000566;09/01/2024;9:10:00;CALL. SILVANO, 99;99;16;HORTALEZA;Vuelco;Nublado;Turismo;Conductor;De 60 a 64 años;Mujer;14;Sin asistencia sanitaria;446271;4479310;N;NULL
+2024S000567;09/01/2024;9:16:00;CALL. PEDRO SALINAS / CALL. PABLO VIDAL;11;15;CIUDAD LINEAL;Colisión fronto-lateral;NULL;Turismo;Conductor;De 21 a 24 años;Mujer;NULL;NULL;443807;4478852;N;NULL
+2024S000567;09/01/2024;9:16:00;CALL. PEDRO SALINAS / CALL. PABLO VIDAL;11;15;CIUDAD LINEAL;Colisión fronto-lateral;NULL;Turismo;Conductor;De 21 a 24 años;Mujer;NULL;NULL;443807;4478852;N;NULL
+2024S000567;09/01/2024;9:16:00;CALL. PEDRO SALINAS / CALL. PABLO VIDAL;11;15;CIUDAD LINEAL;Colisión fronto-lateral;NULL;Turismo;Pasajero;De 15 a 17 años;Hombre;NULL;NULL;443807;4478852;N;NULL
+2024S000568;09/01/2024;9:00:00;CALL. LOPEZ DE HOYOS, 86;86;5;CHAMARTÍN;Colisión frontal;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;442652;4477104;N;NULL
+2024S000568;09/01/2024;9:00:00;CALL. LOPEZ DE HOYOS, 86;86;5;CHAMARTÍN;Colisión frontal;Despejado;Turismo;Conductor;De 50 a 54 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;442652;4477104;N;NULL
+2024S000569;09/01/2024;7:45:00;CALL. ALCALA, 369;369;15;CIUDAD LINEAL;Colisión lateral;Despejado;Furgoneta;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;445255;4476173;N;NULL
+2024S000569;09/01/2024;7:45:00;CALL. ALCALA, 369;369;15;CIUDAD LINEAL;Colisión lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 55 a 59 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;445255;4476173;N;NULL
+2024S000570;09/01/2024;9:10:00;CALL. FORTUNATA Y JACINTA, 31;31;6;TETUÁN;Colisión fronto-lateral;NULL;Turismo;Conductor;De 45 a 49 años;Mujer;NULL;NULL;441034;4478382;N;NULL
+2024S000570;09/01/2024;9:10:00;CALL. FORTUNATA Y JACINTA, 31;31;6;TETUÁN;Colisión fronto-lateral;NULL;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;441034;4478382;N;NULL
+2024S000571;08/01/2024;11:30:00;CALL. ALMERIA, 8;8;4;SALAMANCA;Choque contra obstáculo fijo;Despejado;Maquinaria de obras;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;443831;4475675;N;NULL
+2024S000572;09/01/2024;8:55:00;CALL. AGUILAFUENTE, 1;1;9;MONCLOA-ARAVACA;Caída;Nublado;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;439683;4479264;N;NULL
+2024S000573;09/01/2024;8:15:00;CALL. GENERAL CABRERA / CALL. SAN GERMAN;22;6;TETUÁN;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 35 a 39 años;Mujer;14;Sin asistencia sanitaria;440990;4478650;N;NULL
+2024S000573;09/01/2024;8:15:00;CALL. GENERAL CABRERA / CALL. SAN GERMAN;22;6;TETUÁN;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Mujer;14;Sin asistencia sanitaria;440990;4478650;N;NULL
+2024S000573;09/01/2024;8:15:00;CALL. GENERAL CABRERA / CALL. SAN GERMAN;22;6;TETUÁN;Colisión fronto-lateral;Despejado;Turismo;Pasajero;De 10 a 14 años;Mujer;2;Ingreso inferior o igual a 24 horas;440990;4478650;N;NULL
+2024S000574;09/01/2024;9:15:00;CALL. ALEJANDRO RODRIGUEZ, 25;25;6;TETUÁN;Colisión lateral;Despejado;Camión rígido;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;439768;4478441;N;NULL
+2024S000574;09/01/2024;9:15:00;CALL. ALEJANDRO RODRIGUEZ, 25;25;6;TETUÁN;Colisión lateral;Despejado;Furgoneta;Conductor;De 65 a 69 años;Hombre;NULL;NULL;439768;4478441;N;NULL
+2024S000574;09/01/2024;9:15:00;CALL. ALEJANDRO RODRIGUEZ, 25;25;6;TETUÁN;Colisión lateral;Despejado;Todo terreno;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;439768;4478441;N;NULL
+2024S000575;09/01/2024;10:15:00;PASEO. CASTELLANA, 259A;259A;8;FUENCARRAL-EL PARDO;Colisión lateral;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;441760;4480751;N;NULL
+2024S000575;09/01/2024;10:15:00;PASEO. CASTELLANA, 259A;259A;8;FUENCARRAL-EL PARDO;Colisión lateral;Despejado;Vehículo articulado;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;441760;4480751;N;NULL
+2024S000576;09/01/2024;8:50:00;AUTOV. M-30, 04RA60;04RA60;15;CIUDAD LINEAL;Colisión múltiple;Despejado;Furgoneta;Conductor;De 50 a 54 años;Hombre;NULL;NULL;444135;4477269;N;NULL
+2024S000576;09/01/2024;8:50:00;AUTOV. M-30, 04RA60;04RA60;15;CIUDAD LINEAL;Colisión múltiple;Despejado;Furgoneta;Pasajero;De 25 a 29 años;Hombre;NULL;NULL;444135;4477269;N;NULL
+2024S000576;09/01/2024;8:50:00;AUTOV. M-30, 04RA60;04RA60;15;CIUDAD LINEAL;Colisión múltiple;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;444135;4477269;N;NULL
+2024S000576;09/01/2024;8:50:00;AUTOV. M-30, 04RA60;04RA60;15;CIUDAD LINEAL;Colisión múltiple;Despejado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;444135;4477269;N;NULL
+2024S000577;09/01/2024;9:00:00;AUTOV. M-30, 00NC80;00NC80;5;CHAMARTÍN;Colisión múltiple;Despejado;Furgoneta;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;442827;4480968;N;NULL
+2024S000577;09/01/2024;9:00:00;AUTOV. M-30, 00NC80;00NC80;5;CHAMARTÍN;Colisión múltiple;Despejado;Turismo;Conductor;De 25 a 29 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;442827;4480968;N;NULL
+2024S000577;09/01/2024;9:00:00;AUTOV. M-30, 00NC80;00NC80;5;CHAMARTÍN;Colisión múltiple;Despejado;Turismo;Conductor;De 35 a 39 años;Mujer;14;Sin asistencia sanitaria;442827;4480968;N;NULL
+2024S000577;09/01/2024;9:00:00;AUTOV. M-30, 00NC80;00NC80;5;CHAMARTÍN;Colisión múltiple;Despejado;Turismo;Conductor;De 35 a 39 años;Mujer;14;Sin asistencia sanitaria;442827;4480968;N;NULL
+2024S000577;09/01/2024;9:00:00;AUTOV. M-30, 00NC80;00NC80;5;CHAMARTÍN;Colisión múltiple;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;442827;4480968;N;NULL
+2024S000577;09/01/2024;9:00:00;AUTOV. M-30, 00NC80;00NC80;5;CHAMARTÍN;Colisión múltiple;Despejado;Turismo;Pasajero;De 10 a 14 años;Mujer;14;Sin asistencia sanitaria;442827;4480968;N;NULL
+2024S000578;08/01/2024;12:42:00;AUTOV. M-30, 00RN03;00RN03;15;CIUDAD LINEAL;Colisión lateral;Despejado;Motocicleta > 125cc;Conductor;De 65 a 69 años;Hombre;NULL;NULL;442958;4480518;N;NULL
+2024S000578;08/01/2024;12:42:00;AUTOV. M-30, 00RN03;00RN03;15;CIUDAD LINEAL;Colisión lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;NULL;NULL;442958;4480518;N;NULL
+2024S000579;09/01/2024;10:05:00;CALL. JERONIMA LLORENTE, 1;1;6;TETUÁN;Caída;Despejado;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;440226;4478656;N;NULL
+2024S000582;09/01/2024;10:25:00;CALL. MESENA, 33;33;15;CIUDAD LINEAL;Alcance;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;443822;4479515;N;NULL
+2024S000582;09/01/2024;10:25:00;CALL. MESENA, 33;33;15;CIUDAD LINEAL;Alcance;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;443822;4479515;N;NULL
+2024S000583;09/01/2024;13:00:00;CALL. JOSE ORTEGA Y GASSET / CALL. VELAZQUEZ;16;4;SALAMANCA;Colisión lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 45 a 49 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;441999;4475731;N;NULL
+2024S000583;09/01/2024;13:00:00;CALL. JOSE ORTEGA Y GASSET / CALL. VELAZQUEZ;16;4;SALAMANCA;Colisión lateral;Despejado;Turismo;Conductor;De 60 a 64 años;Mujer;14;Sin asistencia sanitaria;441999;4475731;N;NULL
+2024S000586;09/01/2024;11:35:00;AVDA. ANDALUCIA / CALL. UNANIMIDAD;49;17;VILLAVERDE;Choque contra obstáculo fijo;Despejado;Camión rígido;Conductor;De 55 a 59 años;Mujer;NULL;NULL;441080;4468250;N;NULL
+2024S000587;09/01/2024;13:28:00;CALL. SIMPATIA / AVDA. MIGUEL DELIBES;1;19;VICÁLVARO;Alcance;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;452891;4472650;N;NULL
+2024S000587;09/01/2024;13:28:00;CALL. SIMPATIA / AVDA. MIGUEL DELIBES;1;19;VICÁLVARO;Alcance;Despejado;Turismo;Conductor;De 35 a 39 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;452891;4472650;N;NULL
+2024S000588;09/01/2024;13:10:00;CALL. CARTAGENA / CALL. AZCONA;32;4;SALAMANCA;Colisión fronto-lateral;Nublado;Otros vehículos con motor;Conductor;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;443137;4476117;N;NULL
+2024S000588;09/01/2024;13:10:00;CALL. CARTAGENA / CALL. AZCONA;32;4;SALAMANCA;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;443137;4476117;N;NULL
+2024S000589;08/01/2024;20:30:00;CALL. ALBASANZ / CALL. SAN ROMUALDO;71;20;SAN BLAS-CANILLEJAS;Colisión fronto-lateral;Nublado;Motocicleta > 125cc;Conductor;De 30 a 34 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;447259;4476671;N;NULL
+2024S000589;08/01/2024;20:30:00;CALL. ALBASANZ / CALL. SAN ROMUALDO;71;20;SAN BLAS-CANILLEJAS;Colisión fronto-lateral;Nublado;Turismo;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;447259;4476671;N;NULL
+2024S000590;09/01/2024;13:50:00;CALL. NUESTRA SEÑORA DE VALVERDE, 2;2;8;FUENCARRAL-EL PARDO;Choque contra obstáculo fijo;Nublado;Turismo;Conductor;De 40 a 44 años;Hombre;NULL;NULL;441979;4484682;N;NULL
+2024S000592;09/01/2024;14:15:00;CALL. LAS SANTERAS / CALL. LA HUERTA DE LOS RUEDA;39;19;VICÁLVARO;Alcance;Despejado;Furgoneta;Conductor;De 30 a 34 años;Hombre;14;Sin asistencia sanitaria;449919;4471343;N;NULL
+2024S000592;09/01/2024;14:15:00;CALL. LAS SANTERAS / CALL. LA HUERTA DE LOS RUEDA;39;19;VICÁLVARO;Alcance;Despejado;Furgoneta;Conductor;De 35 a 39 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;449919;4471343;N;NULL
+2024S000601;09/01/2024;14:30:00;CALL. PRINCESA, 31;31;9;MONCLOA-ARAVACA;Alcance;Despejado;Ciclomotor;Conductor;De 40 a 44 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;439386;4475527;N;NULL
+2024S000601;09/01/2024;14:30:00;CALL. PRINCESA, 31;31;9;MONCLOA-ARAVACA;Alcance;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;439386;4475527;N;NULL
+2024S000616;09/01/2024;16:23:00;AUTOV. M-30, CALZADA 1 , PK32;32RA14;5;CHAMARTÍN;Otro;NULL;Motocicleta > 125cc;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;442527;4481664;N;NULL
+2024S000627;09/01/2024;15:15:00;CALL. DATIL, 5;5;11;CARABANCHEL;Colisión múltiple;Nublado;Turismo;Conductor;De 21 a 24 años;Mujer;NULL;NULL;436425;4469828;N;NULL
+2024S000627;09/01/2024;15:15:00;CALL. DATIL, 5;5;11;CARABANCHEL;Colisión múltiple;Nublado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;436425;4469828;N;NULL
+2024S000627;09/01/2024;15:15:00;CALL. DATIL, 5;5;11;CARABANCHEL;Colisión múltiple;Nublado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;436425;4469828;N;NULL
+2024S000627;09/01/2024;15:15:00;CALL. DATIL, 5;5;11;CARABANCHEL;Colisión múltiple;Nublado;Turismo;Pasajero;De 21 a 24 años;Mujer;NULL;NULL;436425;4469828;N;NULL
+2024S000679;09/01/2024;15:24:00;CALL. GUZMAN EL BUENO, 135;135;7;CHAMBERÍ;Colisión múltiple;Nublado;Furgoneta;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;439573;4477191;N;NULL
+2024S000679;09/01/2024;15:24:00;CALL. GUZMAN EL BUENO, 135;135;7;CHAMBERÍ;Colisión múltiple;Nublado;Furgoneta;Pasajero;De 55 a 59 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;439573;4477191;N;NULL
+2024S000679;09/01/2024;15:24:00;CALL. GUZMAN EL BUENO, 135;135;7;CHAMBERÍ;Colisión múltiple;Nublado;Turismo;Conductor;De 35 a 39 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;439573;4477191;N;NULL
+2024S000679;09/01/2024;15:24:00;CALL. GUZMAN EL BUENO, 135;135;7;CHAMBERÍ;Colisión múltiple;Nublado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;439573;4477191;N;NULL
+2024S000679;09/01/2024;15:24:00;CALL. GUZMAN EL BUENO, 135;135;7;CHAMBERÍ;Colisión múltiple;Nublado;Turismo;Pasajero;De 55 a 59 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;439573;4477191;N;NULL
+2024S000682;09/01/2024;16:20:00;CALL. AYALA, 1;1;4;SALAMANCA;Alcance;Despejado;Bicicleta EPAC (pedaleo asistido);Conductor;De 25 a 29 años;Mujer;6;Asistencia sanitaria inmediata en centro de salud o mutua;441553;4475486;N;NULL
+2024S000682;09/01/2024;16:20:00;CALL. AYALA, 1;1;4;SALAMANCA;Alcance;Despejado;Turismo;Conductor;De 60 a 64 años;Hombre;14;Sin asistencia sanitaria;441553;4475486;N;NULL
+2024S000684;09/01/2024;15:55:00;CALL. CONDE DE PEÑALVER / CALL. JUAN BRAVO;76;4;SALAMANCA;Caída;Despejado;Motocicleta hasta 125cc;Conductor;De 55 a 59 años;Mujer;2;Ingreso inferior o igual a 24 horas;442741;4475972;N;NULL
+2024S000684;09/01/2024;15:55:00;CALL. CONDE DE PEÑALVER / CALL. JUAN BRAVO;76;4;SALAMANCA;Caída;Despejado;VMU eléctrico;Conductor;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;442741;4475972;N;NULL
+2024S000691;09/01/2024;17:00:00;CALL. GENERAL RICARDOS, 184;184;11;CARABANCHEL;Alcance;Despejado;Motocicleta hasta 125cc;Conductor;De 25 a 29 años;Mujer;2;Ingreso inferior o igual a 24 horas;437652;4470936;N;NULL
+2024S000691;09/01/2024;17:00:00;CALL. GENERAL RICARDOS, 184;184;11;CARABANCHEL;Alcance;Despejado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;437652;4470936;N;NULL
+2024S000713;09/01/2024;17:07:00;GTA. SAN ANTONIO DE LA FLORIDA / GTA. SAN ANTONIO DE LA FLORIDA;1;9;MONCLOA-ARAVACA;Atropello a persona;Despejado;Turismo;Conductor;De 21 a 24 años;Mujer;14;Sin asistencia sanitaria;438400;4475215;N;NULL
+2024S000713;09/01/2024;17:07:00;GTA. SAN ANTONIO DE LA FLORIDA / GTA. SAN ANTONIO DE LA FLORIDA;1;9;MONCLOA-ARAVACA;Atropello a persona;Despejado;Turismo;Peatón;De 10 a 14 años;Mujer;7;Asistencia sanitaria sólo en el lugar del accidente;438400;4475215;N;NULL
+2024S000726;09/01/2024;16:28:00;PLAZA. REPUBLICA DE CHILE, 0;0;9;MONCLOA-ARAVACA;Otro;Despejado;Turismo;Conductor;De 45 a 49 años;Hombre;14;Sin asistencia sanitaria;437687;4476230;N;NULL
+2024S000726;09/01/2024;16:28:00;PLAZA. REPUBLICA DE CHILE, 0;0;9;MONCLOA-ARAVACA;Otro;Despejado;Turismo;Pasajero;De 55 a 59 años;Mujer;14;Sin asistencia sanitaria;437687;4476230;N;NULL
+2024S000726;09/01/2024;16:28:00;PLAZA. REPUBLICA DE CHILE, 0;0;9;MONCLOA-ARAVACA;Otro;Despejado;Turismo;Pasajero;Más de 74 años;Mujer;2;Ingreso inferior o igual a 24 horas;437687;4476230;N;NULL
+2024S000732;09/01/2024;17:40:00;AVDA. ENTREVIAS / CALL. SERENA;84;13;PUENTE DE VALLECAS;Colisión lateral;Despejado;Motocicleta > 125cc;Conductor;De 60 a 64 años;Hombre;2;Ingreso inferior o igual a 24 horas;443505;4470046;N;NULL
+2024S000732;09/01/2024;17:40:00;AVDA. ENTREVIAS / CALL. SERENA;84;13;PUENTE DE VALLECAS;Colisión lateral;Despejado;Turismo;Conductor;De 18 a 20 años;Hombre;14;Sin asistencia sanitaria;443505;4470046;N;NULL
+2024S000732;09/01/2024;17:40:00;AVDA. ENTREVIAS / CALL. SERENA;84;13;PUENTE DE VALLECAS;Colisión lateral;Despejado;Turismo;Pasajero;De 18 a 20 años;Hombre;14;Sin asistencia sanitaria;443505;4470046;N;NULL
+2024S000732;09/01/2024;17:40:00;AVDA. ENTREVIAS / CALL. SERENA;84;13;PUENTE DE VALLECAS;Colisión lateral;Despejado;Turismo;Pasajero;De 21 a 24 años;Hombre;14;Sin asistencia sanitaria;443505;4470046;N;NULL
+2024S000732;09/01/2024;17:40:00;AVDA. ENTREVIAS / CALL. SERENA;84;13;PUENTE DE VALLECAS;Colisión lateral;Despejado;Turismo;Pasajero;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;443505;4470046;N;NULL
+2024S000733;09/01/2024;16:02:00;CALL. DOCTOR ESQUERDO, 95;95;3;RETIRO;Alcance;Despejado;Motocicleta hasta 125cc;Conductor;De 30 a 34 años;Hombre;6;Asistencia sanitaria inmediata en centro de salud o mutua;443214;4474174;N;NULL
+2024S000733;09/01/2024;16:02:00;CALL. DOCTOR ESQUERDO, 95;95;3;RETIRO;Alcance;Despejado;Turismo;Conductor;De 45 a 49 años;Mujer;14;Sin asistencia sanitaria;443214;4474174;N;NULL
+2024S000734;09/01/2024;17:35:00;PASEO. CASTELLANA, 194;194;5;CHAMARTÍN;Colisión fronto-lateral;Despejado;Furgoneta;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;441526;4479253;N;NULL
+2024S000734;09/01/2024;17:35:00;PASEO. CASTELLANA, 194;194;5;CHAMARTÍN;Colisión fronto-lateral;Despejado;Motocicleta > 125cc;Conductor;De 30 a 34 años;Hombre;1;Atención en urgencias sin posterior ingreso;441526;4479253;N;NULL
+2024S000736;09/01/2024;19:10:00;CALL. TOLEDO, 171A;171A;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Motocicleta hasta 125cc;Conductor;De 25 a 29 años;Hombre;2;Ingreso inferior o igual a 24 horas;439446;4472641;N;NULL
+2024S000736;09/01/2024;19:10:00;CALL. TOLEDO, 171A;171A;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Motocicleta hasta 125cc;Peatón;De 25 a 29 años;Mujer;2;Ingreso inferior o igual a 24 horas;439446;4472641;N;NULL
+2024S000736;09/01/2024;19:10:00;CALL. TOLEDO, 171A;171A;2;ARGANZUELA;Colisión fronto-lateral;Despejado;Turismo;Conductor;De 55 a 59 años;Hombre;14;Sin asistencia sanitaria;439446;4472641;N;NULL
+2024S000737;09/01/2024;15:15:00;CALL. CONDE DE CARTAGENA, 4;4;3;RETIRO;Choque contra obstáculo fijo;NULL;Turismo;Conductor;De 25 a 29 años;Mujer;NULL;NULL;442590;4473384;N;NULL
+2024S000738;09/01/2024;18:35:00;PLAZA. ELIPTICA, 2;2;12;USERA;Alcance;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;439125;4470743;S;NULL
+2024S000738;09/01/2024;18:35:00;PLAZA. ELIPTICA, 2;2;12;USERA;Alcance;Despejado;Turismo;Conductor;De 35 a 39 años;Hombre;14;Sin asistencia sanitaria;439125;4470743;N;NULL
+2024S000739;09/01/2024;17:55:00;PLAZA. CASTILLA / CALL. MATEO INURRIA;1;6;TETUÁN;Alcance;Despejado;Motocicleta hasta 125cc;Conductor;De 40 a 44 años;Hombre;7;Asistencia sanitaria sólo en el lugar del accidente;441595;4479723;N;NULL
+2024S000739;09/01/2024;17:55:00;PLAZA. CASTILLA / CALL. MATEO INURRIA;1;6;TETUÁN;Alcance;Despejado;Turismo;Conductor;De 40 a 44 años;Mujer;14;Sin asistencia sanitaria;441595;4479723;N;NULL
+2024S000740;09/01/2024;19:40:00;AVDA. CANILLEJAS A VICALVARO, 127;127;20;SAN BLAS-CANILLEJAS;Alcance;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;448171;4475433;N;NULL
+2024S000740;09/01/2024;19:40:00;AVDA. CANILLEJAS A VICALVARO, 127;127;20;SAN BLAS-CANILLEJAS;Alcance;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;448171;4475433;N;NULL
+2024S000741;09/01/2024;19:10:00;AVDA. ALBUFERA, 323;323;13;PUENTE DE VALLECAS;Colisión múltiple;Despejado;Camión rígido;Conductor;De 40 a 44 años;Mujer;NULL;NULL;446498;4470442;N;NULL
+2024S000741;09/01/2024;19:10:00;AVDA. ALBUFERA, 323;323;13;PUENTE DE VALLECAS;Colisión múltiple;Despejado;Turismo;Conductor;De 25 a 29 años;Hombre;NULL;NULL;446498;4470442;N;NULL
+2024S000741;09/01/2024;19:10:00;AVDA. ALBUFERA, 323;323;13;PUENTE DE VALLECAS;Colisión múltiple;Despejado;Turismo;Conductor;Desconocido;Desconocido;NULL;NULL;446498;4470442;N;NULL
+2024S000742;09/01/2024;19:30:00;CALL. JOSE BARDASANO BAOS / CALL. CAIDOS DE LA DIVISION AZUL;1;5;CHAMARTÍN;Choque contra obstáculo fijo;Nublado;Turismo;Conductor;De 50 a 54 años;Hombre;14;Sin asistencia sanitaria;442961;4480014;N;NULL
+2024S000745;09/01/2024;14:25:00;PASEO. CASTELLANA, 150;150;5;CHAMARTÍN;Caída;Despejado;Motocicleta hasta 125cc;Conductor;De 50 a 54 años;Hombre;5;Asistencia sanitaria ambulatoria con posterioridad;441475;4478562;N;NULL
+2024S000746;09/01/2024;17:20:00;AUTOV. M-30, 19XC80;19XC80;9;MONCLOA-ARAVACA;Colisión múltiple;Nublado;Turismo;Conductor;De 30 a 34 años;Hombre;NULL;NULL;437684;4475465;N;NULL
+2024S000746;09/01/2024;17:20:00;AUTOV. M-30, 19XC80;19XC80;9;MONCLOA-ARAVACA;Colisión múltiple;Nublado;Turismo;Conductor;De 30 a 34 años;Mujer;NULL;NULL;437684;4475465;N;NULL
+2024S000746;09/01/2024;17:20:00;AUTOV. M-30, 19XC80;19XC80;9;MONCLOA-ARAVACA;Colisión múltiple;Nublado;Turismo;Conductor;De 40 a 44 años;Mujer;NULL;NULL;437684;4475465;N;NULL
+2024S000746;09/01/2024;17:20:00;AUTOV. M-30, 19XC80;19XC80;9;MONCLOA-ARAVACA;Colisión múltiple;Nublado;Turismo;Pasajero;De 6 a 9 años;Hombre;NULL;NULL;437684;4475465;N;NULL
+2024S000748;09/01/2024;19:45:00;PASEO. SANTA MARIA DE LA CABEZA / CALL. MARQUESA DE SILVELA;1;2;ARGANZUELA;Choque contra obstáculo fijo;NULL;Turismo;Conductor;De 35 a 39 años;Hombre;NULL;NULL;439198;4470856;N;NULL
+2024S000749;09/01/2024;19:00:00;AUTOV. M-30, 06NL38 BAJADA LATERAL  DESDE PUENTE VENTAS;06NL38;4;SALAMANCA;Alcance;Nublado;Turismo;Conductor;De 21 a 24 años;Hombre;NULL;NULL;443946;4475631;N;NULL
+2024S000749;09/01/2024;19:00:00;AUTOV. M-30, 06NL38 BAJADA LATERAL  DESDE PUENTE VENTAS;06NL38;4;SALAMANCA;Alcance;Nublado;Turismo;Conductor;De 21 a 24 años;Mujer;NULL;NULL;443946;4475631;N;NULL
+2024S000749;09/01/2024;19:00:00;AUTOV. M-30, 06NL38 BAJADA LATERAL  DESDE PUENTE VENTAS;06NL38;4;SALAMANCA;Alcance;Nublado;Turismo;Conductor;De 35 a 39 años;Mujer;NULL;NULL;443946;4475631;N;NULL
