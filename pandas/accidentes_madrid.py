@@ -25,3 +25,6 @@ print(data['tipo_vehiculo'].unique())
 print(data[data['tipo_vehiculo']=="Bicicleta"])
 print(data[(data['estado_meteorológico']=="Lluvia débil") & (data['rango_edad'] =='De 35 a 39 años')])
 print(data[(data['estado_meteorológico']=="Despejado") & (data['tipo_vehiculo'] =='Turismo') & (data['tipo_accidente'] =='Colisión lateral')])
+
+datos_despejado = data[(data['estado_meteorológico']=="Despejado") & (data['tipo_vehiculo'] =='Turismo') & (data['tipo_accidente'] =='Colisión lateral')]
+datos_despejado.to_csv("ejemplo.csv")
