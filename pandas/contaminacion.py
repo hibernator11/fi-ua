@@ -10,8 +10,6 @@ fichero = Path(__file__).parent / "co2_emmissions_by_state_2024.csv"
 print("########################## fichero")
 print("Fichero: " + str(fichero))
 
-
-
 # Abrimos fichero
 data = pd.read_csv(fichero, \
                    delimiter=',', skiprows=1, names=('YEAR','MONTH','STATE_NAME','STATE_CODE','CO2_QTY_TONNES','TF','NOTE'))
@@ -19,7 +17,6 @@ data = pd.read_csv(fichero, \
 # comprobamos los tipos de datos almacenados
 print("########################## tipos de datos")
 print(data.dtypes)
-
 
 # cambiamos el tipo de datos
 data['CO2_QTY_TONNES'] = data['CO2_QTY_TONNES'].astype('int32')
