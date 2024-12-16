@@ -20,13 +20,17 @@ class Zoo:
         return
     
     def test_de_vuelo(self):
+        print("Test de vuelo")
         for animal in zoo.animales:
             print(animal.volar())
+        print("#############")
         return
     
     def describeZoo(self):
+        print("Animales del zoo: " + self.nombre)
         for animal in zoo.animales:
             print(animal)
+        print("#############")
         return
     
     def guardar(self):
@@ -39,7 +43,7 @@ class Zoo:
         edad_lista = []
         for a in self.animales:
             edad_lista.append(a.edad)
-        print(edad_lista)
+        #print(edad_lista)
         array_edad = np.array(edad_lista)
         return np.mean(array_edad)
     
@@ -47,7 +51,7 @@ class Zoo:
         edad_lista = []
         for a in self.animales:
             edad_lista.append(a.edad)
-        print(edad_lista)
+        #print(edad_lista)
         array_edad = np.array(edad_lista)
         return np.max(array_edad)
 
@@ -68,13 +72,13 @@ class Loro(Animal):
         return 
 
     def volar(self):
-        return "El loro puede volar"
+        return "El loro " + self.nombre  + " puede volar"
 
     def nadar(self):
-        return "El loro no puedo nadar"
+        return "El loro " + self.nombre  + " no puedo nadar"
     
     def comer(self):
-        return "El loro come " + self.comida
+        return "El loro " + self.nombre  + " come " + self.comida
     
     def __str__(self):
         return self.nombre + " " + self.comida
@@ -89,10 +93,10 @@ class Pinguino(Animal):
         return 
 
     def volar(self):
-        return "El pingüino no puede volar"
+        return "El pingüino " + self.nombre  + " no puede volar"
 
     def nadar(self):
-        return "El pingüino puede nadar"
+        return "El pingüino " + self.nombre  + " puede nadar"
 
     def __str__(self):
         return self.nombre + " " + self.zona
