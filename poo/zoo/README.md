@@ -12,3 +12,24 @@ Para ello debemos crear las siguientes clases:
 La clase Zoo debe contener un atributo para almacenar los animales. Debe incluir un método para añadir animales y otro para borrar. También debe incluir un método que describa todos los animales del zoo. Además debe incluir un método para calcular la media y el maximo de edad de los animales. Por último, debe incluir un método que muestre para cada uno de los animales si puede volar. La información del zoo se puede guardar un fichero de texto, correspondiendo una línea para cada animal.
 
 Crea el código para poder probar todos los métodos propuestos.
+
+## Ejemplo de salida del programa propuesto
+
+```
+Animales del zoo: Zoo de Alicante
+Pepe fruta
+Juan fruta
+Juan fruta
+Luis Sudáfrica
+Alfredo Antártida
+#############
+Test de vuelo
+El loro Pepe puede volar
+El loro Juan puede volar
+El loro Juan puede volar
+El pingüino Luis no puede volar
+El pingüino Alfredo no puede volar
+#############
+Edad media de los animales del zoo:8.6
+Edad maxima de los animales del zoo:14
+```
