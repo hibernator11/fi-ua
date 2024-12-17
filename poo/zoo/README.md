@@ -26,7 +26,7 @@ Alfredo Antártida
 Test de vuelo
 El loro Pepe puede volar
 El loro Juan puede volar
-El loro Juan puede volar
+El loro Andres puede volar
 El pingüino Luis no puede volar
 El pingüino Alfredo no puede volar
 #############
