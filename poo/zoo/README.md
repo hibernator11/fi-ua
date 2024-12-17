@@ -9,7 +9,7 @@ Para ello debemos crear las siguientes clases:
 - Una clase Loro que hereda de Animal y con un atributo adicional comida
 - Una clase Pinguino que hereda de Animal y con un atributo adicional zona que representa la zona donde vive
 
-La clase Zoo debe contener un atributo para almacenar los animales. Debe incluir un método para añadir animales y otro para borrar. También debe incluir un método que describa todos los animales del zoo. Además debe incluir un método para calcular la media y el maximo de edad de los animales. Por último, debe incluir un método que muestre para cada uno de los animales si puede volar. La información del zoo se puede guardar un fichero de texto, correspondiendo una línea para cada animal.
+La clase Zoo debe contener un atributo para almacenar los animales. Debe incluir un método para añadir animales y otro para borrar. También debe incluir un método que describa todos los animales del zoo. Además debe incluir un método para calcular la media y el máximo de edad de los animales. Por último, debe incluir un método que muestre para cada uno de los animales si puede volar. La información del zoo se puede guardar en un fichero de texto, correspondiendo una línea para cada animal.
 
 Crea el código para poder probar todos los métodos propuestos.
 
@@ -19,7 +19,7 @@ Crea el código para poder probar todos los métodos propuestos.
 Animales del zoo: Zoo de Alicante
 Pepe fruta
 Juan fruta
-Juan fruta
+Andres fruta
 Luis Sudáfrica
 Alfredo Antártida
 #############
