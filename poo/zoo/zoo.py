@@ -107,7 +107,7 @@ class Pinguino(Animal):
 # instancias
 loro = Loro(10, "rojo", "Pepe", "fruta")
 loro1 = Loro(14, "naranja", "Juan", "fruta")
-loro2 = Loro(8, "amarillo", "Juan", "fruta")
+loro2 = Loro(8, "amarillo", "Andres", "fruta")
 pinguino = Pinguino(5, "blanco", "Luis", "Sudáfrica")
 pinguino1 = Pinguino(6, "negro", "Alfredo", "Antártida")
 
