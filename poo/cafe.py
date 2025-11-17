@@ -5,7 +5,7 @@ class Cafe:
         self.precio = float(precio)
     
     def comprueba_presupuesto(self, presupuesto):
-        # Check if the budget is valid
+        # Comprobar que el presupuesto es correcto
         if not isinstance(presupuesto, (int, float)):
             print('Error, introduce un número por favor')
             exit()
