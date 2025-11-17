@@ -8,10 +8,10 @@ class Cafe:
         # Comprobar que el presupuesto es correcto
         if not isinstance(presupuesto, (int, float)):
             print('Error, introduce un número por favor')
-            exit()
+            return
         if presupuesto < 0: 
             print('Lo siento, no tienes dinero') 
-            exit() 
+            return 
     
     def devuelve_cambio(self, presupuesto):
         return presupuesto - self.precio
@@ -25,16 +25,18 @@ class Cafe:
             else:
                 print(f'Su cambio {self.devuelve_cambio(presupuesto)}')
 
-            exit('¡Muchas gracias por su compra!')
+            return '¡Muchas gracias por su compra!'
 
 pequeño = Cafe('Pequeño', 2)
 medio = Cafe('Medio', 5)
 grande = Cafe('Grande', 6)
- 
-try:
-   presupuesto = float(input('¿Cuál es su presupuesto? '))
-except ValueError:
-   exit('Por favor, introduzca un número')
+
+presupuesto = 0
+while presupuesto <= 0:
+    try:
+       presupuesto = float(input('¿Cuál es su presupuesto? '))
+    except ValueError:
+        print ('Por favor, introduzca un número')
   
 for cafe in [pequeño, medio, grande]:
    cafe.vender(presupuesto)
