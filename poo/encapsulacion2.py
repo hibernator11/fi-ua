@@ -15,5 +15,5 @@ class Prueba:
 prueba = Prueba()
 prueba.__atributo_privado = "puedo acceder"
 
-print(prueba.__atributo_privado)
-print(prueba.getAtributoPrivado())   
+print(prueba.__atributo_privado) # salida: puedo acceder
+print(prueba.getAtributoPrivado())  # salida: Soy un atributo privado
