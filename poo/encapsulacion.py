@@ -1,6 +1,10 @@
-class Prueba:
-    atributo_publico = "Soy un atributo publico"   # Accesible desde el exterior
-    __atributo_privado = "Soy un atributo privado" # No accesible
+class Padre:
+    def __init__(self):
+        self.__atributo_privado = "Atributo privado"
+    
+    # No accesible desde el exterior
+    def get_atributo_privado(self):
+        return self.__atributo_privado
 
     # No accesible desde el exterior
     def __metodo_privado(self):
@@ -8,11 +12,22 @@ class Prueba:
 
     # Accesible desde el exterior
     def metodo_publico(self):
-        # El método si es accesible desde el interior
+        # El método y atributo privados si son accesibles desde el interior de la clase
         self.__metodo_privado()
+        print(self.__atributo_privado)
+        
+class Hija(Padre):
+    def __init__(self):
+        super().__init__()
+        print(self.get_atributo_privado()) # ok
+        #print(self.__atributo_privado) # Error
 
-prueba = Prueba()
-#prueba.__atributo_privado  # Error! El atributo no es accesible
-#prueba.__metodo_privado()  # Error! El método no es accesible
-prueba.atributo_publico     # Ok!
+# ejemplos clase padre
+prueba = Padre()
+#prueba.__atributo_privado  # Error! El atributo no es accesible desde fuera
+#prueba.__metodo_privado()  # Error! El método no es accesible desde fuera
 prueba.metodo_publico()     # Ok!
+print(prueba.get_atributo_privado()) # Ok!
+
+# ejemplos clase hija
+hija = Hija()   
