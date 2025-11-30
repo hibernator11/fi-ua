@@ -47,6 +47,10 @@ print(data_es)
 data_es['CO2_QTY_TONNES'].plot(kind='line')
 plt.show()
 
+print("########################## imprimimos la curva de CO2 para España con los meses")
+data_es.plot.line(x='MONTH', y='CO2_QTY_TONNES')
+plt.show()
+
 fichero_espanya = Path(__file__).parent / "datos-espanya.csv"
 print("########################## guardamos en fichero")
 print("Fichero: " + str(fichero_espanya))
