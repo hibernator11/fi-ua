@@ -6,7 +6,7 @@ print (Path(__file__).parent)
 
 # Montamos la ruta correcta al fichero csv.
 # Path(__file__).parent devuelve la ruta de ejecución del fichero
-fichero = Path(__file__).parent / "csv/wikidata-paises.csv"
+fichero = Path(__file__).parent / "../csv/wikidata-paises.csv"
 print("########################## fichero")
 print("Fichero: " + str(fichero))
 
